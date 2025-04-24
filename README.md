@@ -1,59 +1,51 @@
-# 🗂 Task Manager Application
+# 👨‍💻 Thomas Edward Hill – Project Portfolio
 
-A command-line based Task Management System built with Python. This application allows users to manage tasks, track completion, and handle user administration with role-based access, including admin features. Designed to reinforce file handling, control structures, data validation, and modular programming.
-
----
-
-## 🚀 Features
-
-- ✅ Secure user login with password verification
-- 🔒 Admin-only access to user registration and account editing
-- 📝 Task creation, editing, and automatic task number assignment
-- 📅 Due date entry with leap year and format validation
-- 🧾 Task overview in both block format and tabulated display using `tabulate`
-- ❌ Filtering of incomplete tasks only (for personal task view)
-- 🔁 Reassignment of tasks when users are deleted
-- 🎨 Enhanced terminal display using `colorama`
+Welcome! I'm Thomas, a career-changer transitioning into Data Engineering with a strong foundation in chemistry, technical sales, and automation. This GitHub repository showcases selected personal and professional projects that demonstrate my growing skill set in Python, SQL, data pipelines, and software development.
 
 ---
 
-## 📁 Files
+## 🧠 About Me
 
-- `main.py` – Core application logic
-- `user.txt` – Stores username/password data
-- `tasks.txt` – Stores task data in a comma-separated format
-
----
-
-## 📦 Tech Stack
-
-- **Python 3**
-- [`tabulate`](https://pypi.org/project/tabulate/) – Pretty-printed tables
-- [`colorama`](https://pypi.org/project/colorama/) – Terminal text styling
+- 🎓 **MChem Chemistry**, First-Class Honours – Durham University  
+- 🎯 Currently completing a **Data Science Bootcamp** with *HyperionDev and Imperial College London*
+- 🔁 Transitioning from a background in **technical sales and automation** to **data engineering**
+- 💬 Passionate about creating reliable, scalable data solutions and communicating technical ideas clearly
 
 ---
 
-## 🧠 Key Concepts Practised
+## 📂 Project Highlights
 
-- File I/O (reading/writing to `.txt` files)
-- Input validation and exception handling
-- Functions and modular coding
-- Data formatting and conditional logic
-- User role management (admin vs standard user)
-- Data persistence without a database
+### 🔧 Task Manager (Python)
+A file-based command-line application for managing users and tasks. Features include role-based permissions, due date validation, and rich terminal output.  
+**Skills:** Python, file I/O, functions, data validation, CLI design, modular code
+
+### 🔍 Fake News Detection
+Used natural language processing and machine learning to identify misinformation in online news articles.  
+**Skills:** Python, NLP, scikit-learn, Pandas, classification models
+
+### 🧠 Vision System Integration – Keyence (Jaguar Land Rover)
+Deployed machine vision algorithms for detecting engine defects on production lines. Eliminated false positives and optimised detection accuracy.  
+**Skills:** Automation, defect classification, industrial systems, stakeholder engagement
 
 ---
 
-## 📸 Screenshots
+## 🛠 Technologies & Tools
 
-_Coming soon..._
+- **Languages:** Python, SQL
+- **Libraries:** Pandas, NumPy, Matplotlib, tabulate, colorama
+- **Tools:** Git, GitHub, Tableau, MySQL, SQLite
+- **Concepts:** Data Pipelines, ETL, Batch Processing, Data Wrangling, File Handling
+- **Methodologies:** Agile collaboration, technical documentation, stakeholder communication
 
 ---
 
-## 🔧 Installation & Usage
+## 📫 Get in Touch
 
-1. Clone the repo:
+- 💼 [LinkedIn](https://www.linkedin.com/in/thomas-edward-hill/)
+- 💻 [GitHub](https://github.com/TEHill1910)
+- 📬 Email: thomas_e_hill@outlook.com
 
-   ```bash
-   git clone https://github.com/TEHill1910/task-manager.git
-   cd task-manager
+---
+
+> “I believe data is only as valuable as the insights and outcomes it enables. I'm here to help make that happen.”
+
