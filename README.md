@@ -19,14 +19,6 @@ Welcome! I'm Thomas, a career-changer transitioning into Data Engineering with a
 A file-based command-line application for managing users and tasks. Features include role-based permissions, due date validation, and rich terminal output.  
 **Skills:** Python, file I/O, functions, data validation, CLI design, modular code
 
-### 🔍 Fake News Detection
-Used natural language processing and machine learning to identify misinformation in online news articles.  
-**Skills:** Python, NLP, scikit-learn, Pandas, classification models
-
-### 🧠 Vision System Integration – Keyence (Jaguar Land Rover)
-Deployed machine vision algorithms for detecting engine defects on production lines. Eliminated false positives and optimised detection accuracy.  
-**Skills:** Automation, defect classification, industrial systems, stakeholder engagement
-
 ---
 
 ## 🛠 Technologies & Tools
