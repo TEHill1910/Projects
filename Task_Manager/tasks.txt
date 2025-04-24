@@ -1,0 +1,39 @@
+steve, Equipment Audit Prep, Check IT hardware, 12 Apr 2025, 28 Mar 2025, No
+bob, Printer, Replace toner and ink, 16 Apr 2025, 28 Mar 2025, No
+john, Finish Task Manager, complete task_manager.py, 29 Feb 2028, 31 Mar 2025, No
+Admin, Audit Logs, Review system logs, 17 Apr 2025, 28 Mar 2025, Yes
+tommy, Perf Test, Run checkout tests, 11 Apr 2025, 28 Mar 2025, Yes
+john, UI Review, Check for consistency, 22 Apr 2025, 28 Mar 2025, No
+bob, Dashboard, Add Q1 KPI data, 19 Apr 2025, 28 Mar 2025, Yes
+Admin, Domains, organise renewals, 21 Apr 2025, 28 Mar 2025, Yes
+tommy, Tidy Up, Clean shared space, 24 Apr 2025, 28 Mar 2025, Yes
+steve, Blog Video, Record intro clip, 03 Apr 2025, 28 Mar 2025, Yes
+john, Onboarding, Revise guide docs, 15 Apr 2025, 28 Mar 2025, Yes
+Admin, Campaign, Launch spring ads, 14 Apr 2025, 28 Mar 2025, Yes
+steve, Sales Forecast, Update projections, 13 Apr 2025, 28 Mar 2025, Yes
+bob, Clean The Windows, Clean all windows inside, 05 Apr 2025, 28 Mar 2025, No
+tommy, Survey, Compile feedback, 12 Apr 2025, 28 Mar 2025, Yes
+Admin, CRM Cleanup, Remove old clients, 20 Apr 2025, 28 Mar 2025, Yes
+john, Equipment Audit, Task description, 12 Oct 2030, 31 Mar 2025, No
+bob, Meeting, Plan Monday agenda, 10 Apr 2025, 28 Mar 2025, No
+Admin, Blog Draft, Write Q2 AI article, 07 Apr 2025, 28 Mar 2025, Yes
+steve, Mockup, Design landing page, 06 Apr 2025, 28 Mar 2025, Yes
+tommy, Code Review, Check pending PRs, 09 Apr 2025, 28 Mar 2025, Yes
+bob, Backup, Full system backup, 05 Apr 2025, 28 Mar 2025, Yes
+tommy, Empty Bins, empty all bins in office, 02 Apr 2025, 28 Mar 2025, No
+steve, Interviews, Schedule slots, 08 Apr 2025, 28 Mar 2025, No
+john, Code Review Copy, Cross-check PR notes, 06 Apr 2025, 28 Mar 2025, Yes
+tommy, Complete Task Program, Finish coding the task, 30 Apr 2025, 01 Apr 2025, No
+bob, Tabulate, Check new tabulate features, 14 Apr 2025, 02 Apr 2025, No
+bob, Stationary, Restock stationary, 02 Apr 2025, 02 Apr 2025, No
+bob, Research, Do research into python, 01 May 2025, 02 Apr 2025, No
+bob, Training, Prepare to train new starters, 01 May 2025, 02 Apr 2025, No
+Admin, New Hire, Hire a new developer, 03 Jan 2026, 02 Apr 2025, Yes
+john, Invoices, Replace toner and ink, 12 Apr 2025, 02 Apr 2025, No
+steve, Clear Desk, Tidy workspace, 03 Apr 2025, 02 Apr 2025, No
+bob, Check Numbers, Confirm Tom's maths report, 12 May 2025, 03 Apr 2025, No
+admin, Promotions, Submit names for promotions, 12 Apr 2025, 03 Apr 2025, No
+bob, Training, Complete new starter training, 01 May 2025, 03 Apr 2025, No
+admin, 1-On-1, Schedule in 1-on-1 meetings, 12 Apr 2025, 03 Apr 2025, No
+jeff, New Starter Training, Complete new starter training, 01 May 2025, 03 Apr 2025, No
+tommy, Complete Calculations, Finish velocity calculations, 03 May 2025, 03 Apr 2025, No
