@@ -6,7 +6,7 @@ Welcome! I'm Thomas, a career-changer transitioning into Data Engineering with a
 
 ## 🧠 About Me
 
-- 🎓 **MChem Chemistry**, First-Class Honours – Durham University  
+- 🎓 **MChem Chemistry**, First-Class Honours – Durham University
 - 🎯 Currently completing a **Data Science Bootcamp** with *HyperionDev and Imperial College London*
 - 🔁 Transitioning from a background in **technical sales and automation** to **data engineering**
 - 💬 Passionate about creating reliable, scalable data solutions and communicating technical ideas clearly
@@ -16,8 +16,12 @@ Welcome! I'm Thomas, a career-changer transitioning into Data Engineering with a
 ## 📂 Project Highlights
 
 ### 🔧 Task Manager (Python)
-A file-based command-line application for managing users and tasks. Features include role-based permissions, due date validation, and rich terminal output.  
+A file-based command-line application for managing users and tasks. Features include role-based permissions, due date validation, and rich terminal output.
 **Skills:** Python, file I/O, functions, data validation, CLI design, modular code
+
+### 📈 Linear Regression on Ames Housing Dataset
+A full notebook walkthrough of performing exploratory data analysis, feature selection, and multiple linear regression to predict house prices using the Ames dataset. Includes model evaluation and export to HTML/PDF.
+**Skills:** Python, Pandas, NumPy, Matplotlib, Scikit-learn, Regression Modelling, EDA
 
 ---
 
@@ -40,4 +44,3 @@ A file-based command-line application for managing users and tasks. Features inc
 ---
 
 > “I believe data is only as valuable as the insights and outcomes it enables. I'm here to help make that happen.”
-
