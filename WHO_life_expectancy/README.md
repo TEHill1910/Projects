@@ -47,6 +47,11 @@ A standalone Python function was also created to allow users to input new data a
 
 Python, Pandas, NumPy, Scikit-learn, StatsModels, Matplotlib, Seaborn  
 
+A complete list of dependencies for this and other projects is included in the `requirements.txt` file.  
+To install them, run:
+
+```bash
+pip install -r requirements.txt
 ---
 
 ## 📈 Example Outputs
