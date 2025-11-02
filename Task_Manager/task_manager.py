@@ -1,9 +1,17 @@
 from datetime import datetime, date
 from colorama import Style, Back, Fore, init
 from tabulate import tabulate
+import os
 
 # All statements are displayed in red, all inputs in white.
 init(autoreset=True)
+
+# Get the directory where the script is located
+base_dir = os.path.dirname(os.path.abspath(__file__))
+
+# Build the path to user.txt relative to this script
+user_file_path = os.path.join(base_dir, "user.txt")
+
 
 
 def get_user_match_status(user_input, user_list):
@@ -442,7 +450,7 @@ def modify_user_record(users_list, input_key, user_number=None, del_user=True, r
         popped_user = users_list[input_key][0]
         reassignment = False
 
-    with open("user.txt", "w") as f:
+    with open(user_file_path, "w") as f:
         for key, value in users_list.items():
             f.write(f"{value[0]}, {value[1]}\n")
     if not reassignment:
@@ -501,7 +509,7 @@ def edit_tasks(task_number, item_to_change, change_detail):
 # User list is retrieved from user.txt
 
 users_credentials = {}
-with open("user.txt", "r") as file:
+with open(user_file_path, "r") as file:
     for index, line in enumerate(file):
         user_data_parts = line.strip().split(", ")
         username = user_data_parts[0]
@@ -604,7 +612,7 @@ while True:
                 )
                 confirm_password = input("Please confirm your password: ")
 
-            with open("user.txt", "a") as file:
+            with open(user_file_path, "a") as file:
                 file.write(f"\n{new_user}, {new_password}")
 
             add_another_user = input(
@@ -1078,7 +1086,7 @@ while True:
     else:
         # Update user list for new registered users.
         users_credentials = {}
-        with open("user.txt", "r") as file:
+        with open(user_file_path, "r") as file:
             for index, line in enumerate(file):
                 user_data_parts = line.strip().split(", ")
                 try:
