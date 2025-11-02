@@ -44,6 +44,8 @@ To install them, run:
 
 ```bash
 pip install -r requirements.txt
+
+```
 ---
 
 ## 📫 Get in Touch
