@@ -1,0 +1,1819 @@
+DriverNumber,Driver,GridPosition,ClassifiedPosition,TyreStrategy,Status,GP,Year
+16,LEC,1.0,1,"['SOFT', 'SOFT', 'MEDIUM', 'SOFT']",Finished,Bahrain Grand Prix,2022
+55,SAI,3.0,2,"['SOFT', 'SOFT', 'MEDIUM', 'SOFT']",Finished,Bahrain Grand Prix,2022
+44,HAM,5.0,3,"['SOFT', 'HARD', 'MEDIUM', 'SOFT']",Finished,Bahrain Grand Prix,2022
+63,RUS,9.0,4,"['SOFT', 'HARD', 'MEDIUM', 'SOFT']",Finished,Bahrain Grand Prix,2022
+20,MAG,7.0,5,"['SOFT', 'SOFT', 'MEDIUM', 'SOFT']",Finished,Bahrain Grand Prix,2022
+77,BOT,6.0,6,"['SOFT', 'MEDIUM', 'MEDIUM', 'SOFT']",Finished,Bahrain Grand Prix,2022
+31,OCO,11.0,7,"['SOFT', 'MEDIUM', 'HARD', 'SOFT']",Finished,Bahrain Grand Prix,2022
+22,TSU,16.0,8,"['SOFT', 'MEDIUM', 'SOFT', 'SOFT']",Finished,Bahrain Grand Prix,2022
+14,ALO,8.0,9,"['SOFT', 'MEDIUM', 'HARD', 'SOFT']",Finished,Bahrain Grand Prix,2022
+24,ZHO,15.0,10,"['SOFT', 'MEDIUM', 'MEDIUM', 'SOFT']",Finished,Bahrain Grand Prix,2022
+47,MSC,12.0,11,"['SOFT', 'MEDIUM', 'SOFT']",Finished,Bahrain Grand Prix,2022
+18,STR,19.0,12,"['SOFT', 'SOFT', 'MEDIUM', 'SOFT']",Finished,Bahrain Grand Prix,2022
+23,ALB,14.0,13,"['SOFT', 'MEDIUM', 'MEDIUM', 'SOFT']",Finished,Bahrain Grand Prix,2022
+3,RIC,18.0,14,"['MEDIUM', 'SOFT', 'HARD', 'SOFT']",Finished,Bahrain Grand Prix,2022
+4,NOR,13.0,15,"['MEDIUM', 'HARD', 'SOFT', 'SOFT']",Finished,Bahrain Grand Prix,2022
+6,LAT,20.0,16,"['SOFT', 'SOFT', 'MEDIUM', 'SOFT']",Finished,Bahrain Grand Prix,2022
+27,HUL,17.0,17,"['SOFT', 'SOFT', 'MEDIUM', 'SOFT']",Finished,Bahrain Grand Prix,2022
+11,PER,4.0,18,"['SOFT', 'MEDIUM', 'SOFT', 'SOFT']",Fuel pressure,Bahrain Grand Prix,2022
+1,VER,2.0,19,"['SOFT', 'SOFT', 'MEDIUM', 'SOFT']",Fuel pressure,Bahrain Grand Prix,2022
+10,GAS,10.0,R,"['SOFT', 'MEDIUM', 'HARD']",Power Unit,Bahrain Grand Prix,2022
+1,VER,4.0,1,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2022
+16,LEC,2.0,2,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2022
+55,SAI,3.0,3,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2022
+11,PER,1.0,4,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2022
+63,RUS,6.0,5,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2022
+31,OCO,5.0,6,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2022
+4,NOR,11.0,7,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2022
+10,GAS,9.0,8,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2022
+20,MAG,10.0,9,"['HARD', 'MEDIUM']",Finished,Saudi Arabian Grand Prix,2022
+44,HAM,15.0,10,"['HARD', 'MEDIUM']",Finished,Saudi Arabian Grand Prix,2022
+24,ZHO,12.0,11,"['MEDIUM', 'HARD', 'HARD']",Finished,Saudi Arabian Grand Prix,2022
+27,HUL,17.0,12,"['HARD', 'MEDIUM']",Finished,Saudi Arabian Grand Prix,2022
+18,STR,13.0,13,"['MEDIUM', 'HARD']",+1 Lap,Saudi Arabian Grand Prix,2022
+23,ALB,16.0,14,"['MEDIUM', 'HARD']",Collision damage,Saudi Arabian Grand Prix,2022
+77,BOT,8.0,R,"['MEDIUM', 'HARD', 'MEDIUM']",Cooling system,Saudi Arabian Grand Prix,2022
+14,ALO,7.0,R,"['MEDIUM', 'HARD']",Water pump,Saudi Arabian Grand Prix,2022
+3,RIC,14.0,R,"['MEDIUM', 'HARD']",Gearbox,Saudi Arabian Grand Prix,2022
+6,LAT,18.0,R,['MEDIUM'],Accident,Saudi Arabian Grand Prix,2022
+22,TSU,19.0,R,,Power Unit,Saudi Arabian Grand Prix,2022
+47,MSC,,W,,Withdrew,Saudi Arabian Grand Prix,2022
+16,LEC,1.0,1,"['MEDIUM', 'HARD']",Finished,Australian Grand Prix,2022
+11,PER,3.0,2,"['MEDIUM', 'HARD']",Finished,Australian Grand Prix,2022
+63,RUS,6.0,3,"['MEDIUM', 'HARD']",Finished,Australian Grand Prix,2022
+44,HAM,5.0,4,"['MEDIUM', 'HARD']",Finished,Australian Grand Prix,2022
+4,NOR,4.0,5,"['MEDIUM', 'HARD']",Finished,Australian Grand Prix,2022
+3,RIC,7.0,6,"['MEDIUM', 'HARD']",Finished,Australian Grand Prix,2022
+31,OCO,8.0,7,"['MEDIUM', 'HARD']",Finished,Australian Grand Prix,2022
+77,BOT,12.0,8,"['MEDIUM', 'HARD']",Finished,Australian Grand Prix,2022
+10,GAS,11.0,9,"['MEDIUM', 'HARD']",Finished,Australian Grand Prix,2022
+23,ALB,20.0,10,"['HARD', 'SOFT']",Finished,Australian Grand Prix,2022
+24,ZHO,14.0,11,"['MEDIUM', 'HARD']",Finished,Australian Grand Prix,2022
+18,STR,19.0,12,"['HARD', 'MEDIUM', 'HARD', 'HARD']",Finished,Australian Grand Prix,2022
+47,MSC,15.0,13,"['MEDIUM', 'HARD']",+1 Lap,Australian Grand Prix,2022
+20,MAG,16.0,14,"['HARD', 'MEDIUM']",+1 Lap,Australian Grand Prix,2022
+22,TSU,13.0,15,"['MEDIUM', 'HARD']",+1 Lap,Australian Grand Prix,2022
+6,LAT,18.0,16,"['MEDIUM', 'HARD', 'HARD']",+1 Lap,Australian Grand Prix,2022
+14,ALO,10.0,17,"['HARD', 'MEDIUM', 'MEDIUM']",+1 Lap,Australian Grand Prix,2022
+1,VER,2.0,R,"['MEDIUM', 'HARD']",Fuel leak,Australian Grand Prix,2022
+5,VET,17.0,R,['HARD'],Accident,Australian Grand Prix,2022
+55,SAI,9.0,R,['HARD'],Spun off,Australian Grand Prix,2022
+1,VER,1.0,1,"['INTERMEDIATE', 'MEDIUM', 'SOFT']",Finished,Emilia Romagna Grand Prix,2022
+11,PER,3.0,2,"['INTERMEDIATE', 'MEDIUM', 'SOFT']",Finished,Emilia Romagna Grand Prix,2022
+4,NOR,5.0,3,"['INTERMEDIATE', 'MEDIUM']",Finished,Emilia Romagna Grand Prix,2022
+63,RUS,11.0,4,"['INTERMEDIATE', 'MEDIUM']",Finished,Emilia Romagna Grand Prix,2022
+77,BOT,7.0,5,"['INTERMEDIATE', 'MEDIUM']",Finished,Emilia Romagna Grand Prix,2022
+16,LEC,2.0,6,"['INTERMEDIATE', 'MEDIUM', 'SOFT', 'SOFT']",Finished,Emilia Romagna Grand Prix,2022
+22,TSU,12.0,7,"['INTERMEDIATE', 'MEDIUM']",Finished,Emilia Romagna Grand Prix,2022
+5,VET,13.0,8,"['INTERMEDIATE', 'MEDIUM']",Finished,Emilia Romagna Grand Prix,2022
+20,MAG,8.0,9,"['INTERMEDIATE', 'MEDIUM']",Finished,Emilia Romagna Grand Prix,2022
+18,STR,15.0,10,"['INTERMEDIATE', 'MEDIUM']",+1 Lap,Emilia Romagna Grand Prix,2022
+23,ALB,18.0,11,"['INTERMEDIATE', 'MEDIUM']",+1 Lap,Emilia Romagna Grand Prix,2022
+10,GAS,17.0,12,"['INTERMEDIATE', 'MEDIUM']",+1 Lap,Emilia Romagna Grand Prix,2022
+44,HAM,14.0,13,"['INTERMEDIATE', 'MEDIUM']",+1 Lap,Emilia Romagna Grand Prix,2022
+31,OCO,16.0,14,"['INTERMEDIATE', 'MEDIUM']",+1 Lap,Emilia Romagna Grand Prix,2022
+24,ZHO,0.0,15,"['INTERMEDIATE', 'MEDIUM']",+1 Lap,Emilia Romagna Grand Prix,2022
+6,LAT,19.0,16,"['INTERMEDIATE', 'MEDIUM']",+1 Lap,Emilia Romagna Grand Prix,2022
+47,MSC,10.0,17,"['INTERMEDIATE', 'MEDIUM', 'SOFT']",+1 Lap,Emilia Romagna Grand Prix,2022
+3,RIC,6.0,18,"['INTERMEDIATE', 'INTERMEDIATE', 'MEDIUM', 'HARD']",+1 Lap,Emilia Romagna Grand Prix,2022
+14,ALO,9.0,R,['INTERMEDIATE'],Collision damage,Emilia Romagna Grand Prix,2022
+55,SAI,4.0,R,['INTERMEDIATE'],Collision,Emilia Romagna Grand Prix,2022
+1,VER,3.0,1,"['MEDIUM', 'HARD']",Finished,Miami Grand Prix,2022
+16,LEC,1.0,2,"['MEDIUM', 'HARD']",Finished,Miami Grand Prix,2022
+55,SAI,2.0,3,"['MEDIUM', 'HARD']",Finished,Miami Grand Prix,2022
+11,PER,4.0,4,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Miami Grand Prix,2022
+63,RUS,12.0,5,"['HARD', 'MEDIUM']",Finished,Miami Grand Prix,2022
+44,HAM,6.0,6,"['MEDIUM', 'HARD']",Finished,Miami Grand Prix,2022
+77,BOT,5.0,7,"['MEDIUM', 'HARD']",Finished,Miami Grand Prix,2022
+31,OCO,20.0,8,"['HARD', 'SOFT']",Finished,Miami Grand Prix,2022
+23,ALB,18.0,9,"['MEDIUM', 'HARD']",Finished,Miami Grand Prix,2022
+18,STR,0.0,10,"['HARD', 'MEDIUM']",Finished,Miami Grand Prix,2022
+14,ALO,11.0,11,"['MEDIUM', 'HARD']",Finished,Miami Grand Prix,2022
+22,TSU,9.0,12,"['MEDIUM', 'HARD', 'SOFT']",Finished,Miami Grand Prix,2022
+3,RIC,14.0,13,"['MEDIUM', 'HARD', 'SOFT']",Finished,Miami Grand Prix,2022
+6,LAT,19.0,14,"['HARD', 'MEDIUM']",Finished,Miami Grand Prix,2022
+47,MSC,15.0,15,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Miami Grand Prix,2022
+20,MAG,16.0,16,"['MEDIUM', 'HARD', 'MEDIUM']",Front wing,Miami Grand Prix,2022
+5,VET,0.0,17,"['HARD', 'MEDIUM']",Collision,Miami Grand Prix,2022
+10,GAS,7.0,R,"['MEDIUM', 'HARD', 'SOFT']",Suspension,Miami Grand Prix,2022
+4,NOR,8.0,R,"['MEDIUM', 'HARD']",Collision,Miami Grand Prix,2022
+24,ZHO,17.0,R,['MEDIUM'],Water leak,Miami Grand Prix,2022
+1,VER,2.0,1,"['SOFT', 'MEDIUM', 'SOFT', 'MEDIUM']",Finished,Spanish Grand Prix,2022
+11,PER,5.0,2,"['SOFT', 'MEDIUM', 'MEDIUM', 'SOFT']",Finished,Spanish Grand Prix,2022
+63,RUS,4.0,3,"['SOFT', 'MEDIUM', 'MEDIUM', 'SOFT']",Finished,Spanish Grand Prix,2022
+55,SAI,3.0,4,"['SOFT', 'MEDIUM', 'MEDIUM', 'SOFT']",Finished,Spanish Grand Prix,2022
+44,HAM,6.0,5,"['MEDIUM', 'SOFT', 'MEDIUM', 'SOFT']",Finished,Spanish Grand Prix,2022
+77,BOT,7.0,6,"['SOFT', 'MEDIUM', 'MEDIUM']",Finished,Spanish Grand Prix,2022
+31,OCO,12.0,7,"['SOFT', 'MEDIUM', 'SOFT', 'SOFT']",Finished,Spanish Grand Prix,2022
+4,NOR,11.0,8,"['SOFT', 'MEDIUM', 'SOFT', 'SOFT']",Finished,Spanish Grand Prix,2022
+14,ALO,20.0,9,"['SOFT', 'MEDIUM', 'SOFT', 'SOFT']",+1 Lap,Spanish Grand Prix,2022
+22,TSU,13.0,10,"['SOFT', 'MEDIUM', 'SOFT', 'SOFT']",+1 Lap,Spanish Grand Prix,2022
+5,VET,16.0,11,"['SOFT', 'SOFT', 'MEDIUM']",+1 Lap,Spanish Grand Prix,2022
+3,RIC,9.0,12,"['SOFT', 'SOFT', 'MEDIUM', 'SOFT']",+1 Lap,Spanish Grand Prix,2022
+10,GAS,14.0,13,"['SOFT', 'MEDIUM', 'SOFT', 'SOFT']",+1 Lap,Spanish Grand Prix,2022
+47,MSC,10.0,14,"['SOFT', 'SOFT', 'MEDIUM']",+1 Lap,Spanish Grand Prix,2022
+18,STR,17.0,15,"['SOFT', 'SOFT', 'MEDIUM', 'SOFT']",+1 Lap,Spanish Grand Prix,2022
+6,LAT,19.0,16,"['SOFT', 'MEDIUM', 'SOFT', 'SOFT']",+2 Laps,Spanish Grand Prix,2022
+20,MAG,8.0,17,"['SOFT', 'MEDIUM', 'HARD']",+2 Laps,Spanish Grand Prix,2022
+23,ALB,18.0,18,"['SOFT', 'MEDIUM', 'SOFT', 'MEDIUM', 'SOFT']",+2 Laps,Spanish Grand Prix,2022
+24,ZHO,15.0,R,"['SOFT', 'MEDIUM']",Power loss,Spanish Grand Prix,2022
+16,LEC,1.0,R,"['SOFT', 'MEDIUM']",Turbo,Spanish Grand Prix,2022
+11,PER,3.0,1,"['WET', 'INTERMEDIATE', 'HARD', 'MEDIUM']",Finished,Monaco Grand Prix,2022
+55,SAI,2.0,2,"['WET', 'HARD', 'HARD']",Finished,Monaco Grand Prix,2022
+1,VER,4.0,3,"['WET', 'INTERMEDIATE', 'HARD', 'MEDIUM']",Finished,Monaco Grand Prix,2022
+16,LEC,1.0,4,"['WET', 'INTERMEDIATE', 'HARD', 'HARD']",Finished,Monaco Grand Prix,2022
+63,RUS,6.0,5,"['WET', 'HARD', 'MEDIUM']",Finished,Monaco Grand Prix,2022
+4,NOR,5.0,6,"['WET', 'INTERMEDIATE', 'HARD', 'HARD', 'MEDIUM']",Finished,Monaco Grand Prix,2022
+14,ALO,7.0,7,"['WET', 'HARD', 'MEDIUM']",Finished,Monaco Grand Prix,2022
+44,HAM,8.0,8,"['WET', 'INTERMEDIATE', 'HARD', 'MEDIUM']",Finished,Monaco Grand Prix,2022
+77,BOT,12.0,9,"['WET', 'HARD', 'HARD']",Finished,Monaco Grand Prix,2022
+5,VET,9.0,10,"['WET', 'INTERMEDIATE', 'HARD', 'HARD']",Finished,Monaco Grand Prix,2022
+10,GAS,17.0,11,"['INTERMEDIATE', 'INTERMEDIATE', 'HARD', 'HARD']",Finished,Monaco Grand Prix,2022
+31,OCO,10.0,12,"['WET', 'HARD', 'MEDIUM']",Finished,Monaco Grand Prix,2022
+3,RIC,14.0,13,"['WET', 'HARD', 'HARD']",Finished,Monaco Grand Prix,2022
+18,STR,18.0,14,"['WET', 'WET', 'INTERMEDIATE', 'HARD', 'None']",Finished,Monaco Grand Prix,2022
+6,LAT,19.0,15,"['WET', 'INTERMEDIATE', 'HARD', 'MEDIUM']",+1 Lap,Monaco Grand Prix,2022
+24,ZHO,20.0,16,"['WET', 'HARD', 'MEDIUM']",+1 Lap,Monaco Grand Prix,2022
+22,TSU,11.0,17,"['WET', 'INTERMEDIATE', 'HARD', 'MEDIUM', 'SOFT']",+1 Lap,Monaco Grand Prix,2022
+23,ALB,16.0,R,"['WET', 'HARD', 'MEDIUM', 'MEDIUM']",Mechanical,Monaco Grand Prix,2022
+47,MSC,15.0,R,"['WET', 'INTERMEDIATE', 'HARD']",Accident,Monaco Grand Prix,2022
+20,MAG,13.0,R,['WET'],Water pressure,Monaco Grand Prix,2022
+1,VER,3.0,1,"['MEDIUM', 'HARD', 'HARD']",Finished,Azerbaijan Grand Prix,2022
+11,PER,2.0,2,"['MEDIUM', 'HARD', 'HARD']",Finished,Azerbaijan Grand Prix,2022
+63,RUS,5.0,3,"['MEDIUM', 'HARD', 'HARD']",Finished,Azerbaijan Grand Prix,2022
+44,HAM,7.0,4,"['MEDIUM', 'HARD', 'HARD']",Finished,Azerbaijan Grand Prix,2022
+10,GAS,6.0,5,"['MEDIUM', 'HARD']",Finished,Azerbaijan Grand Prix,2022
+5,VET,9.0,6,"['MEDIUM', 'HARD']",Finished,Azerbaijan Grand Prix,2022
+14,ALO,10.0,7,"['MEDIUM', 'HARD']",Finished,Azerbaijan Grand Prix,2022
+3,RIC,12.0,8,"['HARD', 'MEDIUM']",Finished,Azerbaijan Grand Prix,2022
+4,NOR,11.0,9,"['MEDIUM', 'HARD']",Finished,Azerbaijan Grand Prix,2022
+31,OCO,13.0,10,"['HARD', 'MEDIUM']",Finished,Azerbaijan Grand Prix,2022
+77,BOT,15.0,11,"['HARD', 'MEDIUM']",+1 Lap,Azerbaijan Grand Prix,2022
+23,ALB,17.0,12,"['MEDIUM', 'HARD', 'HARD']",+1 Lap,Azerbaijan Grand Prix,2022
+22,TSU,8.0,13,"['MEDIUM', 'HARD', 'SOFT']",+1 Lap,Azerbaijan Grand Prix,2022
+47,MSC,20.0,14,"['HARD', 'MEDIUM', 'HARD']",+1 Lap,Azerbaijan Grand Prix,2022
+6,LAT,18.0,15,"['MEDIUM', 'MEDIUM', 'HARD']",+1 Lap,Azerbaijan Grand Prix,2022
+18,STR,19.0,16,"['HARD', 'MEDIUM']",Vibrations,Azerbaijan Grand Prix,2022
+20,MAG,16.0,R,"['MEDIUM', 'HARD']",Power Unit,Azerbaijan Grand Prix,2022
+24,ZHO,14.0,R,"['MEDIUM', 'HARD']",Hydraulics,Azerbaijan Grand Prix,2022
+16,LEC,1.0,R,"['MEDIUM', 'HARD']",Power Unit,Azerbaijan Grand Prix,2022
+55,SAI,4.0,R,['MEDIUM'],Hydraulics,Azerbaijan Grand Prix,2022
+1,VER,1.0,1,"['MEDIUM', 'HARD', 'HARD']",Finished,Canadian Grand Prix,2022
+55,SAI,3.0,2,"['MEDIUM', 'HARD', 'HARD']",Finished,Canadian Grand Prix,2022
+44,HAM,4.0,3,"['MEDIUM', 'HARD', 'HARD']",Finished,Canadian Grand Prix,2022
+63,RUS,8.0,4,"['MEDIUM', 'HARD', 'HARD']",Finished,Canadian Grand Prix,2022
+16,LEC,19.0,5,"['HARD', 'MEDIUM']",Finished,Canadian Grand Prix,2022
+31,OCO,7.0,6,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Canadian Grand Prix,2022
+77,BOT,11.0,7,"['HARD', 'MEDIUM']",Finished,Canadian Grand Prix,2022
+24,ZHO,10.0,8,"['MEDIUM', 'HARD', 'HARD']",Finished,Canadian Grand Prix,2022
+14,ALO,2.0,9,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Canadian Grand Prix,2022
+18,STR,17.0,10,"['HARD', 'MEDIUM']",Finished,Canadian Grand Prix,2022
+3,RIC,9.0,11,"['MEDIUM', 'HARD', 'HARD']",Finished,Canadian Grand Prix,2022
+5,VET,16.0,12,"['MEDIUM', 'HARD', 'HARD']",Finished,Canadian Grand Prix,2022
+23,ALB,12.0,13,"['MEDIUM', 'HARD', 'HARD']",Finished,Canadian Grand Prix,2022
+10,GAS,15.0,14,"['MEDIUM', 'HARD', 'HARD']",Finished,Canadian Grand Prix,2022
+4,NOR,14.0,15,"['HARD', 'HARD', 'MEDIUM']",Finished,Canadian Grand Prix,2022
+6,LAT,18.0,16,"['MEDIUM', 'HARD', 'HARD']",Finished,Canadian Grand Prix,2022
+20,MAG,5.0,17,"['MEDIUM', 'HARD']",Finished,Canadian Grand Prix,2022
+22,TSU,20.0,R,"['MEDIUM', 'HARD']",Accident,Canadian Grand Prix,2022
+47,MSC,6.0,R,['MEDIUM'],Engine,Canadian Grand Prix,2022
+11,PER,13.0,R,['HARD'],Gearbox,Canadian Grand Prix,2022
+55,SAI,1.0,1,"['MEDIUM', 'MEDIUM', 'HARD', 'SOFT']",Finished,British Grand Prix,2022
+11,PER,4.0,2,"['MEDIUM', 'MEDIUM', 'MEDIUM', 'SOFT']",Finished,British Grand Prix,2022
+44,HAM,5.0,3,"['MEDIUM', 'MEDIUM', 'HARD', 'SOFT']",Finished,British Grand Prix,2022
+16,LEC,3.0,4,"['MEDIUM', 'MEDIUM', 'HARD']",Finished,British Grand Prix,2022
+14,ALO,7.0,5,"['MEDIUM', 'MEDIUM', 'HARD', 'SOFT']",Finished,British Grand Prix,2022
+4,NOR,6.0,6,"['MEDIUM', 'MEDIUM', 'HARD', 'SOFT']",Finished,British Grand Prix,2022
+1,VER,2.0,7,"['SOFT', 'MEDIUM', 'MEDIUM', 'HARD', 'SOFT']",Finished,British Grand Prix,2022
+47,MSC,19.0,8,"['MEDIUM', 'MEDIUM', 'HARD', 'SOFT']",Finished,British Grand Prix,2022
+5,VET,18.0,9,"['SOFT', 'SOFT', 'MEDIUM', 'MEDIUM']",Finished,British Grand Prix,2022
+20,MAG,17.0,10,"['SOFT', 'MEDIUM', 'MEDIUM']",Finished,British Grand Prix,2022
+18,STR,20.0,11,"['MEDIUM', 'MEDIUM', 'HARD', 'MEDIUM']",Finished,British Grand Prix,2022
+6,LAT,10.0,12,"['SOFT', 'SOFT', 'MEDIUM', 'SOFT']",Finished,British Grand Prix,2022
+3,RIC,14.0,13,"['MEDIUM', 'MEDIUM', 'HARD', 'SOFT', 'SOFT']",Finished,British Grand Prix,2022
+22,TSU,13.0,14,"['MEDIUM', 'SOFT', 'HARD', 'SOFT']",Finished,British Grand Prix,2022
+31,OCO,15.0,R,"['MEDIUM', 'SOFT', 'HARD']",Fuel pump,British Grand Prix,2022
+10,GAS,11.0,R,"['MEDIUM', 'SOFT', 'HARD']",Collision damage,British Grand Prix,2022
+77,BOT,12.0,R,"['MEDIUM', 'MEDIUM']",Gearbox,British Grand Prix,2022
+63,RUS,8.0,R,['HARD'],Collision,British Grand Prix,2022
+24,ZHO,9.0,R,['MEDIUM'],Collision,British Grand Prix,2022
+23,ALB,16.0,R,['SOFT'],Collision,British Grand Prix,2022
+16,LEC,2.0,1,"['MEDIUM', 'HARD', 'HARD', 'MEDIUM']",Finished,Austrian Grand Prix,2022
+1,VER,1.0,2,"['MEDIUM', 'HARD', 'HARD', 'MEDIUM']",Finished,Austrian Grand Prix,2022
+44,HAM,8.0,3,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Austrian Grand Prix,2022
+63,RUS,4.0,4,"['MEDIUM', 'HARD', 'None']",Finished,Austrian Grand Prix,2022
+31,OCO,6.0,5,"['MEDIUM', 'HARD', 'None']",Finished,Austrian Grand Prix,2022
+47,MSC,9.0,6,"['MEDIUM', 'HARD', 'None']",+1 Lap,Austrian Grand Prix,2022
+4,NOR,10.0,7,"['MEDIUM', 'HARD', 'None']",+1 Lap,Austrian Grand Prix,2022
+20,MAG,7.0,8,"['MEDIUM', 'HARD', 'None']",+1 Lap,Austrian Grand Prix,2022
+3,RIC,11.0,9,"['MEDIUM', 'HARD', 'None']",+1 Lap,Austrian Grand Prix,2022
+14,ALO,19.0,10,"['HARD', 'HARD', 'MEDIUM', 'MEDIUM']",+1 Lap,Austrian Grand Prix,2022
+77,BOT,0.0,11,"['MEDIUM', 'HARD', 'None']",+1 Lap,Austrian Grand Prix,2022
+23,ALB,15.0,12,"['MEDIUM', 'HARD', 'None']",+1 Lap,Austrian Grand Prix,2022
+18,STR,12.0,13,"['MEDIUM', 'HARD', 'MEDIUM']",+1 Lap,Austrian Grand Prix,2022
+24,ZHO,13.0,14,"['HARD', 'HARD', 'MEDIUM']",+1 Lap,Austrian Grand Prix,2022
+10,GAS,14.0,15,"['MEDIUM', 'HARD', 'None']",+1 Lap,Austrian Grand Prix,2022
+22,TSU,16.0,16,"['HARD', 'MEDIUM', 'HARD']",+1 Lap,Austrian Grand Prix,2022
+5,VET,18.0,17,"['HARD', 'MEDIUM', 'None']",+1 Lap,Austrian Grand Prix,2022
+55,SAI,3.0,R,"['MEDIUM', 'HARD', 'None']",Power Unit,Austrian Grand Prix,2022
+6,LAT,17.0,R,"['MEDIUM', 'HARD', 'None']",Undertray,Austrian Grand Prix,2022
+11,PER,5.0,R,"['MEDIUM', 'HARD']",Collision damage,Austrian Grand Prix,2022
+1,VER,2.0,1,"['MEDIUM', 'HARD']",Finished,French Grand Prix,2022
+44,HAM,4.0,2,"['MEDIUM', 'HARD']",Finished,French Grand Prix,2022
+63,RUS,6.0,3,"['MEDIUM', 'HARD']",Finished,French Grand Prix,2022
+11,PER,3.0,4,"['MEDIUM', 'HARD']",Finished,French Grand Prix,2022
+55,SAI,19.0,5,"['HARD', 'MEDIUM', 'MEDIUM']",Finished,French Grand Prix,2022
+14,ALO,7.0,6,"['MEDIUM', 'HARD']",Finished,French Grand Prix,2022
+4,NOR,5.0,7,"['MEDIUM', 'HARD']",Finished,French Grand Prix,2022
+31,OCO,10.0,8,"['MEDIUM', 'HARD']",Finished,French Grand Prix,2022
+3,RIC,9.0,9,"['MEDIUM', 'HARD']",Finished,French Grand Prix,2022
+18,STR,15.0,10,"['MEDIUM', 'HARD']",Finished,French Grand Prix,2022
+5,VET,12.0,11,"['MEDIUM', 'HARD']",Finished,French Grand Prix,2022
+10,GAS,14.0,12,"['HARD', 'MEDIUM']",Finished,French Grand Prix,2022
+23,ALB,13.0,13,"['MEDIUM', 'HARD']",Finished,French Grand Prix,2022
+77,BOT,11.0,14,"['HARD', 'HARD', 'MEDIUM']",Finished,French Grand Prix,2022
+47,MSC,17.0,15,"['MEDIUM', 'HARD', 'HARD']",Finished,French Grand Prix,2022
+24,ZHO,16.0,16,"['MEDIUM', 'HARD', 'HARD']",+6 Laps,French Grand Prix,2022
+6,LAT,18.0,R,"['MEDIUM', 'HARD', 'MEDIUM']",Collision damage,French Grand Prix,2022
+20,MAG,20.0,R,"['MEDIUM', 'HARD', 'HARD']",Collision damage,French Grand Prix,2022
+16,LEC,1.0,R,['MEDIUM'],Accident,French Grand Prix,2022
+22,TSU,8.0,R,"['MEDIUM', 'HARD']",Undertray,French Grand Prix,2022
+1,VER,10.0,1,"['SOFT', 'MEDIUM', 'MEDIUM']",Finished,Hungarian Grand Prix,2022
+44,HAM,7.0,2,"['MEDIUM', 'MEDIUM', 'SOFT']",Finished,Hungarian Grand Prix,2022
+63,RUS,1.0,3,"['SOFT', 'MEDIUM', 'MEDIUM']",Finished,Hungarian Grand Prix,2022
+55,SAI,2.0,4,"['MEDIUM', 'MEDIUM', 'SOFT']",Finished,Hungarian Grand Prix,2022
+11,PER,11.0,5,"['SOFT', 'MEDIUM', 'MEDIUM']",Finished,Hungarian Grand Prix,2022
+16,LEC,3.0,6,"['MEDIUM', 'MEDIUM', 'HARD', 'SOFT']",Finished,Hungarian Grand Prix,2022
+4,NOR,4.0,7,"['SOFT', 'MEDIUM', 'HARD']",Finished,Hungarian Grand Prix,2022
+14,ALO,6.0,8,"['MEDIUM', 'HARD']",+1 Lap,Hungarian Grand Prix,2022
+31,OCO,5.0,9,"['MEDIUM', 'HARD']",+1 Lap,Hungarian Grand Prix,2022
+5,VET,18.0,10,"['SOFT', 'MEDIUM', 'MEDIUM']",+1 Lap,Hungarian Grand Prix,2022
+18,STR,14.0,11,"['SOFT', 'MEDIUM', 'SOFT']",+1 Lap,Hungarian Grand Prix,2022
+10,GAS,0.0,12,"['SOFT', 'MEDIUM', 'SOFT']",+1 Lap,Hungarian Grand Prix,2022
+24,ZHO,12.0,13,"['MEDIUM', 'HARD', 'SOFT']",+1 Lap,Hungarian Grand Prix,2022
+47,MSC,15.0,14,"['MEDIUM', 'HARD', 'MEDIUM']",+1 Lap,Hungarian Grand Prix,2022
+3,RIC,9.0,15,"['SOFT', 'MEDIUM', 'HARD']",+1 Lap,Hungarian Grand Prix,2022
+20,MAG,13.0,16,"['MEDIUM', 'HARD', 'MEDIUM', 'SOFT']",+1 Lap,Hungarian Grand Prix,2022
+23,ALB,17.0,17,"['SOFT', 'MEDIUM', 'MEDIUM', 'SOFT']",+1 Lap,Hungarian Grand Prix,2022
+6,LAT,19.0,18,"['MEDIUM', 'MEDIUM', 'SOFT', 'SOFT']",+1 Lap,Hungarian Grand Prix,2022
+22,TSU,16.0,19,"['SOFT', 'MEDIUM', 'SOFT', 'SOFT']",+2 Laps,Hungarian Grand Prix,2022
+77,BOT,8.0,20,"['MEDIUM', 'HARD']",Power Unit,Hungarian Grand Prix,2022
+1,VER,14.0,1,"['SOFT', 'MEDIUM', 'MEDIUM']",Finished,Belgian Grand Prix,2022
+11,PER,2.0,2,"['MEDIUM', 'MEDIUM', 'HARD']",Finished,Belgian Grand Prix,2022
+55,SAI,1.0,3,"['SOFT', 'MEDIUM', 'HARD']",Finished,Belgian Grand Prix,2022
+63,RUS,5.0,4,"['MEDIUM', 'MEDIUM', 'HARD']",Finished,Belgian Grand Prix,2022
+14,ALO,3.0,5,"['MEDIUM', 'MEDIUM', 'HARD']",Finished,Belgian Grand Prix,2022
+16,LEC,15.0,6,"['SOFT', 'MEDIUM', 'MEDIUM', 'SOFT']",Finished,Belgian Grand Prix,2022
+31,OCO,16.0,7,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Belgian Grand Prix,2022
+5,VET,10.0,8,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Belgian Grand Prix,2022
+10,GAS,0.0,9,"['MEDIUM', 'HARD', 'SOFT']",Finished,Belgian Grand Prix,2022
+23,ALB,6.0,10,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Belgian Grand Prix,2022
+18,STR,9.0,11,"['MEDIUM', 'MEDIUM', 'HARD']",Finished,Belgian Grand Prix,2022
+4,NOR,17.0,12,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Belgian Grand Prix,2022
+22,TSU,0.0,13,"['HARD', 'MEDIUM', 'SOFT']",Finished,Belgian Grand Prix,2022
+24,ZHO,18.0,14,"['MEDIUM', 'MEDIUM', 'SOFT']",Finished,Belgian Grand Prix,2022
+3,RIC,7.0,15,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Belgian Grand Prix,2022
+20,MAG,12.0,16,"['MEDIUM', 'HARD', 'MEDIUM']",+1 Lap,Belgian Grand Prix,2022
+47,MSC,19.0,17,"['MEDIUM', 'HARD', 'MEDIUM']",+1 Lap,Belgian Grand Prix,2022
+6,LAT,11.0,18,"['MEDIUM', 'MEDIUM', 'HARD', 'SOFT']",+1 Lap,Belgian Grand Prix,2022
+77,BOT,13.0,R,['SOFT'],Accident,Belgian Grand Prix,2022
+44,HAM,4.0,R,['MEDIUM'],Collision damage,Belgian Grand Prix,2022
+1,VER,1.0,1,"['SOFT', 'MEDIUM', 'HARD', 'SOFT', 'SOFT']",Finished,Dutch Grand Prix,2022
+63,RUS,6.0,2,"['MEDIUM', 'HARD', 'MEDIUM', 'SOFT']",Finished,Dutch Grand Prix,2022
+16,LEC,2.0,3,"['SOFT', 'MEDIUM', 'HARD', 'SOFT', 'SOFT']",Finished,Dutch Grand Prix,2022
+44,HAM,4.0,4,"['MEDIUM', 'HARD', 'MEDIUM', 'MEDIUM']",Finished,Dutch Grand Prix,2022
+11,PER,5.0,5,"['SOFT', 'MEDIUM', 'HARD', 'MEDIUM', 'MEDIUM']",Finished,Dutch Grand Prix,2022
+14,ALO,13.0,6,"['SOFT', 'HARD', 'SOFT', 'SOFT']",Finished,Dutch Grand Prix,2022
+4,NOR,7.0,7,"['MEDIUM', 'HARD', 'SOFT', 'SOFT']",Finished,Dutch Grand Prix,2022
+55,SAI,3.0,8,"['SOFT', 'MEDIUM', 'HARD', 'SOFT']",Finished,Dutch Grand Prix,2022
+31,OCO,12.0,9,"['SOFT', 'HARD', 'SOFT', 'SOFT']",Finished,Dutch Grand Prix,2022
+18,STR,10.0,10,"['SOFT', 'MEDIUM', 'HARD', 'SOFT', 'SOFT']",Finished,Dutch Grand Prix,2022
+10,GAS,11.0,11,"['SOFT', 'MEDIUM', 'HARD', 'SOFT', 'SOFT']",Finished,Dutch Grand Prix,2022
+23,ALB,15.0,12,"['MEDIUM', 'MEDIUM', 'HARD', 'SOFT', 'SOFT']",Finished,Dutch Grand Prix,2022
+47,MSC,8.0,13,"['MEDIUM', 'MEDIUM', 'HARD', 'SOFT', 'SOFT']",Finished,Dutch Grand Prix,2022
+5,VET,19.0,14,"['SOFT', 'MEDIUM', 'HARD', 'SOFT', 'SOFT']",Finished,Dutch Grand Prix,2022
+20,MAG,18.0,15,"['MEDIUM', 'MEDIUM', 'HARD', 'SOFT', 'SOFT']",Finished,Dutch Grand Prix,2022
+24,ZHO,14.0,16,"['SOFT', 'SOFT', 'MEDIUM', 'SOFT', 'SOFT']",Finished,Dutch Grand Prix,2022
+3,RIC,17.0,17,"['SOFT', 'MEDIUM', 'HARD', 'SOFT', 'SOFT', 'SOFT']",Finished,Dutch Grand Prix,2022
+6,LAT,20.0,18,"['SOFT', 'MEDIUM', 'HARD', 'SOFT', 'SOFT']",+1 Lap,Dutch Grand Prix,2022
+77,BOT,16.0,R,"['SOFT', 'SOFT', 'MEDIUM']",Engine,Dutch Grand Prix,2022
+22,TSU,9.0,R,"['SOFT', 'MEDIUM', 'HARD']",Differential,Dutch Grand Prix,2022
+1,VER,7.0,1,"['SOFT', 'MEDIUM', 'SOFT']",Finished,Italian Grand Prix,2022
+16,LEC,1.0,2,"['SOFT', 'MEDIUM', 'SOFT', 'SOFT']",Finished,Italian Grand Prix,2022
+63,RUS,2.0,3,"['SOFT', 'HARD', 'SOFT']",Finished,Italian Grand Prix,2022
+55,SAI,18.0,4,"['MEDIUM', 'SOFT', 'SOFT']",Finished,Italian Grand Prix,2022
+44,HAM,19.0,5,"['MEDIUM', 'SOFT']",Finished,Italian Grand Prix,2022
+11,PER,13.0,6,"['MEDIUM', 'HARD', 'SOFT']",Finished,Italian Grand Prix,2022
+4,NOR,3.0,7,"['MEDIUM', 'SOFT', 'SOFT']",Finished,Italian Grand Prix,2022
+10,GAS,5.0,8,"['MEDIUM', 'HARD']",Finished,Italian Grand Prix,2022
+45,DEV,8.0,9,"['SOFT', 'MEDIUM']",Finished,Italian Grand Prix,2022
+24,ZHO,9.0,10,"['MEDIUM', 'HARD']",Finished,Italian Grand Prix,2022
+31,OCO,14.0,11,"['SOFT', 'HARD']",Finished,Italian Grand Prix,2022
+47,MSC,17.0,12,"['MEDIUM', 'SOFT']",Finished,Italian Grand Prix,2022
+77,BOT,15.0,13,"['MEDIUM', 'SOFT']",+1 Lap,Italian Grand Prix,2022
+22,TSU,20.0,14,"['MEDIUM', 'HARD', 'SOFT']",+1 Lap,Italian Grand Prix,2022
+6,LAT,10.0,15,"['MEDIUM', 'HARD', 'SOFT']",+1 Lap,Italian Grand Prix,2022
+20,MAG,16.0,16,"['MEDIUM', 'HARD', 'SOFT']",+1 Lap,Italian Grand Prix,2022
+3,RIC,4.0,R,"['MEDIUM', 'HARD']",Oil leak,Italian Grand Prix,2022
+18,STR,12.0,R,"['MEDIUM', 'HARD']",Engine,Italian Grand Prix,2022
+14,ALO,6.0,R,['MEDIUM'],Water pressure,Italian Grand Prix,2022
+5,VET,11.0,R,['MEDIUM'],Engine,Italian Grand Prix,2022
+11,PER,2.0,1,"['INTERMEDIATE', 'MEDIUM']",Finished,Singapore Grand Prix,2022
+16,LEC,1.0,2,"['INTERMEDIATE', 'MEDIUM']",Finished,Singapore Grand Prix,2022
+55,SAI,4.0,3,"['INTERMEDIATE', 'MEDIUM']",Finished,Singapore Grand Prix,2022
+4,NOR,6.0,4,"['INTERMEDIATE', 'MEDIUM']",Finished,Singapore Grand Prix,2022
+3,RIC,16.0,5,"['INTERMEDIATE', 'SOFT']",Finished,Singapore Grand Prix,2022
+18,STR,11.0,6,"['INTERMEDIATE', 'MEDIUM']",Finished,Singapore Grand Prix,2022
+1,VER,8.0,7,"['INTERMEDIATE', 'MEDIUM', 'SOFT']",Finished,Singapore Grand Prix,2022
+5,VET,13.0,8,"['INTERMEDIATE', 'MEDIUM']",Finished,Singapore Grand Prix,2022
+44,HAM,3.0,9,"['INTERMEDIATE', 'MEDIUM']",Finished,Singapore Grand Prix,2022
+10,GAS,7.0,10,"['INTERMEDIATE', 'MEDIUM']",Finished,Singapore Grand Prix,2022
+77,BOT,15.0,11,"['INTERMEDIATE', 'SOFT']",Finished,Singapore Grand Prix,2022
+20,MAG,9.0,12,"['INTERMEDIATE', 'INTERMEDIATE', 'MEDIUM']",Finished,Singapore Grand Prix,2022
+47,MSC,12.0,13,"['INTERMEDIATE', 'MEDIUM', 'SOFT']",+1 Lap,Singapore Grand Prix,2022
+63,RUS,0.0,14,"['INTERMEDIATE', 'MEDIUM', 'MEDIUM', 'SOFT', 'SOFT']",+2 Laps,Singapore Grand Prix,2022
+22,TSU,10.0,R,"['INTERMEDIATE', 'MEDIUM']",Accident,Singapore Grand Prix,2022
+31,OCO,17.0,R,['INTERMEDIATE'],Engine,Singapore Grand Prix,2022
+23,ALB,18.0,R,['INTERMEDIATE'],Collision damage,Singapore Grand Prix,2022
+14,ALO,5.0,R,['INTERMEDIATE'],Engine,Singapore Grand Prix,2022
+6,LAT,19.0,R,['INTERMEDIATE'],Collision damage,Singapore Grand Prix,2022
+24,ZHO,14.0,R,['INTERMEDIATE'],Collision,Singapore Grand Prix,2022
+1,VER,1.0,1,"['INTERMEDIATE', 'WET', 'INTERMEDIATE']",Finished,Japanese Grand Prix,2022
+11,PER,4.0,2,"['INTERMEDIATE', 'WET', 'INTERMEDIATE']",Finished,Japanese Grand Prix,2022
+16,LEC,2.0,3,"['INTERMEDIATE', 'WET', 'INTERMEDIATE']",Finished,Japanese Grand Prix,2022
+31,OCO,5.0,4,"['INTERMEDIATE', 'WET', 'INTERMEDIATE']",Finished,Japanese Grand Prix,2022
+44,HAM,6.0,5,"['INTERMEDIATE', 'WET', 'INTERMEDIATE']",Finished,Japanese Grand Prix,2022
+5,VET,9.0,6,"['INTERMEDIATE', 'WET', 'INTERMEDIATE']",Finished,Japanese Grand Prix,2022
+14,ALO,7.0,7,"['INTERMEDIATE', 'WET', 'INTERMEDIATE', 'INTERMEDIATE']",Finished,Japanese Grand Prix,2022
+63,RUS,8.0,8,"['INTERMEDIATE', 'WET', 'INTERMEDIATE']",Finished,Japanese Grand Prix,2022
+6,LAT,20.0,9,"['INTERMEDIATE', 'WET', 'INTERMEDIATE']",Finished,Japanese Grand Prix,2022
+4,NOR,10.0,10,"['INTERMEDIATE', 'WET', 'INTERMEDIATE']",Finished,Japanese Grand Prix,2022
+3,RIC,11.0,11,"['INTERMEDIATE', 'WET', 'INTERMEDIATE']",Finished,Japanese Grand Prix,2022
+18,STR,19.0,12,"['INTERMEDIATE', 'WET', 'INTERMEDIATE', 'INTERMEDIATE']",Finished,Japanese Grand Prix,2022
+22,TSU,13.0,13,"['INTERMEDIATE', 'WET', 'INTERMEDIATE', 'INTERMEDIATE']",Finished,Japanese Grand Prix,2022
+20,MAG,18.0,14,"['INTERMEDIATE', 'WET', 'INTERMEDIATE']",Finished,Japanese Grand Prix,2022
+77,BOT,12.0,15,"['INTERMEDIATE', 'WET', 'INTERMEDIATE']",Finished,Japanese Grand Prix,2022
+24,ZHO,14.0,16,"['INTERMEDIATE', 'WET', 'INTERMEDIATE', 'INTERMEDIATE']",Finished,Japanese Grand Prix,2022
+47,MSC,15.0,17,"['INTERMEDIATE', 'WET', 'INTERMEDIATE']",Finished,Japanese Grand Prix,2022
+10,GAS,17.0,18,"['INTERMEDIATE', 'WET', 'WET', 'INTERMEDIATE', 'INTERMEDIATE']",Finished,Japanese Grand Prix,2022
+55,SAI,3.0,R,['INTERMEDIATE'],Accident,Japanese Grand Prix,2022
+23,ALB,16.0,R,['INTERMEDIATE'],Hydraulics,Japanese Grand Prix,2022
+1,VER,2.0,1,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,United States Grand Prix,2022
+44,HAM,3.0,2,"['MEDIUM', 'HARD', 'HARD']",Finished,United States Grand Prix,2022
+16,LEC,12.0,3,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,United States Grand Prix,2022
+11,PER,9.0,4,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,United States Grand Prix,2022
+63,RUS,4.0,5,"['MEDIUM', 'HARD', 'HARD', 'SOFT']",Finished,United States Grand Prix,2022
+4,NOR,6.0,6,"['MEDIUM', 'HARD', 'HARD']",Finished,United States Grand Prix,2022
+14,ALO,14.0,7,"['HARD', 'MEDIUM', 'HARD']",Finished,United States Grand Prix,2022
+5,VET,10.0,8,"['MEDIUM', 'MEDIUM', 'HARD']",Finished,United States Grand Prix,2022
+20,MAG,13.0,9,"['HARD', 'MEDIUM']",Finished,United States Grand Prix,2022
+22,TSU,19.0,10,"['MEDIUM', 'MEDIUM', 'HARD']",Finished,United States Grand Prix,2022
+31,OCO,0.0,11,"['HARD', 'HARD', 'MEDIUM']",Finished,United States Grand Prix,2022
+24,ZHO,18.0,12,"['MEDIUM', 'HARD', 'HARD']",Finished,United States Grand Prix,2022
+23,ALB,8.0,13,"['MEDIUM', 'MEDIUM', 'HARD']",Finished,United States Grand Prix,2022
+10,GAS,11.0,14,"['MEDIUM', 'HARD', 'HARD']",Finished,United States Grand Prix,2022
+47,MSC,16.0,15,"['HARD', 'MEDIUM', 'HARD']",Finished,United States Grand Prix,2022
+3,RIC,15.0,16,"['MEDIUM', 'HARD', 'HARD']",Finished,United States Grand Prix,2022
+6,LAT,17.0,17,"['MEDIUM', 'MEDIUM', 'HARD']",Finished,United States Grand Prix,2022
+18,STR,5.0,R,"['MEDIUM', 'MEDIUM']",Collision,United States Grand Prix,2022
+77,BOT,7.0,R,"['MEDIUM', 'HARD']",Spun off,United States Grand Prix,2022
+55,SAI,1.0,R,['MEDIUM'],Collision damage,United States Grand Prix,2022
+1,VER,1.0,1,"['SOFT', 'MEDIUM']",Finished,Mexico City Grand Prix,2022
+44,HAM,3.0,2,"['MEDIUM', 'HARD']",Finished,Mexico City Grand Prix,2022
+11,PER,4.0,3,"['SOFT', 'MEDIUM']",Finished,Mexico City Grand Prix,2022
+63,RUS,2.0,4,"['MEDIUM', 'HARD', 'SOFT']",Finished,Mexico City Grand Prix,2022
+55,SAI,5.0,5,"['SOFT', 'MEDIUM']",Finished,Mexico City Grand Prix,2022
+16,LEC,7.0,6,"['SOFT', 'MEDIUM']",Finished,Mexico City Grand Prix,2022
+3,RIC,11.0,7,"['MEDIUM', 'SOFT']",+1 Lap,Mexico City Grand Prix,2022
+31,OCO,10.0,8,"['MEDIUM', 'HARD']",+1 Lap,Mexico City Grand Prix,2022
+4,NOR,8.0,9,"['MEDIUM', 'HARD']",+1 Lap,Mexico City Grand Prix,2022
+77,BOT,6.0,10,"['MEDIUM', 'HARD']",+1 Lap,Mexico City Grand Prix,2022
+10,GAS,14.0,11,"['MEDIUM', 'SOFT']",+1 Lap,Mexico City Grand Prix,2022
+23,ALB,17.0,12,"['MEDIUM', 'SOFT']",+1 Lap,Mexico City Grand Prix,2022
+24,ZHO,12.0,13,"['MEDIUM', 'SOFT']",+1 Lap,Mexico City Grand Prix,2022
+5,VET,16.0,14,"['SOFT', 'MEDIUM']",+1 Lap,Mexico City Grand Prix,2022
+18,STR,20.0,15,"['MEDIUM', 'SOFT', 'SOFT']",+1 Lap,Mexico City Grand Prix,2022
+47,MSC,15.0,16,"['SOFT', 'MEDIUM']",+1 Lap,Mexico City Grand Prix,2022
+20,MAG,19.0,17,"['MEDIUM', 'SOFT']",+1 Lap,Mexico City Grand Prix,2022
+6,LAT,18.0,18,"['SOFT', 'HARD', 'SOFT']",+2 Laps,Mexico City Grand Prix,2022
+14,ALO,9.0,19,"['MEDIUM', 'HARD']",Engine,Mexico City Grand Prix,2022
+22,TSU,13.0,R,"['SOFT', 'MEDIUM']",Collision damage,Mexico City Grand Prix,2022
+63,RUS,1.0,1,"['SOFT', 'MEDIUM', 'SOFT']",Finished,São Paulo Grand Prix,2022
+44,HAM,2.0,2,"['SOFT', 'MEDIUM', 'SOFT']",Finished,São Paulo Grand Prix,2022
+55,SAI,7.0,3,"['MEDIUM', 'SOFT', 'MEDIUM', 'SOFT']",Finished,São Paulo Grand Prix,2022
+16,LEC,5.0,4,"['MEDIUM', 'MEDIUM', 'SOFT', 'SOFT']",Finished,São Paulo Grand Prix,2022
+14,ALO,17.0,5,"['MEDIUM', 'MEDIUM', 'MEDIUM', 'SOFT']",Finished,São Paulo Grand Prix,2022
+1,VER,3.0,6,"['SOFT', 'MEDIUM', 'SOFT', 'SOFT']",Finished,São Paulo Grand Prix,2022
+11,PER,4.0,7,"['SOFT', 'MEDIUM', 'MEDIUM']",Finished,São Paulo Grand Prix,2022
+31,OCO,16.0,8,"['SOFT', 'MEDIUM', 'SOFT']",Finished,São Paulo Grand Prix,2022
+77,BOT,14.0,9,"['SOFT', 'MEDIUM', 'SOFT']",Finished,São Paulo Grand Prix,2022
+18,STR,15.0,10,"['MEDIUM', 'MEDIUM', 'SOFT']",Finished,São Paulo Grand Prix,2022
+5,VET,9.0,11,"['SOFT', 'MEDIUM', 'MEDIUM']",Finished,São Paulo Grand Prix,2022
+24,ZHO,13.0,12,"['SOFT', 'MEDIUM', 'SOFT']",Finished,São Paulo Grand Prix,2022
+47,MSC,12.0,13,"['MEDIUM', 'SOFT', 'SOFT']",Finished,São Paulo Grand Prix,2022
+10,GAS,10.0,14,"['SOFT', 'MEDIUM', 'SOFT', 'MEDIUM']",Finished,São Paulo Grand Prix,2022
+23,ALB,19.0,15,"['HARD', 'MEDIUM', 'MEDIUM', 'MEDIUM']",Finished,São Paulo Grand Prix,2022
+6,LAT,18.0,16,"['MEDIUM', 'HARD', 'MEDIUM', 'SOFT']",Finished,São Paulo Grand Prix,2022
+22,TSU,0.0,17,"['MEDIUM', 'SOFT', 'SOFT', 'MEDIUM']",+1 Lap,São Paulo Grand Prix,2022
+4,NOR,6.0,R,"['SOFT', 'MEDIUM', 'SOFT']",Gearbox,São Paulo Grand Prix,2022
+20,MAG,8.0,R,['MEDIUM'],Collision,São Paulo Grand Prix,2022
+3,RIC,11.0,R,['SOFT'],Collision,São Paulo Grand Prix,2022
+1,VER,1.0,1,"['MEDIUM', 'HARD']",Finished,Abu Dhabi Grand Prix,2022
+16,LEC,3.0,2,"['MEDIUM', 'HARD']",Finished,Abu Dhabi Grand Prix,2022
+11,PER,2.0,3,"['MEDIUM', 'HARD', 'HARD']",Finished,Abu Dhabi Grand Prix,2022
+55,SAI,4.0,4,"['MEDIUM', 'HARD', 'HARD']",Finished,Abu Dhabi Grand Prix,2022
+63,RUS,6.0,5,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Abu Dhabi Grand Prix,2022
+4,NOR,7.0,6,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Abu Dhabi Grand Prix,2022
+31,OCO,8.0,7,"['MEDIUM', 'HARD', 'HARD']",Finished,Abu Dhabi Grand Prix,2022
+18,STR,14.0,8,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Abu Dhabi Grand Prix,2022
+3,RIC,13.0,9,"['MEDIUM', 'HARD']",Finished,Abu Dhabi Grand Prix,2022
+5,VET,9.0,10,"['MEDIUM', 'HARD']",Finished,Abu Dhabi Grand Prix,2022
+22,TSU,11.0,11,"['MEDIUM', 'HARD', 'SOFT']",Finished,Abu Dhabi Grand Prix,2022
+24,ZHO,15.0,12,"['MEDIUM', 'HARD', 'SOFT']",+1 Lap,Abu Dhabi Grand Prix,2022
+23,ALB,19.0,13,"['MEDIUM', 'HARD', 'MEDIUM']",+1 Lap,Abu Dhabi Grand Prix,2022
+10,GAS,17.0,14,"['SOFT', 'HARD']",+1 Lap,Abu Dhabi Grand Prix,2022
+77,BOT,18.0,15,"['HARD', 'MEDIUM']",+1 Lap,Abu Dhabi Grand Prix,2022
+47,MSC,12.0,16,"['MEDIUM', 'HARD', 'MEDIUM']",+1 Lap,Abu Dhabi Grand Prix,2022
+20,MAG,16.0,17,"['HARD', 'MEDIUM']",+1 Lap,Abu Dhabi Grand Prix,2022
+44,HAM,5.0,18,"['MEDIUM', 'HARD']",Hydraulics,Abu Dhabi Grand Prix,2022
+6,LAT,20.0,19,"['MEDIUM', 'HARD', 'MEDIUM']",Collision damage,Abu Dhabi Grand Prix,2022
+14,ALO,10.0,R,"['MEDIUM', 'HARD']",Water leak,Abu Dhabi Grand Prix,2022
+1,VER,1.0,1,"['SOFT', 'SOFT', 'HARD']",Finished,Bahrain Grand Prix,2023
+11,PER,2.0,2,"['SOFT', 'SOFT', 'HARD']",Finished,Bahrain Grand Prix,2023
+14,ALO,5.0,3,"['SOFT', 'HARD', 'HARD']",Finished,Bahrain Grand Prix,2023
+55,SAI,4.0,4,"['SOFT', 'HARD', 'HARD']",Finished,Bahrain Grand Prix,2023
+44,HAM,7.0,5,"['SOFT', 'HARD', 'HARD']",Finished,Bahrain Grand Prix,2023
+18,STR,8.0,6,"['SOFT', 'HARD', 'HARD']",Finished,Bahrain Grand Prix,2023
+63,RUS,6.0,7,"['SOFT', 'HARD', 'HARD']",Finished,Bahrain Grand Prix,2023
+77,BOT,12.0,8,"['SOFT', 'HARD', 'HARD']",Finished,Bahrain Grand Prix,2023
+10,GAS,20.0,9,"['SOFT', 'HARD', 'HARD', 'SOFT']",Finished,Bahrain Grand Prix,2023
+23,ALB,15.0,10,"['SOFT', 'SOFT', 'HARD', 'SOFT']",Finished,Bahrain Grand Prix,2023
+22,TSU,14.0,11,"['SOFT', 'HARD', 'HARD', 'SOFT']",Finished,Bahrain Grand Prix,2023
+2,SAR,16.0,12,"['SOFT', 'SOFT', 'HARD', 'SOFT']",Lapped,Bahrain Grand Prix,2023
+20,MAG,17.0,13,"['HARD', 'HARD', 'SOFT', 'SOFT']",Lapped,Bahrain Grand Prix,2023
+21,DEV,19.0,14,"['SOFT', 'HARD', 'HARD']",Lapped,Bahrain Grand Prix,2023
+27,HUL,10.0,15,"['SOFT', 'HARD', 'HARD', 'SOFT']",Lapped,Bahrain Grand Prix,2023
+24,ZHO,13.0,16,"['SOFT', 'HARD', 'SOFT', 'SOFT']",Lapped,Bahrain Grand Prix,2023
+4,NOR,11.0,17,"['SOFT', 'HARD', 'SOFT', 'MEDIUM', 'HARD', 'SOFT', 'SOFT']",Lapped,Bahrain Grand Prix,2023
+31,OCO,9.0,R,"['SOFT', 'HARD', 'HARD', 'HARD']",Retired,Bahrain Grand Prix,2023
+16,LEC,3.0,R,"['SOFT', 'HARD', 'HARD']",Retired,Bahrain Grand Prix,2023
+81,PIA,18.0,R,['SOFT'],Retired,Bahrain Grand Prix,2023
+11,PER,1.0,1,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2023
+1,VER,15.0,2,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2023
+14,ALO,2.0,3,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2023
+63,RUS,3.0,4,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2023
+44,HAM,7.0,5,"['HARD', 'MEDIUM']",Finished,Saudi Arabian Grand Prix,2023
+55,SAI,4.0,6,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2023
+16,LEC,12.0,7,"['SOFT', 'HARD']",Finished,Saudi Arabian Grand Prix,2023
+31,OCO,6.0,8,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2023
+10,GAS,9.0,9,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2023
+20,MAG,13.0,10,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2023
+22,TSU,16.0,11,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2023
+27,HUL,10.0,12,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2023
+24,ZHO,11.0,13,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Saudi Arabian Grand Prix,2023
+21,DEV,18.0,14,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2023
+81,PIA,8.0,15,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2023
+2,SAR,20.0,16,"['HARD', 'MEDIUM']",Finished,Saudi Arabian Grand Prix,2023
+4,NOR,19.0,17,"['SOFT', 'HARD', 'MEDIUM']",Finished,Saudi Arabian Grand Prix,2023
+77,BOT,14.0,18,"['MEDIUM', 'HARD', 'MEDIUM', 'SOFT']",Lapped,Saudi Arabian Grand Prix,2023
+23,ALB,17.0,R,"['MEDIUM', 'HARD']",Retired,Saudi Arabian Grand Prix,2023
+18,STR,5.0,R,"['MEDIUM', 'HARD']",Retired,Saudi Arabian Grand Prix,2023
+1,VER,1.0,1,"['MEDIUM', 'HARD', 'SOFT', 'SOFT']",Finished,Australian Grand Prix,2023
+44,HAM,3.0,2,"['MEDIUM', 'HARD', 'SOFT', 'SOFT']",Finished,Australian Grand Prix,2023
+14,ALO,4.0,3,"['MEDIUM', 'HARD', 'SOFT', 'SOFT']",Finished,Australian Grand Prix,2023
+18,STR,6.0,4,"['MEDIUM', 'HARD', 'SOFT', 'SOFT']",Finished,Australian Grand Prix,2023
+11,PER,20.0,5,"['HARD', 'MEDIUM', 'HARD', 'HARD', 'SOFT', 'SOFT']",Finished,Australian Grand Prix,2023
+4,NOR,13.0,6,"['MEDIUM', 'HARD', 'SOFT', 'SOFT']",Finished,Australian Grand Prix,2023
+27,HUL,10.0,7,"['MEDIUM', 'HARD', 'SOFT', 'SOFT']",Finished,Australian Grand Prix,2023
+81,PIA,16.0,8,"['MEDIUM', 'HARD', 'SOFT', 'SOFT', 'SOFT']",Finished,Australian Grand Prix,2023
+24,ZHO,17.0,9,"['SOFT', 'HARD', 'HARD', 'SOFT', 'SOFT', 'SOFT']",Finished,Australian Grand Prix,2023
+22,TSU,12.0,10,"['MEDIUM', 'HARD', 'SOFT', 'SOFT', 'SOFT']",Finished,Australian Grand Prix,2023
+77,BOT,19.0,11,"['SOFT', 'HARD', 'HARD', 'SOFT', 'SOFT', 'SOFT', 'SOFT']",Finished,Australian Grand Prix,2023
+55,SAI,5.0,12,"['MEDIUM', 'HARD', 'HARD', 'SOFT', 'SOFT']",Finished,Australian Grand Prix,2023
+10,GAS,9.0,13,"['SOFT', 'HARD', 'SOFT']",Retired,Australian Grand Prix,2023
+31,OCO,11.0,14,"['SOFT', 'HARD', 'HARD', 'SOFT']",Retired,Australian Grand Prix,2023
+21,DEV,15.0,15,"['HARD', 'MEDIUM', 'SOFT', 'SOFT', 'SOFT']",Retired,Australian Grand Prix,2023
+2,SAR,18.0,16,"['HARD', 'MEDIUM', 'HARD', 'MEDIUM', 'HARD', 'SOFT', 'SOFT']",Retired,Australian Grand Prix,2023
+20,MAG,14.0,17,"['MEDIUM', 'HARD', 'HARD']",Retired,Australian Grand Prix,2023
+63,RUS,2.0,R,"['MEDIUM', 'HARD', 'HARD']",Retired,Australian Grand Prix,2023
+23,ALB,8.0,R,['MEDIUM'],Retired,Australian Grand Prix,2023
+16,LEC,7.0,R,['MEDIUM'],Retired,Australian Grand Prix,2023
+11,PER,3.0,1,"['MEDIUM', 'HARD']",Finished,Azerbaijan Grand Prix,2023
+1,VER,2.0,2,"['MEDIUM', 'HARD']",Finished,Azerbaijan Grand Prix,2023
+16,LEC,1.0,3,"['MEDIUM', 'HARD']",Finished,Azerbaijan Grand Prix,2023
+14,ALO,6.0,4,"['MEDIUM', 'HARD']",Finished,Azerbaijan Grand Prix,2023
+55,SAI,4.0,5,"['MEDIUM', 'HARD']",Finished,Azerbaijan Grand Prix,2023
+44,HAM,5.0,6,"['MEDIUM', 'HARD']",Finished,Azerbaijan Grand Prix,2023
+18,STR,9.0,7,"['MEDIUM', 'HARD']",Finished,Azerbaijan Grand Prix,2023
+63,RUS,11.0,8,"['MEDIUM', 'HARD', 'SOFT']",Finished,Azerbaijan Grand Prix,2023
+4,NOR,7.0,9,"['MEDIUM', 'HARD']",Finished,Azerbaijan Grand Prix,2023
+22,TSU,8.0,10,"['MEDIUM', 'HARD']",Finished,Azerbaijan Grand Prix,2023
+81,PIA,10.0,11,"['MEDIUM', 'HARD']",Finished,Azerbaijan Grand Prix,2023
+23,ALB,12.0,12,"['MEDIUM', 'HARD']",Finished,Azerbaijan Grand Prix,2023
+20,MAG,16.0,13,"['MEDIUM', 'HARD']",Finished,Azerbaijan Grand Prix,2023
+10,GAS,17.0,14,"['MEDIUM', 'HARD', 'HARD']",Finished,Azerbaijan Grand Prix,2023
+31,OCO,19.0,15,"['HARD', 'SOFT']",Finished,Azerbaijan Grand Prix,2023
+2,SAR,14.0,16,"['MEDIUM', 'HARD']",Finished,Azerbaijan Grand Prix,2023
+27,HUL,20.0,17,"['HARD', 'SOFT']",Lapped,Azerbaijan Grand Prix,2023
+77,BOT,13.0,18,"['MEDIUM', 'HARD', 'HARD', 'MEDIUM']",Lapped,Azerbaijan Grand Prix,2023
+24,ZHO,15.0,R,"['MEDIUM', 'HARD']",Retired,Azerbaijan Grand Prix,2023
+21,DEV,18.0,R,['HARD'],Retired,Azerbaijan Grand Prix,2023
+1,VER,9.0,1,"['HARD', 'MEDIUM']",Finished,Miami Grand Prix,2023
+11,PER,1.0,2,"['MEDIUM', 'HARD']",Finished,Miami Grand Prix,2023
+14,ALO,2.0,3,"['MEDIUM', 'HARD']",Finished,Miami Grand Prix,2023
+63,RUS,6.0,4,"['MEDIUM', 'HARD']",Finished,Miami Grand Prix,2023
+55,SAI,3.0,5,"['MEDIUM', 'HARD']",Finished,Miami Grand Prix,2023
+44,HAM,13.0,6,"['HARD', 'MEDIUM']",Finished,Miami Grand Prix,2023
+16,LEC,7.0,7,"['MEDIUM', 'HARD']",Finished,Miami Grand Prix,2023
+10,GAS,5.0,8,"['MEDIUM', 'HARD']",Finished,Miami Grand Prix,2023
+31,OCO,8.0,9,"['HARD', 'MEDIUM']",Finished,Miami Grand Prix,2023
+20,MAG,4.0,10,"['MEDIUM', 'HARD']",Finished,Miami Grand Prix,2023
+22,TSU,17.0,11,"['HARD', 'MEDIUM']",Finished,Miami Grand Prix,2023
+18,STR,18.0,12,"['HARD', 'MEDIUM']",Finished,Miami Grand Prix,2023
+77,BOT,10.0,13,"['MEDIUM', 'HARD']",Finished,Miami Grand Prix,2023
+23,ALB,11.0,14,"['MEDIUM', 'HARD']",Finished,Miami Grand Prix,2023
+27,HUL,12.0,15,"['HARD', 'MEDIUM']",Finished,Miami Grand Prix,2023
+24,ZHO,14.0,16,"['HARD', 'MEDIUM']",Finished,Miami Grand Prix,2023
+4,NOR,16.0,17,"['SOFT', 'HARD']",Finished,Miami Grand Prix,2023
+21,DEV,15.0,18,"['MEDIUM', 'HARD']",Finished,Miami Grand Prix,2023
+81,PIA,19.0,19,"['SOFT', 'HARD']",Lapped,Miami Grand Prix,2023
+2,SAR,20.0,20,"['MEDIUM', 'HARD']",Lapped,Miami Grand Prix,2023
+1,VER,1.0,1,"['MEDIUM', 'INTERMEDIATE']",Finished,Monaco Grand Prix,2023
+14,ALO,2.0,2,"['HARD', 'MEDIUM', 'INTERMEDIATE']",Finished,Monaco Grand Prix,2023
+31,OCO,3.0,3,"['MEDIUM', 'HARD', 'INTERMEDIATE']",Finished,Monaco Grand Prix,2023
+44,HAM,5.0,4,"['MEDIUM', 'HARD', 'INTERMEDIATE']",Finished,Monaco Grand Prix,2023
+63,RUS,8.0,5,"['HARD', 'INTERMEDIATE']",Finished,Monaco Grand Prix,2023
+16,LEC,6.0,6,"['HARD', 'MEDIUM', 'INTERMEDIATE']",Finished,Monaco Grand Prix,2023
+10,GAS,7.0,7,"['HARD', 'MEDIUM', 'INTERMEDIATE']",Finished,Monaco Grand Prix,2023
+55,SAI,4.0,8,"['HARD', 'MEDIUM', 'INTERMEDIATE']",Finished,Monaco Grand Prix,2023
+4,NOR,10.0,9,"['MEDIUM', 'HARD', 'INTERMEDIATE']",Lapped,Monaco Grand Prix,2023
+81,PIA,11.0,10,"['HARD', 'INTERMEDIATE']",Lapped,Monaco Grand Prix,2023
+77,BOT,15.0,11,"['HARD', 'INTERMEDIATE']",Lapped,Monaco Grand Prix,2023
+21,DEV,12.0,12,"['MEDIUM', 'INTERMEDIATE']",Lapped,Monaco Grand Prix,2023
+24,ZHO,19.0,13,"['SOFT', 'HARD', 'INTERMEDIATE']",Lapped,Monaco Grand Prix,2023
+23,ALB,13.0,14,"['MEDIUM', 'HARD', 'INTERMEDIATE']",Lapped,Monaco Grand Prix,2023
+22,TSU,9.0,15,"['MEDIUM', 'INTERMEDIATE']",Lapped,Monaco Grand Prix,2023
+11,PER,20.0,16,"['MEDIUM', 'HARD', 'MEDIUM', 'INTERMEDIATE', 'WET', 'INTERMEDIATE']",Lapped,Monaco Grand Prix,2023
+27,HUL,18.0,17,"['MEDIUM', 'HARD', 'INTERMEDIATE', 'WET']",Lapped,Monaco Grand Prix,2023
+2,SAR,16.0,18,"['MEDIUM', 'HARD', 'SOFT', 'INTERMEDIATE']",Lapped,Monaco Grand Prix,2023
+20,MAG,17.0,19,"['HARD', 'WET']",Retired,Monaco Grand Prix,2023
+18,STR,14.0,R,"['HARD', 'INTERMEDIATE']",Retired,Monaco Grand Prix,2023
+1,VER,1.0,1,"['MEDIUM', 'HARD', 'SOFT']",Finished,Spanish Grand Prix,2023
+44,HAM,4.0,2,"['SOFT', 'MEDIUM', 'SOFT']",Finished,Spanish Grand Prix,2023
+63,RUS,12.0,3,"['SOFT', 'MEDIUM', 'SOFT']",Finished,Spanish Grand Prix,2023
+11,PER,11.0,4,"['MEDIUM', 'HARD', 'SOFT']",Finished,Spanish Grand Prix,2023
+55,SAI,2.0,5,"['SOFT', 'MEDIUM', 'HARD']",Finished,Spanish Grand Prix,2023
+18,STR,5.0,6,"['SOFT', 'SOFT', 'HARD']",Finished,Spanish Grand Prix,2023
+14,ALO,8.0,7,"['SOFT', 'SOFT', 'HARD']",Finished,Spanish Grand Prix,2023
+31,OCO,6.0,8,"['SOFT', 'MEDIUM', 'HARD']",Finished,Spanish Grand Prix,2023
+24,ZHO,13.0,9,"['SOFT', 'HARD', 'HARD']",Finished,Spanish Grand Prix,2023
+10,GAS,10.0,10,"['SOFT', 'MEDIUM', 'HARD']",Finished,Spanish Grand Prix,2023
+16,LEC,19.0,11,"['HARD', 'SOFT', 'HARD']",Finished,Spanish Grand Prix,2023
+22,TSU,15.0,12,"['SOFT', 'HARD', 'MEDIUM']",Finished,Spanish Grand Prix,2023
+81,PIA,9.0,13,"['SOFT', 'HARD', 'MEDIUM']",Lapped,Spanish Grand Prix,2023
+21,DEV,14.0,14,"['SOFT', 'HARD', 'MEDIUM']",Lapped,Spanish Grand Prix,2023
+27,HUL,7.0,15,"['SOFT', 'MEDIUM', 'HARD', 'MEDIUM']",Lapped,Spanish Grand Prix,2023
+23,ALB,18.0,16,"['SOFT', 'HARD', 'MEDIUM']",Lapped,Spanish Grand Prix,2023
+4,NOR,3.0,17,"['SOFT', 'HARD', 'MEDIUM', 'SOFT']",Lapped,Spanish Grand Prix,2023
+20,MAG,17.0,18,"['SOFT', 'MEDIUM', 'HARD', 'MEDIUM']",Lapped,Spanish Grand Prix,2023
+77,BOT,16.0,19,"['SOFT', 'HARD', 'HARD']",Lapped,Spanish Grand Prix,2023
+2,SAR,20.0,20,"['MEDIUM', 'HARD', 'HARD']",Lapped,Spanish Grand Prix,2023
+1,VER,1.0,1,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Canadian Grand Prix,2023
+14,ALO,2.0,2,"['MEDIUM', 'HARD', 'HARD']",Finished,Canadian Grand Prix,2023
+44,HAM,3.0,3,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Canadian Grand Prix,2023
+16,LEC,10.0,4,"['MEDIUM', 'HARD']",Finished,Canadian Grand Prix,2023
+55,SAI,11.0,5,"['MEDIUM', 'HARD']",Finished,Canadian Grand Prix,2023
+11,PER,12.0,6,"['HARD', 'MEDIUM', 'SOFT']",Finished,Canadian Grand Prix,2023
+23,ALB,9.0,7,"['MEDIUM', 'HARD']",Finished,Canadian Grand Prix,2023
+31,OCO,6.0,8,"['MEDIUM', 'HARD', 'HARD']",Finished,Canadian Grand Prix,2023
+18,STR,16.0,9,"['MEDIUM', 'HARD', 'HARD']",Finished,Canadian Grand Prix,2023
+77,BOT,14.0,10,"['HARD', 'MEDIUM']",Finished,Canadian Grand Prix,2023
+81,PIA,8.0,11,"['MEDIUM', 'HARD', 'HARD']",Finished,Canadian Grand Prix,2023
+10,GAS,15.0,12,"['SOFT', 'HARD', 'HARD']",Finished,Canadian Grand Prix,2023
+4,NOR,7.0,13,"['MEDIUM', 'HARD', 'HARD']",Finished,Canadian Grand Prix,2023
+22,TSU,19.0,14,"['MEDIUM', 'HARD', 'None']",Finished,Canadian Grand Prix,2023
+27,HUL,5.0,15,"['MEDIUM', 'HARD', 'HARD']",Lapped,Canadian Grand Prix,2023
+24,ZHO,20.0,16,"['MEDIUM', 'HARD', 'HARD']",Lapped,Canadian Grand Prix,2023
+20,MAG,13.0,17,"['HARD', 'MEDIUM', 'MEDIUM']",Lapped,Canadian Grand Prix,2023
+21,DEV,17.0,18,"['MEDIUM', 'HARD', 'HARD']",Lapped,Canadian Grand Prix,2023
+63,RUS,4.0,R,"['MEDIUM', 'HARD']",Retired,Canadian Grand Prix,2023
+2,SAR,18.0,R,['MEDIUM'],Retired,Canadian Grand Prix,2023
+1,VER,1.0,1,"['MEDIUM', 'MEDIUM', 'HARD', 'MEDIUM', 'SOFT']",Finished,Austrian Grand Prix,2023
+16,LEC,2.0,2,"['MEDIUM', 'MEDIUM', 'MEDIUM', 'HARD']",Finished,Austrian Grand Prix,2023
+11,PER,15.0,3,"['MEDIUM', 'MEDIUM', 'MEDIUM', 'HARD']",Finished,Austrian Grand Prix,2023
+4,NOR,4.0,4,"['MEDIUM', 'MEDIUM', 'HARD', 'HARD']",Finished,Austrian Grand Prix,2023
+14,ALO,7.0,5,"['HARD', 'HARD', 'MEDIUM', 'MEDIUM']",Finished,Austrian Grand Prix,2023
+55,SAI,3.0,6,"['MEDIUM', 'MEDIUM', 'MEDIUM', 'HARD']",Finished,Austrian Grand Prix,2023
+63,RUS,11.0,7,"['MEDIUM', 'MEDIUM', 'HARD', 'MEDIUM']",Finished,Austrian Grand Prix,2023
+44,HAM,5.0,8,"['MEDIUM', 'MEDIUM', 'HARD', 'MEDIUM']",Finished,Austrian Grand Prix,2023
+18,STR,6.0,9,"['MEDIUM', 'MEDIUM', 'HARD', 'HARD', 'MEDIUM']",Finished,Austrian Grand Prix,2023
+10,GAS,9.0,10,"['MEDIUM', 'MEDIUM', 'HARD', 'MEDIUM']",Finished,Austrian Grand Prix,2023
+23,ALB,10.0,11,"['MEDIUM', 'MEDIUM', 'HARD', 'HARD']",Finished,Austrian Grand Prix,2023
+24,ZHO,17.0,12,"['MEDIUM', 'MEDIUM', 'HARD', 'HARD']",Lapped,Austrian Grand Prix,2023
+2,SAR,18.0,13,"['MEDIUM', 'MEDIUM', 'HARD', 'HARD']",Lapped,Austrian Grand Prix,2023
+31,OCO,12.0,14,"['MEDIUM', 'MEDIUM', 'HARD', 'HARD']",Lapped,Austrian Grand Prix,2023
+77,BOT,14.0,15,"['HARD', 'HARD', 'MEDIUM', 'HARD']",Lapped,Austrian Grand Prix,2023
+81,PIA,13.0,16,"['MEDIUM', 'MEDIUM', 'HARD', 'HARD', 'MEDIUM']",Lapped,Austrian Grand Prix,2023
+21,DEV,20.0,17,"['MEDIUM', 'MEDIUM', 'HARD', 'MEDIUM']",Lapped,Austrian Grand Prix,2023
+20,MAG,19.0,18,"['HARD', 'MEDIUM', 'HARD', 'HARD']",Lapped,Austrian Grand Prix,2023
+22,TSU,16.0,19,"['MEDIUM', 'HARD', 'HARD', 'HARD', 'MEDIUM']",Lapped,Austrian Grand Prix,2023
+27,HUL,8.0,R,"['MEDIUM', 'MEDIUM', 'HARD']",Retired,Austrian Grand Prix,2023
+1,VER,1.0,1,"['MEDIUM', 'SOFT']",Finished,British Grand Prix,2023
+4,NOR,2.0,2,"['MEDIUM', 'HARD']",Finished,British Grand Prix,2023
+44,HAM,7.0,3,"['MEDIUM', 'SOFT']",Finished,British Grand Prix,2023
+81,PIA,3.0,4,"['MEDIUM', 'HARD']",Finished,British Grand Prix,2023
+63,RUS,6.0,5,"['SOFT', 'MEDIUM']",Finished,British Grand Prix,2023
+11,PER,15.0,6,"['MEDIUM', 'SOFT']",Finished,British Grand Prix,2023
+14,ALO,9.0,7,"['MEDIUM', 'SOFT']",Finished,British Grand Prix,2023
+23,ALB,8.0,8,"['MEDIUM', 'SOFT']",Finished,British Grand Prix,2023
+16,LEC,4.0,9,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,British Grand Prix,2023
+55,SAI,5.0,10,"['MEDIUM', 'HARD']",Finished,British Grand Prix,2023
+2,SAR,14.0,11,"['MEDIUM', 'SOFT']",Finished,British Grand Prix,2023
+77,BOT,20.0,12,"['HARD', 'SOFT']",Finished,British Grand Prix,2023
+27,HUL,11.0,13,"['HARD', 'MEDIUM', 'SOFT']",Finished,British Grand Prix,2023
+18,STR,12.0,14,"['MEDIUM', 'SOFT']",Finished,British Grand Prix,2023
+24,ZHO,17.0,15,"['MEDIUM', 'HARD', 'SOFT', 'SOFT']",Finished,British Grand Prix,2023
+22,TSU,16.0,16,"['SOFT', 'HARD', 'SOFT']",Finished,British Grand Prix,2023
+21,DEV,18.0,17,"['SOFT', 'MEDIUM', 'SOFT']",Finished,British Grand Prix,2023
+10,GAS,10.0,18,"['MEDIUM', 'SOFT']",Retired,British Grand Prix,2023
+20,MAG,19.0,R,['MEDIUM'],Retired,British Grand Prix,2023
+31,OCO,13.0,R,['SOFT'],Retired,British Grand Prix,2023
+1,VER,2.0,1,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Hungarian Grand Prix,2023
+4,NOR,3.0,2,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Hungarian Grand Prix,2023
+11,PER,9.0,3,"['HARD', 'MEDIUM', 'MEDIUM']",Finished,Hungarian Grand Prix,2023
+44,HAM,1.0,4,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Hungarian Grand Prix,2023
+81,PIA,4.0,5,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Hungarian Grand Prix,2023
+63,RUS,18.0,6,"['HARD', 'MEDIUM', 'MEDIUM']",Finished,Hungarian Grand Prix,2023
+16,LEC,6.0,7,"['MEDIUM', 'HARD', 'HARD']",Finished,Hungarian Grand Prix,2023
+55,SAI,11.0,8,"['SOFT', 'HARD', 'HARD']",Finished,Hungarian Grand Prix,2023
+14,ALO,8.0,9,"['MEDIUM', 'HARD', 'HARD']",Finished,Hungarian Grand Prix,2023
+18,STR,14.0,10,"['SOFT', 'HARD', 'HARD']",Lapped,Hungarian Grand Prix,2023
+23,ALB,16.0,11,"['MEDIUM', 'HARD', 'HARD']",Lapped,Hungarian Grand Prix,2023
+77,BOT,7.0,12,"['MEDIUM', 'HARD', 'HARD']",Lapped,Hungarian Grand Prix,2023
+3,RIC,13.0,13,"['MEDIUM', 'HARD', 'MEDIUM']",Lapped,Hungarian Grand Prix,2023
+27,HUL,10.0,14,"['MEDIUM', 'HARD', 'HARD']",Lapped,Hungarian Grand Prix,2023
+22,TSU,17.0,15,"['SOFT', 'HARD', 'MEDIUM']",Lapped,Hungarian Grand Prix,2023
+24,ZHO,5.0,16,"['MEDIUM', 'HARD', 'HARD']",Lapped,Hungarian Grand Prix,2023
+20,MAG,19.0,17,"['MEDIUM', 'HARD', 'HARD']",Lapped,Hungarian Grand Prix,2023
+2,SAR,20.0,18,"['MEDIUM', 'HARD', 'HARD']",Retired,Hungarian Grand Prix,2023
+31,OCO,12.0,R,['MEDIUM'],Retired,Hungarian Grand Prix,2023
+10,GAS,15.0,R,['SOFT'],Retired,Hungarian Grand Prix,2023
+1,VER,6.0,1,"['SOFT', 'MEDIUM', 'SOFT']",Finished,Belgian Grand Prix,2023
+11,PER,2.0,2,"['SOFT', 'MEDIUM', 'SOFT']",Finished,Belgian Grand Prix,2023
+16,LEC,1.0,3,"['SOFT', 'MEDIUM', 'SOFT']",Finished,Belgian Grand Prix,2023
+44,HAM,3.0,4,"['SOFT', 'MEDIUM', 'SOFT', 'MEDIUM']",Finished,Belgian Grand Prix,2023
+14,ALO,9.0,5,"['MEDIUM', 'MEDIUM', 'SOFT']",Finished,Belgian Grand Prix,2023
+63,RUS,8.0,6,"['MEDIUM', 'SOFT']",Finished,Belgian Grand Prix,2023
+4,NOR,7.0,7,"['MEDIUM', 'HARD', 'SOFT']",Finished,Belgian Grand Prix,2023
+31,OCO,14.0,8,"['SOFT', 'MEDIUM', 'SOFT']",Finished,Belgian Grand Prix,2023
+18,STR,10.0,9,"['MEDIUM', 'SOFT']",Finished,Belgian Grand Prix,2023
+22,TSU,11.0,10,"['MEDIUM', 'MEDIUM', 'SOFT']",Finished,Belgian Grand Prix,2023
+10,GAS,12.0,11,"['SOFT', 'MEDIUM']",Finished,Belgian Grand Prix,2023
+77,BOT,13.0,12,"['SOFT', 'MEDIUM', 'MEDIUM']",Finished,Belgian Grand Prix,2023
+24,ZHO,17.0,13,"['SOFT', 'MEDIUM', 'SOFT']",Finished,Belgian Grand Prix,2023
+23,ALB,15.0,14,"['SOFT', 'MEDIUM', 'MEDIUM', 'SOFT']",Finished,Belgian Grand Prix,2023
+20,MAG,16.0,15,"['SOFT', 'MEDIUM', 'MEDIUM']",Finished,Belgian Grand Prix,2023
+3,RIC,19.0,16,"['SOFT', 'MEDIUM', 'MEDIUM']",Finished,Belgian Grand Prix,2023
+2,SAR,18.0,17,"['SOFT', 'MEDIUM', 'MEDIUM', 'SOFT']",Finished,Belgian Grand Prix,2023
+27,HUL,20.0,18,"['MEDIUM', 'SOFT', 'SOFT']",Finished,Belgian Grand Prix,2023
+55,SAI,4.0,R,"['SOFT', 'MEDIUM']",Retired,Belgian Grand Prix,2023
+81,PIA,5.0,R,['MEDIUM'],Retired,Belgian Grand Prix,2023
+1,VER,1.0,1,"['SOFT', 'INTERMEDIATE', 'SOFT', 'SOFT', 'INTERMEDIATE', 'WET', 'INTERMEDIATE']",Finished,Dutch Grand Prix,2023
+14,ALO,5.0,2,"['SOFT', 'INTERMEDIATE', 'SOFT', 'SOFT', 'INTERMEDIATE', 'INTERMEDIATE']",Finished,Dutch Grand Prix,2023
+10,GAS,12.0,3,"['SOFT', 'INTERMEDIATE', 'SOFT', 'SOFT', 'INTERMEDIATE', 'INTERMEDIATE']",Finished,Dutch Grand Prix,2023
+11,PER,7.0,4,"['SOFT', 'INTERMEDIATE', 'SOFT', 'SOFT', 'INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE']",Finished,Dutch Grand Prix,2023
+55,SAI,6.0,5,"['SOFT', 'INTERMEDIATE', 'SOFT', 'SOFT', 'INTERMEDIATE', 'INTERMEDIATE']",Finished,Dutch Grand Prix,2023
+44,HAM,13.0,6,"['MEDIUM', 'INTERMEDIATE', 'SOFT', 'SOFT', 'INTERMEDIATE', 'INTERMEDIATE']",Finished,Dutch Grand Prix,2023
+4,NOR,2.0,7,"['SOFT', 'INTERMEDIATE', 'SOFT', 'SOFT', 'INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE']",Finished,Dutch Grand Prix,2023
+23,ALB,4.0,8,"['SOFT', 'MEDIUM', 'INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE']",Finished,Dutch Grand Prix,2023
+81,PIA,8.0,9,"['SOFT', 'SOFT', 'MEDIUM', 'INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE']",Finished,Dutch Grand Prix,2023
+31,OCO,16.0,10,"['SOFT', 'INTERMEDIATE', 'SOFT', 'SOFT', 'WET', 'INTERMEDIATE', 'INTERMEDIATE']",Finished,Dutch Grand Prix,2023
+18,STR,11.0,11,"['SOFT', 'INTERMEDIATE', 'SOFT', 'MEDIUM', 'SOFT', 'INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE']",Finished,Dutch Grand Prix,2023
+27,HUL,14.0,12,"['SOFT', 'MEDIUM', 'SOFT', 'INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE']",Finished,Dutch Grand Prix,2023
+40,LAW,19.0,13,"['SOFT', 'INTERMEDIATE', 'SOFT', 'MEDIUM', 'SOFT', 'INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE']",Finished,Dutch Grand Prix,2023
+77,BOT,18.0,14,"['SOFT', 'MEDIUM', 'SOFT', 'INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE']",Finished,Dutch Grand Prix,2023
+22,TSU,17.0,15,"['SOFT', 'INTERMEDIATE', 'SOFT', 'INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE']",Finished,Dutch Grand Prix,2023
+20,MAG,0.0,16,"['SOFT', 'INTERMEDIATE', 'SOFT', 'MEDIUM', 'INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE']",Finished,Dutch Grand Prix,2023
+63,RUS,3.0,17,"['SOFT', 'INTERMEDIATE', 'SOFT', 'HARD', 'INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE']",Finished,Dutch Grand Prix,2023
+24,ZHO,15.0,R,"['SOFT', 'INTERMEDIATE', 'MEDIUM', 'SOFT', 'INTERMEDIATE']",Accident,Dutch Grand Prix,2023
+16,LEC,9.0,R,"['SOFT', 'INTERMEDIATE', 'SOFT']",Undertray,Dutch Grand Prix,2023
+2,SAR,10.0,R,['SOFT'],Accident,Dutch Grand Prix,2023
+1,VER,2.0,1,"['MEDIUM', 'HARD']",Finished,Italian Grand Prix,2023
+11,PER,5.0,2,"['MEDIUM', 'HARD']",Finished,Italian Grand Prix,2023
+55,SAI,1.0,3,"['MEDIUM', 'HARD']",Finished,Italian Grand Prix,2023
+16,LEC,3.0,4,"['MEDIUM', 'HARD']",Finished,Italian Grand Prix,2023
+63,RUS,4.0,5,"['MEDIUM', 'HARD']",Finished,Italian Grand Prix,2023
+44,HAM,8.0,6,"['HARD', 'MEDIUM']",Finished,Italian Grand Prix,2023
+23,ALB,6.0,7,"['MEDIUM', 'HARD']",Finished,Italian Grand Prix,2023
+4,NOR,9.0,8,"['MEDIUM', 'HARD']",Finished,Italian Grand Prix,2023
+14,ALO,10.0,9,"['MEDIUM', 'HARD']",Finished,Italian Grand Prix,2023
+77,BOT,14.0,10,"['HARD', 'MEDIUM']",Finished,Italian Grand Prix,2023
+40,LAW,12.0,11,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Italian Grand Prix,2023
+81,PIA,7.0,12,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Italian Grand Prix,2023
+2,SAR,15.0,13,"['MEDIUM', 'HARD']",Finished,Italian Grand Prix,2023
+24,ZHO,16.0,14,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Italian Grand Prix,2023
+10,GAS,17.0,15,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Italian Grand Prix,2023
+18,STR,20.0,16,"['MEDIUM', 'HARD']",Finished,Italian Grand Prix,2023
+27,HUL,13.0,17,"['MEDIUM', 'HARD', 'MEDIUM']",Lapped,Italian Grand Prix,2023
+20,MAG,19.0,18,"['HARD', 'MEDIUM', 'MEDIUM']",Lapped,Italian Grand Prix,2023
+31,OCO,18.0,R,"['MEDIUM', 'HARD']",Retired,Italian Grand Prix,2023
+22,TSU,11.0,W,['MEDIUM'],Did not start,Italian Grand Prix,2023
+55,SAI,1.0,1,"['MEDIUM', 'HARD']",Finished,Singapore Grand Prix,2023
+4,NOR,4.0,2,"['MEDIUM', 'HARD']",Finished,Singapore Grand Prix,2023
+44,HAM,5.0,3,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Singapore Grand Prix,2023
+16,LEC,3.0,4,"['SOFT', 'HARD']",Finished,Singapore Grand Prix,2023
+1,VER,11.0,5,"['HARD', 'MEDIUM']",Finished,Singapore Grand Prix,2023
+10,GAS,12.0,6,"['MEDIUM', 'HARD']",Finished,Singapore Grand Prix,2023
+81,PIA,17.0,7,"['MEDIUM', 'HARD']",Finished,Singapore Grand Prix,2023
+11,PER,13.0,8,"['HARD', 'MEDIUM']",Finished,Singapore Grand Prix,2023
+40,LAW,10.0,9,"['MEDIUM', 'HARD']",Finished,Singapore Grand Prix,2023
+20,MAG,6.0,10,"['MEDIUM', 'HARD', 'SOFT']",Finished,Singapore Grand Prix,2023
+23,ALB,14.0,11,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Singapore Grand Prix,2023
+24,ZHO,19.0,12,"['SOFT', 'HARD', 'MEDIUM']",Finished,Singapore Grand Prix,2023
+27,HUL,9.0,13,"['MEDIUM', 'HARD']",Finished,Singapore Grand Prix,2023
+2,SAR,18.0,14,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Singapore Grand Prix,2023
+14,ALO,7.0,15,"['MEDIUM', 'HARD', 'SOFT']",Finished,Singapore Grand Prix,2023
+63,RUS,2.0,16,"['MEDIUM', 'HARD', 'MEDIUM']",Retired,Singapore Grand Prix,2023
+77,BOT,16.0,R,"['HARD', 'MEDIUM']",Retired,Singapore Grand Prix,2023
+31,OCO,8.0,R,"['MEDIUM', 'HARD']",Retired,Singapore Grand Prix,2023
+22,TSU,15.0,R,['SOFT'],Retired,Singapore Grand Prix,2023
+18,STR,,W,,Withdrew,Singapore Grand Prix,2023
+1,VER,1.0,1,"['MEDIUM', 'MEDIUM', 'HARD']",Finished,Japanese Grand Prix,2023
+4,NOR,3.0,2,"['MEDIUM', 'HARD', 'HARD']",Finished,Japanese Grand Prix,2023
+81,PIA,2.0,3,"['MEDIUM', 'HARD', 'HARD']",Finished,Japanese Grand Prix,2023
+16,LEC,4.0,4,"['MEDIUM', 'MEDIUM', 'HARD']",Finished,Japanese Grand Prix,2023
+44,HAM,7.0,5,"['MEDIUM', 'HARD', 'HARD']",Finished,Japanese Grand Prix,2023
+55,SAI,6.0,6,"['MEDIUM', 'MEDIUM', 'HARD']",Finished,Japanese Grand Prix,2023
+63,RUS,8.0,7,"['MEDIUM', 'HARD']",Finished,Japanese Grand Prix,2023
+14,ALO,10.0,8,"['SOFT', 'HARD', 'HARD']",Finished,Japanese Grand Prix,2023
+31,OCO,14.0,9,"['MEDIUM', 'HARD', 'HARD']",Finished,Japanese Grand Prix,2023
+10,GAS,12.0,10,"['MEDIUM', 'HARD', 'HARD']",Finished,Japanese Grand Prix,2023
+40,LAW,11.0,11,"['SOFT', 'MEDIUM', 'HARD']",Lapped,Japanese Grand Prix,2023
+22,TSU,9.0,12,"['SOFT', 'MEDIUM', 'HARD']",Lapped,Japanese Grand Prix,2023
+24,ZHO,19.0,13,"['SOFT', 'SOFT', 'SOFT', 'HARD']",Lapped,Japanese Grand Prix,2023
+27,HUL,18.0,14,"['SOFT', 'MEDIUM', 'HARD', 'MEDIUM']",Lapped,Japanese Grand Prix,2023
+20,MAG,15.0,15,"['MEDIUM', 'HARD', 'HARD']",Lapped,Japanese Grand Prix,2023
+23,ALB,13.0,R,"['MEDIUM', 'MEDIUM', 'SOFT']",Retired,Japanese Grand Prix,2023
+2,SAR,20.0,R,"['MEDIUM', 'MEDIUM', 'MEDIUM', 'HARD']",Retired,Japanese Grand Prix,2023
+18,STR,17.0,R,"['SOFT', 'MEDIUM']",Retired,Japanese Grand Prix,2023
+11,PER,5.0,R,"['MEDIUM', 'HARD', 'SOFT', 'SOFT', 'SOFT']",Retired,Japanese Grand Prix,2023
+77,BOT,16.0,R,"['SOFT', 'SOFT', 'HARD']",Retired,Japanese Grand Prix,2023
+1,VER,1.0,1,"['MEDIUM', 'MEDIUM', 'HARD', 'MEDIUM']",Finished,Qatar Grand Prix,2023
+81,PIA,6.0,2,"['MEDIUM', 'MEDIUM', 'MEDIUM', 'HARD']",Finished,Qatar Grand Prix,2023
+4,NOR,10.0,3,"['MEDIUM', 'MEDIUM', 'MEDIUM', 'HARD']",Finished,Qatar Grand Prix,2023
+63,RUS,2.0,4,"['MEDIUM', 'MEDIUM', 'MEDIUM', 'HARD', 'SOFT']",Finished,Qatar Grand Prix,2023
+16,LEC,5.0,5,"['MEDIUM', 'MEDIUM', 'HARD', 'MEDIUM']",Finished,Qatar Grand Prix,2023
+14,ALO,4.0,6,"['MEDIUM', 'MEDIUM', 'HARD', 'MEDIUM']",Finished,Qatar Grand Prix,2023
+31,OCO,8.0,7,"['MEDIUM', 'MEDIUM', 'HARD', 'MEDIUM']",Finished,Qatar Grand Prix,2023
+77,BOT,9.0,8,"['SOFT', 'MEDIUM', 'HARD', 'HARD']",Finished,Qatar Grand Prix,2023
+24,ZHO,19.0,9,"['MEDIUM', 'HARD', 'HARD', 'SOFT']",Finished,Qatar Grand Prix,2023
+11,PER,20.0,10,"['HARD', 'MEDIUM', 'MEDIUM', 'MEDIUM']",Finished,Qatar Grand Prix,2023
+18,STR,16.0,11,"['MEDIUM', 'MEDIUM', 'HARD', 'MEDIUM']",Finished,Qatar Grand Prix,2023
+10,GAS,7.0,12,"['MEDIUM', 'MEDIUM', 'HARD', 'MEDIUM']",Finished,Qatar Grand Prix,2023
+23,ALB,13.0,13,"['MEDIUM', 'MEDIUM', 'HARD', 'HARD']",Finished,Qatar Grand Prix,2023
+20,MAG,18.0,14,"['SOFT', 'MEDIUM', 'HARD', 'HARD']",Lapped,Qatar Grand Prix,2023
+22,TSU,11.0,15,"['MEDIUM', 'MEDIUM', 'HARD', 'HARD']",Lapped,Qatar Grand Prix,2023
+27,HUL,14.0,16,"['MEDIUM', 'HARD', 'MEDIUM', 'HARD']",Lapped,Qatar Grand Prix,2023
+40,LAW,17.0,17,"['SOFT', 'HARD', 'HARD', 'MEDIUM']",Lapped,Qatar Grand Prix,2023
+2,SAR,15.0,R,"['MEDIUM', 'MEDIUM', 'HARD']",Retired,Qatar Grand Prix,2023
+44,HAM,3.0,R,['SOFT'],Retired,Qatar Grand Prix,2023
+55,SAI,12.0,W,,Did not start,Qatar Grand Prix,2023
+1,VER,6.0,1,"['MEDIUM', 'MEDIUM', 'HARD']",Finished,United States Grand Prix,2023
+4,NOR,2.0,2,"['MEDIUM', 'HARD', 'HARD']",Finished,United States Grand Prix,2023
+55,SAI,4.0,3,"['MEDIUM', 'MEDIUM', 'HARD']",Finished,United States Grand Prix,2023
+11,PER,9.0,4,"['MEDIUM', 'MEDIUM', 'HARD']",Finished,United States Grand Prix,2023
+63,RUS,5.0,5,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,United States Grand Prix,2023
+10,GAS,7.0,6,"['MEDIUM', 'MEDIUM', 'HARD']",Finished,United States Grand Prix,2023
+18,STR,20.0,7,"['HARD', 'MEDIUM', 'MEDIUM']",Finished,United States Grand Prix,2023
+22,TSU,11.0,8,"['MEDIUM', 'HARD', 'MEDIUM', 'SOFT']",Finished,United States Grand Prix,2023
+23,ALB,15.0,9,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,United States Grand Prix,2023
+2,SAR,16.0,10,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,United States Grand Prix,2023
+27,HUL,18.0,11,"['HARD', 'MEDIUM', 'MEDIUM']",Finished,United States Grand Prix,2023
+77,BOT,13.0,12,"['MEDIUM', 'HARD', 'HARD']",Finished,United States Grand Prix,2023
+24,ZHO,12.0,13,"['MEDIUM', 'HARD', 'HARD']",Lapped,United States Grand Prix,2023
+20,MAG,17.0,14,"['MEDIUM', 'HARD', 'MEDIUM']",Lapped,United States Grand Prix,2023
+3,RIC,14.0,15,"['MEDIUM', 'HARD', 'SOFT']",Lapped,United States Grand Prix,2023
+14,ALO,19.0,R,"['MEDIUM', 'MEDIUM', 'HARD']",Retired,United States Grand Prix,2023
+81,PIA,10.0,R,['MEDIUM'],Retired,United States Grand Prix,2023
+31,OCO,8.0,R,['MEDIUM'],Retired,United States Grand Prix,2023
+44,HAM,3.0,19,"['MEDIUM', 'HARD', 'MEDIUM']",Disqualified,United States Grand Prix,2023
+16,LEC,1.0,20,"['MEDIUM', 'HARD']",Disqualified,United States Grand Prix,2023
+1,VER,3.0,1,"['MEDIUM', 'HARD', 'HARD', 'HARD']",Finished,Mexico City Grand Prix,2023
+44,HAM,6.0,2,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Mexico City Grand Prix,2023
+16,LEC,1.0,3,"['MEDIUM', 'HARD', 'HARD']",Finished,Mexico City Grand Prix,2023
+55,SAI,2.0,4,"['MEDIUM', 'HARD', 'HARD']",Finished,Mexico City Grand Prix,2023
+4,NOR,17.0,5,"['SOFT', 'HARD', 'MEDIUM', 'MEDIUM']",Finished,Mexico City Grand Prix,2023
+63,RUS,8.0,6,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Mexico City Grand Prix,2023
+3,RIC,4.0,7,"['MEDIUM', 'HARD', 'HARD']",Finished,Mexico City Grand Prix,2023
+81,PIA,7.0,8,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Mexico City Grand Prix,2023
+23,ALB,14.0,9,"['HARD', 'MEDIUM', 'MEDIUM']",Finished,Mexico City Grand Prix,2023
+31,OCO,15.0,10,"['HARD', 'MEDIUM']",Finished,Mexico City Grand Prix,2023
+10,GAS,11.0,11,"['MEDIUM', 'HARD', 'HARD']",Finished,Mexico City Grand Prix,2023
+22,TSU,18.0,12,"['MEDIUM', 'HARD', 'HARD']",Finished,Mexico City Grand Prix,2023
+27,HUL,12.0,13,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Mexico City Grand Prix,2023
+24,ZHO,10.0,14,"['MEDIUM', 'HARD', 'HARD']",Finished,Mexico City Grand Prix,2023
+77,BOT,9.0,15,"['MEDIUM', 'HARD', 'HARD']",Finished,Mexico City Grand Prix,2023
+2,SAR,19.0,16,"['MEDIUM', 'HARD', 'MEDIUM']",Retired,Mexico City Grand Prix,2023
+18,STR,0.0,17,"['MEDIUM', 'HARD', 'HARD']",Collision damage,Mexico City Grand Prix,2023
+14,ALO,13.0,W,"['MEDIUM', 'HARD', 'HARD']",Withdrew,Mexico City Grand Prix,2023
+20,MAG,16.0,R,"['MEDIUM', 'HARD']",Accident,Mexico City Grand Prix,2023
+11,PER,5.0,R,['MEDIUM'],Collision damage,Mexico City Grand Prix,2023
+1,VER,1.0,1,"['SOFT', 'SOFT', 'SOFT', 'MEDIUM', 'SOFT']",Finished,São Paulo Grand Prix,2023
+4,NOR,6.0,2,"['SOFT', 'SOFT', 'SOFT', 'MEDIUM', 'SOFT']",Finished,São Paulo Grand Prix,2023
+14,ALO,4.0,3,"['SOFT', 'SOFT', 'SOFT', 'MEDIUM', 'SOFT']",Finished,São Paulo Grand Prix,2023
+11,PER,9.0,4,"['SOFT', 'SOFT', 'SOFT', 'MEDIUM', 'SOFT']",Finished,São Paulo Grand Prix,2023
+18,STR,3.0,5,"['SOFT', 'SOFT', 'SOFT', 'MEDIUM', 'SOFT']",Finished,São Paulo Grand Prix,2023
+55,SAI,7.0,6,"['SOFT', 'SOFT', 'SOFT', 'MEDIUM', 'SOFT']",Finished,São Paulo Grand Prix,2023
+10,GAS,15.0,7,"['SOFT', 'SOFT', 'SOFT', 'MEDIUM', 'SOFT']",Finished,São Paulo Grand Prix,2023
+44,HAM,5.0,8,"['SOFT', 'SOFT', 'SOFT', 'MEDIUM', 'SOFT']",Finished,São Paulo Grand Prix,2023
+22,TSU,16.0,9,"['SOFT', 'SOFT', 'SOFT', 'MEDIUM', 'SOFT']",Finished,São Paulo Grand Prix,2023
+31,OCO,14.0,10,"['SOFT', 'SOFT', 'SOFT', 'MEDIUM', 'SOFT', 'SOFT']",Lapped,São Paulo Grand Prix,2023
+2,SAR,19.0,11,"['MEDIUM', 'MEDIUM', 'SOFT', 'SOFT', 'SOFT']",Lapped,São Paulo Grand Prix,2023
+27,HUL,11.0,12,"['SOFT', 'MEDIUM', 'SOFT', 'SOFT', 'SOFT']",Lapped,São Paulo Grand Prix,2023
+3,RIC,17.0,13,"['SOFT', 'SOFT', 'SOFT', 'MEDIUM', 'SOFT']",Lapped,São Paulo Grand Prix,2023
+81,PIA,10.0,14,"['SOFT', 'MEDIUM', 'MEDIUM', 'SOFT', 'SOFT']",Lapped,São Paulo Grand Prix,2023
+63,RUS,8.0,R,"['SOFT', 'SOFT', 'SOFT', 'MEDIUM', 'SOFT']",Retired,São Paulo Grand Prix,2023
+77,BOT,18.0,R,"['SOFT', 'SOFT', 'SOFT', 'MEDIUM']",Retired,São Paulo Grand Prix,2023
+24,ZHO,20.0,R,"['SOFT', 'SOFT', 'SOFT', 'MEDIUM']",Retired,São Paulo Grand Prix,2023
+20,MAG,12.0,R,['SOFT'],Retired,São Paulo Grand Prix,2023
+23,ALB,13.0,R,['SOFT'],Retired,São Paulo Grand Prix,2023
+16,LEC,2.0,W,['SOFT'],Did not start,São Paulo Grand Prix,2023
+1,VER,2.0,1,"['MEDIUM', 'HARD', 'HARD']",Finished,Las Vegas Grand Prix,2023
+16,LEC,1.0,2,"['MEDIUM', 'HARD']",Finished,Las Vegas Grand Prix,2023
+11,PER,11.0,3,"['MEDIUM', 'HARD', 'HARD']",Finished,Las Vegas Grand Prix,2023
+31,OCO,16.0,4,"['MEDIUM', 'HARD']",Finished,Las Vegas Grand Prix,2023
+18,STR,19.0,5,"['SOFT', 'HARD', 'HARD']",Finished,Las Vegas Grand Prix,2023
+55,SAI,12.0,6,"['MEDIUM', 'HARD', 'HARD']",Finished,Las Vegas Grand Prix,2023
+44,HAM,10.0,7,"['HARD', 'MEDIUM', 'HARD']",Finished,Las Vegas Grand Prix,2023
+63,RUS,3.0,8,"['MEDIUM', 'HARD', 'HARD']",Finished,Las Vegas Grand Prix,2023
+14,ALO,9.0,9,"['MEDIUM', 'HARD', 'HARD']",Finished,Las Vegas Grand Prix,2023
+81,PIA,18.0,10,"['HARD', 'HARD', 'MEDIUM']",Finished,Las Vegas Grand Prix,2023
+10,GAS,4.0,11,"['MEDIUM', 'HARD']",Finished,Las Vegas Grand Prix,2023
+23,ALB,5.0,12,"['MEDIUM', 'HARD']",Finished,Las Vegas Grand Prix,2023
+20,MAG,8.0,13,"['MEDIUM', 'HARD', 'HARD']",Finished,Las Vegas Grand Prix,2023
+3,RIC,14.0,14,"['MEDIUM', 'HARD']",Finished,Las Vegas Grand Prix,2023
+24,ZHO,17.0,15,"['HARD', 'MEDIUM']",Finished,Las Vegas Grand Prix,2023
+2,SAR,6.0,16,"['MEDIUM', 'HARD']",Finished,Las Vegas Grand Prix,2023
+77,BOT,7.0,17,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Las Vegas Grand Prix,2023
+22,TSU,20.0,18,"['SOFT', 'MEDIUM', 'HARD']",Retired,Las Vegas Grand Prix,2023
+27,HUL,13.0,19,"['MEDIUM', 'HARD', 'HARD']",Retired,Las Vegas Grand Prix,2023
+4,NOR,15.0,R,['MEDIUM'],Retired,Las Vegas Grand Prix,2023
+1,VER,1.0,1,"['MEDIUM', 'HARD', 'HARD']",Finished,Abu Dhabi Grand Prix,2023
+16,LEC,2.0,2,"['MEDIUM', 'HARD', 'HARD']",Finished,Abu Dhabi Grand Prix,2023
+63,RUS,4.0,3,"['MEDIUM', 'HARD', 'HARD']",Finished,Abu Dhabi Grand Prix,2023
+11,PER,9.0,4,"['MEDIUM', 'HARD', 'HARD']",Finished,Abu Dhabi Grand Prix,2023
+4,NOR,5.0,5,"['MEDIUM', 'HARD', 'HARD']",Finished,Abu Dhabi Grand Prix,2023
+81,PIA,3.0,6,"['MEDIUM', 'HARD', 'HARD']",Finished,Abu Dhabi Grand Prix,2023
+14,ALO,7.0,7,"['MEDIUM', 'HARD', 'HARD']",Finished,Abu Dhabi Grand Prix,2023
+22,TSU,6.0,8,"['MEDIUM', 'HARD']",Finished,Abu Dhabi Grand Prix,2023
+44,HAM,11.0,9,"['MEDIUM', 'HARD', 'HARD']",Finished,Abu Dhabi Grand Prix,2023
+18,STR,13.0,10,"['HARD', 'HARD', 'MEDIUM']",Finished,Abu Dhabi Grand Prix,2023
+3,RIC,15.0,11,"['MEDIUM', 'HARD', 'HARD']",Finished,Abu Dhabi Grand Prix,2023
+31,OCO,12.0,12,"['MEDIUM', 'HARD']",Finished,Abu Dhabi Grand Prix,2023
+10,GAS,10.0,13,"['MEDIUM', 'HARD', 'HARD']",Finished,Abu Dhabi Grand Prix,2023
+23,ALB,14.0,14,"['MEDIUM', 'HARD', 'HARD']",Finished,Abu Dhabi Grand Prix,2023
+27,HUL,8.0,15,"['MEDIUM', 'HARD', 'HARD']",Finished,Abu Dhabi Grand Prix,2023
+2,SAR,20.0,16,"['MEDIUM', 'HARD', 'HARD']",Finished,Abu Dhabi Grand Prix,2023
+24,ZHO,19.0,17,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Abu Dhabi Grand Prix,2023
+55,SAI,16.0,18,"['HARD', 'HARD', 'SOFT']",Retired,Abu Dhabi Grand Prix,2023
+77,BOT,18.0,19,"['HARD', 'MEDIUM']",Lapped,Abu Dhabi Grand Prix,2023
+20,MAG,17.0,20,"['MEDIUM', 'HARD', 'HARD']",Lapped,Abu Dhabi Grand Prix,2023
+1,VER,1.0,1,"['SOFT', 'HARD', 'SOFT']",Finished,Bahrain Grand Prix,2024
+11,PER,5.0,2,"['SOFT', 'HARD', 'SOFT']",Finished,Bahrain Grand Prix,2024
+55,SAI,4.0,3,"['SOFT', 'HARD', 'HARD']",Finished,Bahrain Grand Prix,2024
+16,LEC,2.0,4,"['SOFT', 'HARD', 'HARD']",Finished,Bahrain Grand Prix,2024
+63,RUS,3.0,5,"['SOFT', 'HARD', 'HARD']",Finished,Bahrain Grand Prix,2024
+4,NOR,7.0,6,"['SOFT', 'HARD', 'HARD']",Finished,Bahrain Grand Prix,2024
+44,HAM,9.0,7,"['SOFT', 'HARD', 'HARD']",Finished,Bahrain Grand Prix,2024
+81,PIA,8.0,8,"['SOFT', 'HARD', 'HARD']",Finished,Bahrain Grand Prix,2024
+14,ALO,6.0,9,"['SOFT', 'HARD', 'HARD']",Finished,Bahrain Grand Prix,2024
+18,STR,12.0,10,"['SOFT', 'HARD', 'HARD']",Finished,Bahrain Grand Prix,2024
+24,ZHO,17.0,11,"['SOFT', 'HARD', 'HARD']",Lapped,Bahrain Grand Prix,2024
+20,MAG,15.0,12,"['SOFT', 'HARD', 'HARD']",Lapped,Bahrain Grand Prix,2024
+3,RIC,14.0,13,"['SOFT', 'HARD', 'SOFT']",Lapped,Bahrain Grand Prix,2024
+22,TSU,11.0,14,"['SOFT', 'HARD', 'HARD']",Lapped,Bahrain Grand Prix,2024
+23,ALB,13.0,15,"['SOFT', 'HARD', 'HARD']",Lapped,Bahrain Grand Prix,2024
+27,HUL,10.0,16,"['SOFT', 'HARD', 'HARD', 'SOFT']",Lapped,Bahrain Grand Prix,2024
+31,OCO,19.0,17,"['SOFT', 'HARD', 'HARD']",Lapped,Bahrain Grand Prix,2024
+10,GAS,20.0,18,"['SOFT', 'HARD', 'HARD', 'SOFT']",Lapped,Bahrain Grand Prix,2024
+77,BOT,16.0,19,"['SOFT', 'HARD', 'HARD']",Lapped,Bahrain Grand Prix,2024
+2,SAR,18.0,20,"['SOFT', 'HARD', 'HARD', 'SOFT']",Lapped,Bahrain Grand Prix,2024
+1,VER,1.0,1,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2024
+11,PER,3.0,2,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2024
+16,LEC,2.0,3,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2024
+81,PIA,5.0,4,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2024
+14,ALO,4.0,5,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2024
+63,RUS,7.0,6,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2024
+38,BEA,11.0,7,"['SOFT', 'HARD']",Finished,Saudi Arabian Grand Prix,2024
+4,NOR,6.0,8,"['MEDIUM', 'SOFT']",Finished,Saudi Arabian Grand Prix,2024
+44,HAM,8.0,9,"['MEDIUM', 'SOFT']",Finished,Saudi Arabian Grand Prix,2024
+27,HUL,15.0,10,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2024
+23,ALB,12.0,11,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2024
+20,MAG,13.0,12,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2024
+31,OCO,17.0,13,"['MEDIUM', 'HARD']",Lapped,Saudi Arabian Grand Prix,2024
+2,SAR,19.0,14,"['MEDIUM', 'HARD']",Lapped,Saudi Arabian Grand Prix,2024
+22,TSU,9.0,15,"['MEDIUM', 'HARD']",Lapped,Saudi Arabian Grand Prix,2024
+3,RIC,14.0,16,"['MEDIUM', 'HARD']",Lapped,Saudi Arabian Grand Prix,2024
+77,BOT,16.0,17,"['SOFT', 'HARD', 'SOFT']",Lapped,Saudi Arabian Grand Prix,2024
+24,ZHO,20.0,18,"['MEDIUM', 'SOFT']",Lapped,Saudi Arabian Grand Prix,2024
+18,STR,10.0,R,['MEDIUM'],Retired,Saudi Arabian Grand Prix,2024
+10,GAS,18.0,R,['MEDIUM'],Retired,Saudi Arabian Grand Prix,2024
+55,SAI,2.0,1,"['MEDIUM', 'HARD', 'HARD']",Finished,Australian Grand Prix,2024
+16,LEC,4.0,2,"['MEDIUM', 'HARD', 'HARD']",Finished,Australian Grand Prix,2024
+4,NOR,3.0,3,"['MEDIUM', 'HARD', 'HARD']",Finished,Australian Grand Prix,2024
+81,PIA,5.0,4,"['MEDIUM', 'HARD', 'HARD']",Finished,Australian Grand Prix,2024
+11,PER,6.0,5,"['MEDIUM', 'HARD', 'HARD']",Finished,Australian Grand Prix,2024
+18,STR,9.0,6,"['MEDIUM', 'HARD', 'HARD']",Finished,Australian Grand Prix,2024
+22,TSU,8.0,7,"['MEDIUM', 'HARD', 'HARD']",Finished,Australian Grand Prix,2024
+14,ALO,10.0,8,"['HARD', 'MEDIUM', 'HARD']",Finished,Australian Grand Prix,2024
+27,HUL,16.0,9,"['HARD', 'MEDIUM', 'HARD']",Finished,Australian Grand Prix,2024
+20,MAG,14.0,10,"['MEDIUM', 'HARD', 'HARD']",Lapped,Australian Grand Prix,2024
+23,ALB,12.0,11,"['MEDIUM', 'HARD', 'HARD']",Lapped,Australian Grand Prix,2024
+3,RIC,18.0,12,"['SOFT', 'HARD', 'HARD']",Lapped,Australian Grand Prix,2024
+10,GAS,17.0,13,"['MEDIUM', 'HARD', 'HARD']",Lapped,Australian Grand Prix,2024
+77,BOT,13.0,14,"['MEDIUM', 'HARD', 'HARD']",Lapped,Australian Grand Prix,2024
+24,ZHO,19.0,15,"['SOFT', 'HARD', 'HARD']",Lapped,Australian Grand Prix,2024
+31,OCO,15.0,16,"['MEDIUM', 'HARD', 'HARD', 'HARD']",Lapped,Australian Grand Prix,2024
+63,RUS,7.0,17,"['MEDIUM', 'HARD', 'HARD']",Retired,Australian Grand Prix,2024
+44,HAM,11.0,R,"['SOFT', 'HARD']",Retired,Australian Grand Prix,2024
+1,VER,1.0,R,['MEDIUM'],Retired,Australian Grand Prix,2024
+1,VER,1.0,1,"['MEDIUM', 'MEDIUM', 'MEDIUM', 'HARD']",Finished,Japanese Grand Prix,2024
+11,PER,2.0,2,"['MEDIUM', 'MEDIUM', 'MEDIUM', 'HARD']",Finished,Japanese Grand Prix,2024
+55,SAI,4.0,3,"['MEDIUM', 'MEDIUM', 'MEDIUM', 'HARD']",Finished,Japanese Grand Prix,2024
+16,LEC,8.0,4,"['MEDIUM', 'MEDIUM', 'HARD']",Finished,Japanese Grand Prix,2024
+4,NOR,3.0,5,"['MEDIUM', 'MEDIUM', 'HARD', 'HARD']",Finished,Japanese Grand Prix,2024
+14,ALO,5.0,6,"['SOFT', 'SOFT', 'MEDIUM', 'HARD']",Finished,Japanese Grand Prix,2024
+63,RUS,9.0,7,"['MEDIUM', 'HARD', 'HARD', 'MEDIUM']",Finished,Japanese Grand Prix,2024
+81,PIA,6.0,8,"['MEDIUM', 'MEDIUM', 'HARD', 'HARD']",Finished,Japanese Grand Prix,2024
+44,HAM,7.0,9,"['MEDIUM', 'HARD', 'HARD', 'MEDIUM']",Finished,Japanese Grand Prix,2024
+22,TSU,10.0,10,"['MEDIUM', 'SOFT', 'HARD', 'HARD']",Lapped,Japanese Grand Prix,2024
+27,HUL,12.0,11,"['SOFT', 'SOFT', 'HARD', 'HARD']",Lapped,Japanese Grand Prix,2024
+18,STR,16.0,12,"['SOFT', 'SOFT', 'MEDIUM', 'HARD', 'SOFT']",Lapped,Japanese Grand Prix,2024
+20,MAG,18.0,13,"['MEDIUM', 'MEDIUM', 'HARD']",Lapped,Japanese Grand Prix,2024
+77,BOT,13.0,14,"['SOFT', 'SOFT', 'HARD', 'HARD']",Lapped,Japanese Grand Prix,2024
+31,OCO,15.0,15,"['SOFT', 'HARD', 'HARD', 'MEDIUM']",Lapped,Japanese Grand Prix,2024
+10,GAS,17.0,16,"['SOFT', 'HARD', 'MEDIUM', 'HARD']",Lapped,Japanese Grand Prix,2024
+2,SAR,19.0,17,"['SOFT', 'HARD', 'HARD', 'MEDIUM', 'SOFT']",Lapped,Japanese Grand Prix,2024
+24,ZHO,20.0,R,"['MEDIUM', 'SOFT', 'HARD', 'HARD']",Retired,Japanese Grand Prix,2024
+3,RIC,11.0,R,['MEDIUM'],Retired,Japanese Grand Prix,2024
+23,ALB,14.0,R,['SOFT'],Retired,Japanese Grand Prix,2024
+1,VER,1.0,1,"['MEDIUM', 'HARD', 'HARD']",Finished,Chinese Grand Prix,2024
+4,NOR,4.0,2,"['MEDIUM', 'HARD']",Finished,Chinese Grand Prix,2024
+11,PER,2.0,3,"['MEDIUM', 'HARD', 'HARD']",Finished,Chinese Grand Prix,2024
+16,LEC,6.0,4,"['MEDIUM', 'HARD']",Finished,Chinese Grand Prix,2024
+55,SAI,7.0,5,"['MEDIUM', 'HARD']",Finished,Chinese Grand Prix,2024
+63,RUS,8.0,6,"['MEDIUM', 'MEDIUM', 'HARD']",Finished,Chinese Grand Prix,2024
+14,ALO,3.0,7,"['MEDIUM', 'HARD', 'SOFT', 'MEDIUM']",Finished,Chinese Grand Prix,2024
+81,PIA,5.0,8,"['MEDIUM', 'MEDIUM', 'HARD']",Finished,Chinese Grand Prix,2024
+44,HAM,18.0,9,"['SOFT', 'MEDIUM', 'HARD']",Finished,Chinese Grand Prix,2024
+27,HUL,9.0,10,"['MEDIUM', 'HARD', 'HARD']",Finished,Chinese Grand Prix,2024
+31,OCO,13.0,11,"['MEDIUM', 'HARD', 'HARD']",Finished,Chinese Grand Prix,2024
+23,ALB,14.0,12,"['MEDIUM', 'MEDIUM', 'HARD']",Finished,Chinese Grand Prix,2024
+10,GAS,15.0,13,"['MEDIUM', 'HARD', 'HARD', 'MEDIUM']",Finished,Chinese Grand Prix,2024
+24,ZHO,16.0,14,"['MEDIUM', 'HARD', 'HARD', 'SOFT']",Finished,Chinese Grand Prix,2024
+18,STR,11.0,15,"['SOFT', 'MEDIUM', 'HARD', 'MEDIUM', 'HARD']",Finished,Chinese Grand Prix,2024
+20,MAG,17.0,16,"['HARD', 'HARD', 'MEDIUM']",Finished,Chinese Grand Prix,2024
+2,SAR,20.0,17,"['SOFT', 'MEDIUM', 'HARD']",Finished,Chinese Grand Prix,2024
+3,RIC,12.0,R,"['MEDIUM', 'MEDIUM']",Retired,Chinese Grand Prix,2024
+22,TSU,19.0,R,"['SOFT', 'MEDIUM', 'HARD']",Retired,Chinese Grand Prix,2024
+77,BOT,10.0,R,"['MEDIUM', 'HARD']",Retired,Chinese Grand Prix,2024
+4,NOR,5.0,1,"['MEDIUM', 'HARD']",Finished,Miami Grand Prix,2024
+1,VER,1.0,2,"['MEDIUM', 'HARD']",Finished,Miami Grand Prix,2024
+16,LEC,2.0,3,"['MEDIUM', 'HARD']",Finished,Miami Grand Prix,2024
+11,PER,4.0,4,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Miami Grand Prix,2024
+55,SAI,3.0,5,"['MEDIUM', 'HARD']",Finished,Miami Grand Prix,2024
+44,HAM,8.0,6,"['HARD', 'MEDIUM']",Finished,Miami Grand Prix,2024
+22,TSU,10.0,7,"['MEDIUM', 'HARD']",Finished,Miami Grand Prix,2024
+63,RUS,7.0,8,"['MEDIUM', 'HARD']",Finished,Miami Grand Prix,2024
+14,ALO,15.0,9,"['HARD', 'MEDIUM']",Finished,Miami Grand Prix,2024
+31,OCO,13.0,10,"['MEDIUM', 'HARD']",Finished,Miami Grand Prix,2024
+27,HUL,9.0,11,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Miami Grand Prix,2024
+10,GAS,12.0,12,"['MEDIUM', 'HARD']",Finished,Miami Grand Prix,2024
+81,PIA,6.0,13,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Miami Grand Prix,2024
+24,ZHO,19.0,14,"['MEDIUM', 'SOFT']",Finished,Miami Grand Prix,2024
+3,RIC,20.0,15,"['HARD', 'MEDIUM']",Finished,Miami Grand Prix,2024
+77,BOT,16.0,16,"['SOFT', 'HARD', 'MEDIUM']",Finished,Miami Grand Prix,2024
+18,STR,11.0,17,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Miami Grand Prix,2024
+23,ALB,14.0,18,"['MEDIUM', 'HARD', 'SOFT']",Finished,Miami Grand Prix,2024
+20,MAG,18.0,19,"['HARD', 'MEDIUM', 'MEDIUM', 'MEDIUM']",Finished,Miami Grand Prix,2024
+2,SAR,17.0,R,"['MEDIUM', 'HARD']",Retired,Miami Grand Prix,2024
+1,VER,1.0,1,"['MEDIUM', 'HARD']",Finished,Emilia Romagna Grand Prix,2024
+4,NOR,2.0,2,"['MEDIUM', 'HARD']",Finished,Emilia Romagna Grand Prix,2024
+16,LEC,3.0,3,"['MEDIUM', 'HARD']",Finished,Emilia Romagna Grand Prix,2024
+81,PIA,5.0,4,"['MEDIUM', 'HARD']",Finished,Emilia Romagna Grand Prix,2024
+55,SAI,4.0,5,"['MEDIUM', 'HARD']",Finished,Emilia Romagna Grand Prix,2024
+44,HAM,8.0,6,"['MEDIUM', 'HARD']",Finished,Emilia Romagna Grand Prix,2024
+63,RUS,6.0,7,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Emilia Romagna Grand Prix,2024
+11,PER,11.0,8,"['HARD', 'MEDIUM']",Finished,Emilia Romagna Grand Prix,2024
+18,STR,13.0,9,"['MEDIUM', 'HARD']",Finished,Emilia Romagna Grand Prix,2024
+22,TSU,7.0,10,"['MEDIUM', 'HARD']",Lapped,Emilia Romagna Grand Prix,2024
+27,HUL,10.0,11,"['MEDIUM', 'HARD']",Lapped,Emilia Romagna Grand Prix,2024
+20,MAG,18.0,12,"['MEDIUM', 'HARD']",Lapped,Emilia Romagna Grand Prix,2024
+3,RIC,9.0,13,"['MEDIUM', 'HARD']",Lapped,Emilia Romagna Grand Prix,2024
+31,OCO,12.0,14,"['MEDIUM', 'HARD']",Lapped,Emilia Romagna Grand Prix,2024
+24,ZHO,17.0,15,"['HARD', 'MEDIUM']",Lapped,Emilia Romagna Grand Prix,2024
+10,GAS,15.0,16,"['SOFT', 'HARD', 'MEDIUM']",Lapped,Emilia Romagna Grand Prix,2024
+2,SAR,19.0,17,"['HARD', 'MEDIUM']",Lapped,Emilia Romagna Grand Prix,2024
+77,BOT,16.0,18,"['MEDIUM', 'HARD']",Lapped,Emilia Romagna Grand Prix,2024
+14,ALO,20.0,19,"['SOFT', 'HARD', 'MEDIUM', 'SOFT']",Lapped,Emilia Romagna Grand Prix,2024
+23,ALB,14.0,R,"['MEDIUM', 'HARD', 'MEDIUM', 'MEDIUM', 'MEDIUM']",Retired,Emilia Romagna Grand Prix,2024
+16,LEC,1.0,1,"['MEDIUM', 'HARD']",Finished,Monaco Grand Prix,2024
+81,PIA,2.0,2,"['MEDIUM', 'HARD']",Finished,Monaco Grand Prix,2024
+55,SAI,3.0,3,"['MEDIUM', 'HARD']",Finished,Monaco Grand Prix,2024
+4,NOR,4.0,4,"['MEDIUM', 'HARD']",Finished,Monaco Grand Prix,2024
+63,RUS,5.0,5,"['HARD', 'MEDIUM']",Finished,Monaco Grand Prix,2024
+1,VER,6.0,6,"['HARD', 'MEDIUM', 'HARD']",Finished,Monaco Grand Prix,2024
+44,HAM,7.0,7,"['HARD', 'MEDIUM', 'HARD']",Finished,Monaco Grand Prix,2024
+22,TSU,8.0,8,"['MEDIUM', 'HARD']",Lapped,Monaco Grand Prix,2024
+23,ALB,9.0,9,"['MEDIUM', 'HARD']",Lapped,Monaco Grand Prix,2024
+10,GAS,10.0,10,"['HARD', 'MEDIUM']",Lapped,Monaco Grand Prix,2024
+14,ALO,14.0,11,"['HARD', 'MEDIUM']",Lapped,Monaco Grand Prix,2024
+3,RIC,12.0,12,"['MEDIUM', 'HARD']",Lapped,Monaco Grand Prix,2024
+77,BOT,17.0,13,"['HARD', 'MEDIUM', 'HARD']",Lapped,Monaco Grand Prix,2024
+18,STR,13.0,14,"['HARD', 'MEDIUM', 'HARD', 'SOFT']",Lapped,Monaco Grand Prix,2024
+2,SAR,15.0,15,"['HARD', 'HARD', 'MEDIUM']",Lapped,Monaco Grand Prix,2024
+24,ZHO,18.0,16,"['MEDIUM', 'HARD', 'SOFT']",Lapped,Monaco Grand Prix,2024
+31,OCO,11.0,R,['HARD'],Retired,Monaco Grand Prix,2024
+11,PER,16.0,R,['HARD'],Retired,Monaco Grand Prix,2024
+27,HUL,19.0,R,['MEDIUM'],Retired,Monaco Grand Prix,2024
+20,MAG,20.0,R,['HARD'],Retired,Monaco Grand Prix,2024
+1,VER,2.0,1,"['INTERMEDIATE', 'INTERMEDIATE', 'MEDIUM']",Finished,Canadian Grand Prix,2024
+4,NOR,3.0,2,"['INTERMEDIATE', 'INTERMEDIATE', 'MEDIUM']",Finished,Canadian Grand Prix,2024
+63,RUS,1.0,3,"['INTERMEDIATE', 'INTERMEDIATE', 'HARD', 'MEDIUM']",Finished,Canadian Grand Prix,2024
+44,HAM,7.0,4,"['INTERMEDIATE', 'INTERMEDIATE', 'MEDIUM', 'HARD']",Finished,Canadian Grand Prix,2024
+81,PIA,4.0,5,"['INTERMEDIATE', 'INTERMEDIATE', 'MEDIUM']",Finished,Canadian Grand Prix,2024
+14,ALO,6.0,6,"['INTERMEDIATE', 'INTERMEDIATE', 'HARD']",Finished,Canadian Grand Prix,2024
+18,STR,9.0,7,"['INTERMEDIATE', 'INTERMEDIATE', 'HARD']",Finished,Canadian Grand Prix,2024
+3,RIC,5.0,8,"['INTERMEDIATE', 'INTERMEDIATE', 'MEDIUM']",Finished,Canadian Grand Prix,2024
+10,GAS,15.0,9,"['INTERMEDIATE', 'INTERMEDIATE', 'HARD']",Finished,Canadian Grand Prix,2024
+31,OCO,18.0,10,"['INTERMEDIATE', 'MEDIUM']",Finished,Canadian Grand Prix,2024
+27,HUL,17.0,11,"['WET', 'INTERMEDIATE', 'INTERMEDIATE', 'MEDIUM']",Finished,Canadian Grand Prix,2024
+20,MAG,14.0,12,"['WET', 'INTERMEDIATE', 'INTERMEDIATE', 'MEDIUM', 'MEDIUM']",Finished,Canadian Grand Prix,2024
+77,BOT,19.0,13,"['INTERMEDIATE', 'MEDIUM']",Finished,Canadian Grand Prix,2024
+22,TSU,8.0,14,"['INTERMEDIATE', 'MEDIUM']",Finished,Canadian Grand Prix,2024
+24,ZHO,20.0,15,"['INTERMEDIATE', 'INTERMEDIATE', 'MEDIUM', 'MEDIUM']",Lapped,Canadian Grand Prix,2024
+55,SAI,12.0,R,"['INTERMEDIATE', 'INTERMEDIATE', 'MEDIUM']",Retired,Canadian Grand Prix,2024
+23,ALB,10.0,R,"['INTERMEDIATE', 'INTERMEDIATE', 'MEDIUM']",Retired,Canadian Grand Prix,2024
+11,PER,16.0,R,"['INTERMEDIATE', 'INTERMEDIATE', 'MEDIUM']",Retired,Canadian Grand Prix,2024
+16,LEC,11.0,R,"['INTERMEDIATE', 'INTERMEDIATE', 'HARD', 'INTERMEDIATE']",Retired,Canadian Grand Prix,2024
+2,SAR,13.0,R,['INTERMEDIATE'],Retired,Canadian Grand Prix,2024
+1,VER,2.0,1,"['SOFT', 'MEDIUM', 'SOFT']",Finished,Spanish Grand Prix,2024
+4,NOR,1.0,2,"['SOFT', 'MEDIUM', 'SOFT']",Finished,Spanish Grand Prix,2024
+44,HAM,3.0,3,"['SOFT', 'MEDIUM', 'SOFT']",Finished,Spanish Grand Prix,2024
+63,RUS,4.0,4,"['SOFT', 'MEDIUM', 'HARD']",Finished,Spanish Grand Prix,2024
+16,LEC,5.0,5,"['SOFT', 'MEDIUM', 'SOFT']",Finished,Spanish Grand Prix,2024
+55,SAI,6.0,6,"['SOFT', 'MEDIUM', 'HARD']",Finished,Spanish Grand Prix,2024
+81,PIA,9.0,7,"['SOFT', 'MEDIUM', 'SOFT']",Finished,Spanish Grand Prix,2024
+11,PER,11.0,8,"['SOFT', 'SOFT', 'MEDIUM', 'SOFT']",Finished,Spanish Grand Prix,2024
+10,GAS,7.0,9,"['SOFT', 'MEDIUM', 'HARD']",Finished,Spanish Grand Prix,2024
+31,OCO,8.0,10,"['SOFT', 'MEDIUM', 'HARD']",Finished,Spanish Grand Prix,2024
+27,HUL,13.0,11,"['SOFT', 'MEDIUM', 'HARD']",Finished,Spanish Grand Prix,2024
+14,ALO,10.0,12,"['SOFT', 'MEDIUM', 'HARD']",Lapped,Spanish Grand Prix,2024
+24,ZHO,15.0,13,"['SOFT', 'MEDIUM', 'HARD']",Lapped,Spanish Grand Prix,2024
+18,STR,14.0,14,"['SOFT', 'MEDIUM', 'HARD']",Lapped,Spanish Grand Prix,2024
+3,RIC,18.0,15,"['SOFT', 'MEDIUM', 'HARD']",Lapped,Spanish Grand Prix,2024
+77,BOT,12.0,16,"['SOFT', 'SOFT', 'HARD']",Lapped,Spanish Grand Prix,2024
+20,MAG,16.0,17,"['SOFT', 'MEDIUM', 'HARD']",Lapped,Spanish Grand Prix,2024
+23,ALB,20.0,18,"['MEDIUM', 'SOFT', 'SOFT']",Lapped,Spanish Grand Prix,2024
+22,TSU,17.0,19,"['SOFT', 'MEDIUM', 'HARD', 'SOFT']",Lapped,Spanish Grand Prix,2024
+2,SAR,19.0,20,"['SOFT', 'MEDIUM', 'HARD']",Lapped,Spanish Grand Prix,2024
+63,RUS,3.0,1,"['MEDIUM', 'MEDIUM', 'HARD']",Finished,Austrian Grand Prix,2024
+81,PIA,7.0,2,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Austrian Grand Prix,2024
+55,SAI,4.0,3,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Austrian Grand Prix,2024
+44,HAM,5.0,4,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Austrian Grand Prix,2024
+1,VER,1.0,5,"['MEDIUM', 'HARD', 'MEDIUM', 'SOFT']",Finished,Austrian Grand Prix,2024
+27,HUL,9.0,6,"['MEDIUM', 'HARD', 'HARD']",Finished,Austrian Grand Prix,2024
+11,PER,8.0,7,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Austrian Grand Prix,2024
+20,MAG,12.0,8,"['MEDIUM', 'HARD', 'HARD']",Finished,Austrian Grand Prix,2024
+3,RIC,11.0,9,"['MEDIUM', 'HARD', 'HARD']",Finished,Austrian Grand Prix,2024
+10,GAS,13.0,10,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Austrian Grand Prix,2024
+16,LEC,6.0,11,"['MEDIUM', 'HARD', 'MEDIUM', 'MEDIUM', 'MEDIUM']",Finished,Austrian Grand Prix,2024
+31,OCO,10.0,12,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Austrian Grand Prix,2024
+18,STR,17.0,13,"['MEDIUM', 'MEDIUM', 'HARD']",Lapped,Austrian Grand Prix,2024
+22,TSU,14.0,14,"['MEDIUM', 'HARD', 'HARD']",Lapped,Austrian Grand Prix,2024
+23,ALB,16.0,15,"['MEDIUM', 'HARD', 'HARD']",Lapped,Austrian Grand Prix,2024
+77,BOT,18.0,16,"['MEDIUM', 'HARD', 'HARD']",Lapped,Austrian Grand Prix,2024
+24,ZHO,20.0,17,"['HARD', 'MEDIUM', 'HARD']",Lapped,Austrian Grand Prix,2024
+14,ALO,15.0,18,"['MEDIUM', 'MEDIUM', 'HARD', 'SOFT']",Lapped,Austrian Grand Prix,2024
+2,SAR,19.0,19,"['MEDIUM', 'MEDIUM', 'HARD', 'MEDIUM']",Lapped,Austrian Grand Prix,2024
+4,NOR,2.0,20,"['MEDIUM', 'HARD', 'MEDIUM']",Lapped,Austrian Grand Prix,2024
+44,HAM,2.0,1,"['MEDIUM', 'INTERMEDIATE', 'SOFT']",Finished,British Grand Prix,2024
+1,VER,4.0,2,"['MEDIUM', 'INTERMEDIATE', 'HARD']",Finished,British Grand Prix,2024
+4,NOR,3.0,3,"['MEDIUM', 'INTERMEDIATE', 'SOFT']",Finished,British Grand Prix,2024
+81,PIA,5.0,4,"['MEDIUM', 'INTERMEDIATE', 'MEDIUM']",Finished,British Grand Prix,2024
+55,SAI,7.0,5,"['MEDIUM', 'INTERMEDIATE', 'HARD', 'SOFT']",Finished,British Grand Prix,2024
+27,HUL,6.0,6,"['MEDIUM', 'INTERMEDIATE', 'SOFT']",Finished,British Grand Prix,2024
+18,STR,8.0,7,"['MEDIUM', 'INTERMEDIATE', 'MEDIUM']",Finished,British Grand Prix,2024
+14,ALO,10.0,8,"['MEDIUM', 'INTERMEDIATE', 'MEDIUM']",Finished,British Grand Prix,2024
+23,ALB,9.0,9,"['MEDIUM', 'INTERMEDIATE', 'MEDIUM']",Finished,British Grand Prix,2024
+22,TSU,13.0,10,"['MEDIUM', 'INTERMEDIATE', 'SOFT']",Finished,British Grand Prix,2024
+2,SAR,12.0,11,"['MEDIUM', 'INTERMEDIATE', 'SOFT']",Finished,British Grand Prix,2024
+20,MAG,17.0,12,"['MEDIUM', 'INTERMEDIATE', 'SOFT']",Finished,British Grand Prix,2024
+3,RIC,15.0,13,"['MEDIUM', 'INTERMEDIATE', 'SOFT']",Lapped,British Grand Prix,2024
+16,LEC,11.0,14,"['MEDIUM', 'INTERMEDIATE', 'INTERMEDIATE', 'SOFT']",Lapped,British Grand Prix,2024
+77,BOT,16.0,15,"['MEDIUM', 'INTERMEDIATE', 'SOFT']",Lapped,British Grand Prix,2024
+31,OCO,18.0,16,"['SOFT', 'INTERMEDIATE', 'MEDIUM', 'INTERMEDIATE', 'MEDIUM']",Lapped,British Grand Prix,2024
+11,PER,20.0,17,"['HARD', 'INTERMEDIATE', 'INTERMEDIATE', 'MEDIUM', 'SOFT']",Lapped,British Grand Prix,2024
+24,ZHO,14.0,18,"['SOFT', 'MEDIUM', 'INTERMEDIATE', 'INTERMEDIATE', 'SOFT']",Lapped,British Grand Prix,2024
+63,RUS,1.0,R,"['MEDIUM', 'INTERMEDIATE']",Retired,British Grand Prix,2024
+10,GAS,19.0,W,['MEDIUM'],Did not start,British Grand Prix,2024
+81,PIA,2.0,1,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Hungarian Grand Prix,2024
+4,NOR,1.0,2,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Hungarian Grand Prix,2024
+44,HAM,5.0,3,"['MEDIUM', 'HARD', 'HARD']",Finished,Hungarian Grand Prix,2024
+16,LEC,6.0,4,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Hungarian Grand Prix,2024
+1,VER,3.0,5,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Hungarian Grand Prix,2024
+55,SAI,4.0,6,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Hungarian Grand Prix,2024
+11,PER,16.0,7,"['HARD', 'MEDIUM', 'MEDIUM']",Finished,Hungarian Grand Prix,2024
+63,RUS,17.0,8,"['HARD', 'MEDIUM', 'HARD']",Finished,Hungarian Grand Prix,2024
+22,TSU,10.0,9,"['MEDIUM', 'HARD']",Finished,Hungarian Grand Prix,2024
+18,STR,8.0,10,"['SOFT', 'MEDIUM', 'HARD']",Finished,Hungarian Grand Prix,2024
+14,ALO,7.0,11,"['SOFT', 'MEDIUM', 'HARD']",Finished,Hungarian Grand Prix,2024
+3,RIC,9.0,12,"['MEDIUM', 'HARD', 'HARD']",Lapped,Hungarian Grand Prix,2024
+27,HUL,11.0,13,"['MEDIUM', 'HARD', 'HARD']",Lapped,Hungarian Grand Prix,2024
+23,ALB,13.0,14,"['SOFT', 'HARD', 'HARD']",Lapped,Hungarian Grand Prix,2024
+20,MAG,15.0,15,"['SOFT', 'HARD', 'HARD']",Lapped,Hungarian Grand Prix,2024
+77,BOT,12.0,16,"['MEDIUM', 'HARD', 'HARD']",Lapped,Hungarian Grand Prix,2024
+2,SAR,14.0,17,"['MEDIUM', 'HARD', 'HARD', 'SOFT']",Lapped,Hungarian Grand Prix,2024
+31,OCO,19.0,18,"['MEDIUM', 'HARD', 'HARD', 'SOFT']",Lapped,Hungarian Grand Prix,2024
+24,ZHO,18.0,19,"['MEDIUM', 'HARD', 'HARD']",Lapped,Hungarian Grand Prix,2024
+10,GAS,20.0,R,"['HARD', 'MEDIUM']",Retired,Hungarian Grand Prix,2024
+44,HAM,3.0,1,"['MEDIUM', 'HARD', 'HARD']",Finished,Belgian Grand Prix,2024
+81,PIA,5.0,2,"['MEDIUM', 'HARD', 'HARD']",Finished,Belgian Grand Prix,2024
+16,LEC,1.0,3,"['MEDIUM', 'HARD', 'HARD']",Finished,Belgian Grand Prix,2024
+1,VER,11.0,4,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Belgian Grand Prix,2024
+4,NOR,4.0,5,"['MEDIUM', 'HARD', 'HARD']",Finished,Belgian Grand Prix,2024
+55,SAI,7.0,6,"['HARD', 'MEDIUM', 'HARD']",Finished,Belgian Grand Prix,2024
+11,PER,2.0,7,"['MEDIUM', 'MEDIUM', 'HARD', 'SOFT']",Finished,Belgian Grand Prix,2024
+14,ALO,8.0,8,"['MEDIUM', 'MEDIUM']",Finished,Belgian Grand Prix,2024
+31,OCO,9.0,9,"['MEDIUM', 'HARD', 'HARD']",Finished,Belgian Grand Prix,2024
+3,RIC,13.0,10,"['SOFT', 'MEDIUM', 'SOFT']",Finished,Belgian Grand Prix,2024
+18,STR,15.0,11,"['MEDIUM', 'MEDIUM']",Finished,Belgian Grand Prix,2024
+23,ALB,10.0,12,"['MEDIUM', 'MEDIUM', 'HARD']",Finished,Belgian Grand Prix,2024
+10,GAS,12.0,13,"['MEDIUM', 'HARD', 'HARD']",Finished,Belgian Grand Prix,2024
+20,MAG,17.0,14,"['MEDIUM', 'HARD']",Finished,Belgian Grand Prix,2024
+77,BOT,14.0,15,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Belgian Grand Prix,2024
+22,TSU,20.0,16,"['MEDIUM', 'SOFT']",Finished,Belgian Grand Prix,2024
+2,SAR,18.0,17,"['MEDIUM', 'MEDIUM', 'HARD']",Finished,Belgian Grand Prix,2024
+27,HUL,16.0,18,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Belgian Grand Prix,2024
+24,ZHO,19.0,R,['HARD'],Retired,Belgian Grand Prix,2024
+63,RUS,6.0,20,"['MEDIUM', 'HARD']",Disqualified,Belgian Grand Prix,2024
+4,NOR,1.0,1,"['MEDIUM', 'HARD']",Finished,Dutch Grand Prix,2024
+1,VER,2.0,2,"['MEDIUM', 'HARD']",Finished,Dutch Grand Prix,2024
+16,LEC,6.0,3,"['MEDIUM', 'HARD']",Finished,Dutch Grand Prix,2024
+81,PIA,3.0,4,"['MEDIUM', 'HARD']",Finished,Dutch Grand Prix,2024
+55,SAI,10.0,5,"['MEDIUM', 'HARD']",Finished,Dutch Grand Prix,2024
+11,PER,5.0,6,"['MEDIUM', 'HARD']",Finished,Dutch Grand Prix,2024
+63,RUS,4.0,7,"['MEDIUM', 'HARD', 'SOFT']",Finished,Dutch Grand Prix,2024
+44,HAM,14.0,8,"['SOFT', 'HARD', 'SOFT']",Finished,Dutch Grand Prix,2024
+10,GAS,9.0,9,"['MEDIUM', 'HARD']",Lapped,Dutch Grand Prix,2024
+14,ALO,7.0,10,"['MEDIUM', 'HARD']",Lapped,Dutch Grand Prix,2024
+27,HUL,12.0,11,"['MEDIUM', 'HARD']",Lapped,Dutch Grand Prix,2024
+3,RIC,13.0,12,"['MEDIUM', 'HARD']",Lapped,Dutch Grand Prix,2024
+18,STR,8.0,13,"['MEDIUM', 'HARD']",Lapped,Dutch Grand Prix,2024
+23,ALB,19.0,14,"['MEDIUM', 'HARD', 'MEDIUM']",Lapped,Dutch Grand Prix,2024
+31,OCO,15.0,15,"['MEDIUM', 'HARD']",Lapped,Dutch Grand Prix,2024
+2,SAR,18.0,16,"['MEDIUM', 'HARD']",Lapped,Dutch Grand Prix,2024
+22,TSU,11.0,17,"['SOFT', 'MEDIUM', 'HARD']",Lapped,Dutch Grand Prix,2024
+20,MAG,20.0,18,"['HARD', 'MEDIUM']",Lapped,Dutch Grand Prix,2024
+77,BOT,16.0,19,"['SOFT', 'HARD', 'MEDIUM']",Lapped,Dutch Grand Prix,2024
+24,ZHO,17.0,20,"['MEDIUM', 'HARD', 'SOFT']",Lapped,Dutch Grand Prix,2024
+16,LEC,4.0,1,"['MEDIUM', 'HARD']",Finished,Italian Grand Prix,2024
+81,PIA,2.0,2,"['MEDIUM', 'HARD', 'HARD']",Finished,Italian Grand Prix,2024
+4,NOR,1.0,3,"['MEDIUM', 'HARD', 'HARD']",Finished,Italian Grand Prix,2024
+55,SAI,5.0,4,"['MEDIUM', 'HARD']",Finished,Italian Grand Prix,2024
+44,HAM,6.0,5,"['MEDIUM', 'HARD', 'HARD']",Finished,Italian Grand Prix,2024
+1,VER,7.0,6,"['HARD', 'HARD', 'MEDIUM']",Finished,Italian Grand Prix,2024
+63,RUS,3.0,7,"['MEDIUM', 'HARD', 'HARD']",Finished,Italian Grand Prix,2024
+11,PER,8.0,8,"['HARD', 'HARD', 'MEDIUM']",Finished,Italian Grand Prix,2024
+23,ALB,9.0,9,"['MEDIUM', 'HARD']",Finished,Italian Grand Prix,2024
+20,MAG,13.0,10,"['MEDIUM', 'HARD']",Finished,Italian Grand Prix,2024
+14,ALO,11.0,11,"['MEDIUM', 'HARD', 'HARD']",Finished,Italian Grand Prix,2024
+43,COL,18.0,12,"['MEDIUM', 'HARD']",Finished,Italian Grand Prix,2024
+3,RIC,12.0,13,"['MEDIUM', 'HARD']",Finished,Italian Grand Prix,2024
+31,OCO,15.0,14,"['HARD', 'MEDIUM']",Lapped,Italian Grand Prix,2024
+10,GAS,14.0,15,"['MEDIUM', 'HARD', 'HARD']",Lapped,Italian Grand Prix,2024
+77,BOT,19.0,16,"['HARD', 'MEDIUM']",Lapped,Italian Grand Prix,2024
+27,HUL,10.0,17,"['MEDIUM', 'HARD', 'HARD']",Lapped,Italian Grand Prix,2024
+24,ZHO,20.0,18,"['MEDIUM', 'HARD']",Lapped,Italian Grand Prix,2024
+18,STR,17.0,19,"['HARD', 'HARD', 'MEDIUM', 'SOFT']",Lapped,Italian Grand Prix,2024
+22,TSU,16.0,R,['HARD'],Retired,Italian Grand Prix,2024
+81,PIA,2.0,1,"['MEDIUM', 'HARD']",Finished,Azerbaijan Grand Prix,2024
+16,LEC,1.0,2,"['MEDIUM', 'HARD']",Finished,Azerbaijan Grand Prix,2024
+63,RUS,5.0,3,"['MEDIUM', 'HARD']",Finished,Azerbaijan Grand Prix,2024
+4,NOR,15.0,4,"['HARD', 'MEDIUM']",Finished,Azerbaijan Grand Prix,2024
+1,VER,6.0,5,"['MEDIUM', 'HARD', 'SOFT']",Finished,Azerbaijan Grand Prix,2024
+14,ALO,7.0,6,"['MEDIUM', 'HARD']",Finished,Azerbaijan Grand Prix,2024
+23,ALB,9.0,7,"['HARD', 'MEDIUM']",Finished,Azerbaijan Grand Prix,2024
+43,COL,8.0,8,"['MEDIUM', 'HARD']",Finished,Azerbaijan Grand Prix,2024
+44,HAM,19.0,9,"['MEDIUM', 'HARD']",Finished,Azerbaijan Grand Prix,2024
+50,BEA,10.0,10,"['MEDIUM', 'HARD']",Finished,Azerbaijan Grand Prix,2024
+27,HUL,12.0,11,"['MEDIUM', 'HARD']",Finished,Azerbaijan Grand Prix,2024
+10,GAS,18.0,12,"['HARD', 'SOFT']",Finished,Azerbaijan Grand Prix,2024
+3,RIC,14.0,13,"['HARD', 'SOFT']",Finished,Azerbaijan Grand Prix,2024
+24,ZHO,17.0,14,"['HARD', 'MEDIUM']",Finished,Azerbaijan Grand Prix,2024
+31,OCO,20.0,15,"['HARD', 'SOFT']",Lapped,Azerbaijan Grand Prix,2024
+77,BOT,16.0,16,"['MEDIUM', 'HARD']",Lapped,Azerbaijan Grand Prix,2024
+11,PER,4.0,17,"['MEDIUM', 'HARD']",Retired,Azerbaijan Grand Prix,2024
+55,SAI,3.0,18,"['MEDIUM', 'HARD']",Retired,Azerbaijan Grand Prix,2024
+18,STR,13.0,19,"['MEDIUM', 'HARD', 'HARD']",Retired,Azerbaijan Grand Prix,2024
+22,TSU,11.0,R,"['MEDIUM', 'HARD']",Retired,Azerbaijan Grand Prix,2024
+4,NOR,1.0,1,"['MEDIUM', 'HARD']",Finished,Singapore Grand Prix,2024
+1,VER,2.0,2,"['MEDIUM', 'HARD']",Finished,Singapore Grand Prix,2024
+81,PIA,5.0,3,"['MEDIUM', 'HARD']",Finished,Singapore Grand Prix,2024
+63,RUS,4.0,4,"['MEDIUM', 'HARD']",Finished,Singapore Grand Prix,2024
+16,LEC,9.0,5,"['MEDIUM', 'HARD']",Finished,Singapore Grand Prix,2024
+44,HAM,3.0,6,"['SOFT', 'HARD']",Finished,Singapore Grand Prix,2024
+55,SAI,10.0,7,"['MEDIUM', 'HARD']",Finished,Singapore Grand Prix,2024
+14,ALO,7.0,8,"['MEDIUM', 'HARD']",Lapped,Singapore Grand Prix,2024
+27,HUL,6.0,9,"['MEDIUM', 'HARD']",Lapped,Singapore Grand Prix,2024
+11,PER,13.0,10,"['MEDIUM', 'HARD']",Lapped,Singapore Grand Prix,2024
+43,COL,12.0,11,"['MEDIUM', 'HARD']",Lapped,Singapore Grand Prix,2024
+22,TSU,8.0,12,"['MEDIUM', 'SOFT']",Lapped,Singapore Grand Prix,2024
+31,OCO,15.0,13,"['MEDIUM', 'HARD']",Lapped,Singapore Grand Prix,2024
+18,STR,17.0,14,"['HARD', 'MEDIUM']",Lapped,Singapore Grand Prix,2024
+24,ZHO,20.0,15,"['HARD', 'MEDIUM']",Lapped,Singapore Grand Prix,2024
+77,BOT,19.0,16,"['HARD', 'MEDIUM']",Lapped,Singapore Grand Prix,2024
+10,GAS,18.0,17,"['MEDIUM', 'SOFT']",Lapped,Singapore Grand Prix,2024
+3,RIC,16.0,18,"['SOFT', 'MEDIUM', 'SOFT', 'SOFT']",Lapped,Singapore Grand Prix,2024
+20,MAG,14.0,19,"['HARD', 'MEDIUM', 'SOFT']",Retired,Singapore Grand Prix,2024
+23,ALB,11.0,R,"['MEDIUM', 'HARD']",Retired,Singapore Grand Prix,2024
+16,LEC,4.0,1,"['MEDIUM', 'HARD']",Finished,United States Grand Prix,2024
+55,SAI,3.0,2,"['MEDIUM', 'HARD']",Finished,United States Grand Prix,2024
+1,VER,2.0,3,"['MEDIUM', 'HARD']",Finished,United States Grand Prix,2024
+4,NOR,1.0,4,"['MEDIUM', 'HARD']",Finished,United States Grand Prix,2024
+81,PIA,5.0,5,"['MEDIUM', 'HARD']",Finished,United States Grand Prix,2024
+63,RUS,20.0,6,"['HARD', 'MEDIUM']",Finished,United States Grand Prix,2024
+11,PER,9.0,7,"['MEDIUM', 'HARD']",Finished,United States Grand Prix,2024
+27,HUL,11.0,8,"['MEDIUM', 'HARD']",Finished,United States Grand Prix,2024
+30,LAW,19.0,9,"['HARD', 'MEDIUM']",Finished,United States Grand Prix,2024
+43,COL,15.0,10,"['HARD', 'MEDIUM']",Finished,United States Grand Prix,2024
+20,MAG,8.0,11,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,United States Grand Prix,2024
+10,GAS,6.0,12,"['MEDIUM', 'HARD']",Finished,United States Grand Prix,2024
+14,ALO,7.0,13,"['MEDIUM', 'HARD']",Lapped,United States Grand Prix,2024
+22,TSU,10.0,14,"['MEDIUM', 'HARD']",Lapped,United States Grand Prix,2024
+18,STR,13.0,15,"['HARD', 'MEDIUM']",Lapped,United States Grand Prix,2024
+23,ALB,14.0,16,"['MEDIUM', 'MEDIUM', 'HARD']",Lapped,United States Grand Prix,2024
+77,BOT,16.0,17,"['MEDIUM', 'HARD']",Lapped,United States Grand Prix,2024
+31,OCO,12.0,18,"['MEDIUM', 'HARD', 'SOFT']",Lapped,United States Grand Prix,2024
+24,ZHO,18.0,19,"['MEDIUM', 'MEDIUM', 'HARD']",Lapped,United States Grand Prix,2024
+44,HAM,17.0,R,['HARD'],Retired,United States Grand Prix,2024
+55,SAI,1.0,1,"['MEDIUM', 'HARD']",Finished,Mexico City Grand Prix,2024
+4,NOR,3.0,2,"['MEDIUM', 'HARD']",Finished,Mexico City Grand Prix,2024
+16,LEC,4.0,3,"['MEDIUM', 'HARD', 'SOFT']",Finished,Mexico City Grand Prix,2024
+44,HAM,6.0,4,"['MEDIUM', 'HARD']",Finished,Mexico City Grand Prix,2024
+63,RUS,5.0,5,"['MEDIUM', 'HARD']",Finished,Mexico City Grand Prix,2024
+1,VER,2.0,6,"['MEDIUM', 'HARD']",Finished,Mexico City Grand Prix,2024
+20,MAG,7.0,7,"['MEDIUM', 'HARD']",Finished,Mexico City Grand Prix,2024
+81,PIA,17.0,8,"['MEDIUM', 'HARD']",Finished,Mexico City Grand Prix,2024
+27,HUL,10.0,9,"['MEDIUM', 'HARD']",Lapped,Mexico City Grand Prix,2024
+10,GAS,8.0,10,"['MEDIUM', 'HARD']",Lapped,Mexico City Grand Prix,2024
+18,STR,14.0,11,"['MEDIUM', 'HARD']",Lapped,Mexico City Grand Prix,2024
+43,COL,16.0,12,"['HARD', 'MEDIUM']",Lapped,Mexico City Grand Prix,2024
+31,OCO,0.0,13,"['HARD', 'MEDIUM']",Lapped,Mexico City Grand Prix,2024
+77,BOT,15.0,14,"['HARD', 'MEDIUM']",Lapped,Mexico City Grand Prix,2024
+24,ZHO,19.0,15,"['HARD', 'MEDIUM']",Lapped,Mexico City Grand Prix,2024
+30,LAW,12.0,16,"['HARD', 'MEDIUM', 'SOFT']",Lapped,Mexico City Grand Prix,2024
+11,PER,18.0,17,"['HARD', 'MEDIUM', 'MEDIUM', 'SOFT']",Lapped,Mexico City Grand Prix,2024
+14,ALO,13.0,R,['MEDIUM'],Retired,Mexico City Grand Prix,2024
+23,ALB,9.0,R,['MEDIUM'],Retired,Mexico City Grand Prix,2024
+22,TSU,11.0,R,['MEDIUM'],Retired,Mexico City Grand Prix,2024
+1,VER,17.0,1,"['INTERMEDIATE', 'INTERMEDIATE']",Finished,São Paulo Grand Prix,2024
+31,OCO,4.0,2,"['INTERMEDIATE', 'INTERMEDIATE']",Finished,São Paulo Grand Prix,2024
+10,GAS,13.0,3,"['INTERMEDIATE', 'INTERMEDIATE']",Finished,São Paulo Grand Prix,2024
+63,RUS,2.0,4,"['INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE']",Finished,São Paulo Grand Prix,2024
+16,LEC,6.0,5,"['INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE']",Finished,São Paulo Grand Prix,2024
+4,NOR,1.0,6,"['INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE']",Finished,São Paulo Grand Prix,2024
+22,TSU,3.0,7,"['INTERMEDIATE', 'WET', 'INTERMEDIATE']",Finished,São Paulo Grand Prix,2024
+81,PIA,8.0,8,"['INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE']",Finished,São Paulo Grand Prix,2024
+30,LAW,5.0,9,"['INTERMEDIATE', 'WET', 'INTERMEDIATE']",Finished,São Paulo Grand Prix,2024
+44,HAM,14.0,10,"['INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE']",Finished,São Paulo Grand Prix,2024
+11,PER,12.0,11,"['INTERMEDIATE', 'WET', 'INTERMEDIATE']",Finished,São Paulo Grand Prix,2024
+50,BEA,15.0,12,"['INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE']",Finished,São Paulo Grand Prix,2024
+77,BOT,11.0,13,"['INTERMEDIATE', 'INTERMEDIATE']",Finished,São Paulo Grand Prix,2024
+14,ALO,9.0,14,"['INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE']",Finished,São Paulo Grand Prix,2024
+24,ZHO,19.0,15,"['INTERMEDIATE', 'INTERMEDIATE', 'WET', 'INTERMEDIATE', 'INTERMEDIATE']",Finished,São Paulo Grand Prix,2024
+55,SAI,20.0,R,"['INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE']",Retired,São Paulo Grand Prix,2024
+43,COL,16.0,R,"['INTERMEDIATE', 'INTERMEDIATE']",Retired,São Paulo Grand Prix,2024
+23,ALB,7.0,W,,Did not start,São Paulo Grand Prix,2024
+18,STR,10.0,W,['INTERMEDIATE'],Did not start,São Paulo Grand Prix,2024
+27,HUL,18.0,D,"['INTERMEDIATE', 'INTERMEDIATE', 'WET', 'INTERMEDIATE']",Disqualified,São Paulo Grand Prix,2024
+63,RUS,1.0,1,"['MEDIUM', 'HARD', 'HARD']",Finished,Las Vegas Grand Prix,2024
+44,HAM,10.0,2,"['MEDIUM', 'HARD', 'HARD']",Finished,Las Vegas Grand Prix,2024
+55,SAI,2.0,3,"['MEDIUM', 'HARD', 'HARD']",Finished,Las Vegas Grand Prix,2024
+16,LEC,4.0,4,"['MEDIUM', 'HARD', 'HARD']",Finished,Las Vegas Grand Prix,2024
+1,VER,5.0,5,"['MEDIUM', 'HARD', 'HARD']",Finished,Las Vegas Grand Prix,2024
+4,NOR,6.0,6,"['MEDIUM', 'HARD', 'HARD', 'SOFT']",Finished,Las Vegas Grand Prix,2024
+81,PIA,8.0,7,"['MEDIUM', 'HARD', 'HARD']",Finished,Las Vegas Grand Prix,2024
+27,HUL,9.0,8,"['MEDIUM', 'HARD', 'HARD']",Finished,Las Vegas Grand Prix,2024
+22,TSU,7.0,9,"['MEDIUM', 'HARD', 'HARD']",Finished,Las Vegas Grand Prix,2024
+11,PER,15.0,10,"['HARD', 'MEDIUM', 'HARD']",Finished,Las Vegas Grand Prix,2024
+14,ALO,16.0,11,"['SOFT', 'HARD', 'HARD']",Finished,Las Vegas Grand Prix,2024
+20,MAG,12.0,12,"['MEDIUM', 'HARD']",Finished,Las Vegas Grand Prix,2024
+24,ZHO,13.0,13,"['MEDIUM', 'HARD', 'HARD']",Finished,Las Vegas Grand Prix,2024
+43,COL,20.0,14,"['HARD', 'MEDIUM', 'HARD']",Finished,Las Vegas Grand Prix,2024
+18,STR,18.0,15,"['MEDIUM', 'HARD', 'HARD']",Finished,Las Vegas Grand Prix,2024
+30,LAW,14.0,16,"['MEDIUM', 'HARD', 'HARD']",Finished,Las Vegas Grand Prix,2024
+31,OCO,11.0,17,"['MEDIUM', 'MEDIUM', 'HARD', 'SOFT']",Lapped,Las Vegas Grand Prix,2024
+77,BOT,19.0,18,"['HARD', 'MEDIUM', 'HARD']",Lapped,Las Vegas Grand Prix,2024
+23,ALB,17.0,R,"['MEDIUM', 'HARD']",Retired,Las Vegas Grand Prix,2024
+10,GAS,3.0,R,"['MEDIUM', 'HARD']",Retired,Las Vegas Grand Prix,2024
+1,VER,2.0,1,"['MEDIUM', 'HARD', 'HARD', 'HARD']",Finished,Qatar Grand Prix,2024
+16,LEC,5.0,2,"['MEDIUM', 'HARD', 'HARD', 'HARD']",Finished,Qatar Grand Prix,2024
+81,PIA,4.0,3,"['MEDIUM', 'HARD', 'HARD', 'HARD']",Finished,Qatar Grand Prix,2024
+63,RUS,1.0,4,"['MEDIUM', 'HARD', 'HARD', 'HARD', 'HARD']",Finished,Qatar Grand Prix,2024
+10,GAS,11.0,5,"['MEDIUM', 'HARD', 'HARD', 'HARD']",Finished,Qatar Grand Prix,2024
+55,SAI,7.0,6,"['MEDIUM', 'HARD', 'HARD', 'HARD']",Finished,Qatar Grand Prix,2024
+14,ALO,8.0,7,"['MEDIUM', 'HARD', 'MEDIUM', 'MEDIUM']",Finished,Qatar Grand Prix,2024
+24,ZHO,12.0,8,"['MEDIUM', 'HARD', 'HARD', 'HARD']",Finished,Qatar Grand Prix,2024
+20,MAG,10.0,9,"['MEDIUM', 'HARD', 'HARD', 'HARD']",Finished,Qatar Grand Prix,2024
+4,NOR,3.0,10,"['MEDIUM', 'HARD', 'HARD', 'HARD', 'HARD']",Finished,Qatar Grand Prix,2024
+77,BOT,13.0,11,"['MEDIUM', 'HARD', 'MEDIUM', 'MEDIUM']",Finished,Qatar Grand Prix,2024
+44,HAM,6.0,12,"['MEDIUM', 'HARD', 'HARD', 'HARD', 'HARD']",Finished,Qatar Grand Prix,2024
+22,TSU,14.0,13,"['MEDIUM', 'HARD', 'HARD', 'HARD', 'SOFT']",Finished,Qatar Grand Prix,2024
+30,LAW,17.0,14,"['MEDIUM', 'HARD', 'HARD', 'HARD', 'SOFT']",Finished,Qatar Grand Prix,2024
+23,ALB,16.0,15,"['MEDIUM', 'SOFT', 'SOFT', 'SOFT', 'SOFT']",Lapped,Qatar Grand Prix,2024
+27,HUL,18.0,R,"['HARD', 'HARD', 'MEDIUM', 'MEDIUM', 'MEDIUM']",Retired,Qatar Grand Prix,2024
+11,PER,9.0,R,"['MEDIUM', 'HARD', 'HARD', 'HARD']",Retired,Qatar Grand Prix,2024
+18,STR,15.0,R,"['MEDIUM', 'HARD', 'HARD']",Retired,Qatar Grand Prix,2024
+43,COL,19.0,R,['MEDIUM'],Retired,Qatar Grand Prix,2024
+31,OCO,20.0,R,['MEDIUM'],Retired,Qatar Grand Prix,2024
+4,NOR,1.0,1,"['MEDIUM', 'HARD']",Finished,Abu Dhabi Grand Prix,2024
+55,SAI,3.0,2,"['MEDIUM', 'HARD']",Finished,Abu Dhabi Grand Prix,2024
+16,LEC,19.0,3,"['MEDIUM', 'HARD']",Finished,Abu Dhabi Grand Prix,2024
+44,HAM,16.0,4,"['HARD', 'MEDIUM']",Finished,Abu Dhabi Grand Prix,2024
+63,RUS,6.0,5,"['MEDIUM', 'HARD']",Finished,Abu Dhabi Grand Prix,2024
+1,VER,4.0,6,"['MEDIUM', 'HARD']",Finished,Abu Dhabi Grand Prix,2024
+10,GAS,5.0,7,"['MEDIUM', 'HARD']",Finished,Abu Dhabi Grand Prix,2024
+27,HUL,7.0,8,"['MEDIUM', 'HARD']",Finished,Abu Dhabi Grand Prix,2024
+14,ALO,8.0,9,"['MEDIUM', 'HARD', 'HARD']",Finished,Abu Dhabi Grand Prix,2024
+81,PIA,2.0,10,"['MEDIUM', 'HARD', 'HARD']",Finished,Abu Dhabi Grand Prix,2024
+23,ALB,18.0,11,"['MEDIUM', 'HARD']",Lapped,Abu Dhabi Grand Prix,2024
+22,TSU,11.0,12,"['MEDIUM', 'HARD']",Lapped,Abu Dhabi Grand Prix,2024
+24,ZHO,15.0,13,"['MEDIUM', 'HARD', 'HARD']",Lapped,Abu Dhabi Grand Prix,2024
+18,STR,13.0,14,"['MEDIUM', 'HARD', 'HARD']",Lapped,Abu Dhabi Grand Prix,2024
+61,DOO,17.0,15,"['MEDIUM', 'HARD']",Lapped,Abu Dhabi Grand Prix,2024
+20,MAG,14.0,16,"['MEDIUM', 'HARD', 'HARD', 'SOFT', 'SOFT']",Lapped,Abu Dhabi Grand Prix,2024
+30,LAW,12.0,17,"['MEDIUM', 'HARD', 'HARD', 'HARD']",Retired,Abu Dhabi Grand Prix,2024
+77,BOT,9.0,R,"['MEDIUM', 'HARD']",Retired,Abu Dhabi Grand Prix,2024
+43,COL,20.0,R,"['MEDIUM', 'HARD']",Retired,Abu Dhabi Grand Prix,2024
+11,PER,10.0,R,['MEDIUM'],Retired,Abu Dhabi Grand Prix,2024
+4,NOR,1.0,1,"['INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE', 'HARD', 'INTERMEDIATE']",Finished,Australian Grand Prix,2025
+1,VER,3.0,2,"['INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE', 'MEDIUM', 'INTERMEDIATE']",Finished,Australian Grand Prix,2025
+63,RUS,4.0,3,"['INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE', 'HARD', 'INTERMEDIATE']",Finished,Australian Grand Prix,2025
+12,ANT,16.0,4,"['INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE', 'HARD', 'INTERMEDIATE']",Finished,Australian Grand Prix,2025
+23,ALB,6.0,5,"['INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE', 'MEDIUM', 'INTERMEDIATE']",Finished,Australian Grand Prix,2025
+18,STR,13.0,6,"['INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE', 'HARD', 'INTERMEDIATE']",Finished,Australian Grand Prix,2025
+27,HUL,17.0,7,"['INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE', 'MEDIUM', 'INTERMEDIATE']",Finished,Australian Grand Prix,2025
+16,LEC,7.0,8,"['INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE', 'HARD', 'INTERMEDIATE']",Finished,Australian Grand Prix,2025
+81,PIA,2.0,9,"['INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE', 'HARD', 'INTERMEDIATE']",Finished,Australian Grand Prix,2025
+44,HAM,8.0,10,"['INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE', 'HARD', 'INTERMEDIATE']",Finished,Australian Grand Prix,2025
+10,GAS,9.0,11,"['INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE', 'HARD', 'INTERMEDIATE']",Finished,Australian Grand Prix,2025
+22,TSU,5.0,12,"['INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE', 'MEDIUM', 'INTERMEDIATE']",Finished,Australian Grand Prix,2025
+31,OCO,19.0,13,"['INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE', 'MEDIUM', 'INTERMEDIATE']",Finished,Australian Grand Prix,2025
+87,BEA,20.0,14,"['INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE', 'MEDIUM', 'INTERMEDIATE']",Finished,Australian Grand Prix,2025
+30,LAW,18.0,R,"['INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE', 'MEDIUM']",Retired,Australian Grand Prix,2025
+5,BOR,15.0,R,"['INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE', 'MEDIUM', 'INTERMEDIATE']",Retired,Australian Grand Prix,2025
+14,ALO,12.0,R,"['INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE', 'INTERMEDIATE']",Retired,Australian Grand Prix,2025
+55,SAI,10.0,R,['INTERMEDIATE'],Retired,Australian Grand Prix,2025
+7,DOO,14.0,R,['INTERMEDIATE'],Retired,Australian Grand Prix,2025
+6,HAD,11.0,R,['INTERMEDIATE'],Retired,Australian Grand Prix,2025
+81,PIA,1.0,1,"['MEDIUM', 'HARD']",Finished,Chinese Grand Prix,2025
+4,NOR,3.0,2,"['MEDIUM', 'HARD']",Finished,Chinese Grand Prix,2025
+63,RUS,2.0,3,"['MEDIUM', 'HARD']",Finished,Chinese Grand Prix,2025
+1,VER,4.0,4,"['MEDIUM', 'HARD']",Finished,Chinese Grand Prix,2025
+31,OCO,11.0,5,"['MEDIUM', 'HARD']",Finished,Chinese Grand Prix,2025
+12,ANT,8.0,6,"['MEDIUM', 'HARD']",Finished,Chinese Grand Prix,2025
+23,ALB,10.0,7,"['MEDIUM', 'HARD']",Finished,Chinese Grand Prix,2025
+87,BEA,17.0,8,"['HARD', 'MEDIUM']",Finished,Chinese Grand Prix,2025
+18,STR,14.0,9,"['HARD', 'MEDIUM']",Finished,Chinese Grand Prix,2025
+55,SAI,15.0,10,"['MEDIUM', 'HARD']",Finished,Chinese Grand Prix,2025
+6,HAD,7.0,11,"['MEDIUM', 'HARD', 'HARD']",Finished,Chinese Grand Prix,2025
+30,LAW,20.0,12,"['HARD', 'MEDIUM', 'HARD']",Finished,Chinese Grand Prix,2025
+7,DOO,18.0,13,"['MEDIUM', 'HARD']",Finished,Chinese Grand Prix,2025
+5,BOR,19.0,14,"['MEDIUM', 'HARD', 'HARD']",Lapped,Chinese Grand Prix,2025
+27,HUL,12.0,15,"['MEDIUM', 'HARD']",Lapped,Chinese Grand Prix,2025
+22,TSU,9.0,16,"['MEDIUM', 'HARD', 'HARD', 'MEDIUM']",Lapped,Chinese Grand Prix,2025
+14,ALO,13.0,R,['MEDIUM'],Retired,Chinese Grand Prix,2025
+16,LEC,6.0,D,"['MEDIUM', 'HARD']",Disqualified,Chinese Grand Prix,2025
+44,HAM,5.0,D,"['MEDIUM', 'HARD', 'HARD']",Disqualified,Chinese Grand Prix,2025
+10,GAS,16.0,D,"['MEDIUM', 'HARD']",Disqualified,Chinese Grand Prix,2025
+1,VER,1.0,1,"['MEDIUM', 'HARD']",Finished,Japanese Grand Prix,2025
+4,NOR,2.0,2,"['MEDIUM', 'HARD']",Finished,Japanese Grand Prix,2025
+81,PIA,3.0,3,"['MEDIUM', 'HARD']",Finished,Japanese Grand Prix,2025
+16,LEC,4.0,4,"['MEDIUM', 'HARD']",Finished,Japanese Grand Prix,2025
+63,RUS,5.0,5,"['MEDIUM', 'HARD']",Finished,Japanese Grand Prix,2025
+12,ANT,6.0,6,"['MEDIUM', 'HARD']",Finished,Japanese Grand Prix,2025
+44,HAM,8.0,7,"['HARD', 'MEDIUM']",Finished,Japanese Grand Prix,2025
+6,HAD,7.0,8,"['MEDIUM', 'HARD']",Finished,Japanese Grand Prix,2025
+23,ALB,9.0,9,"['MEDIUM', 'HARD']",Finished,Japanese Grand Prix,2025
+87,BEA,10.0,10,"['MEDIUM', 'HARD']",Finished,Japanese Grand Prix,2025
+14,ALO,12.0,11,"['MEDIUM', 'HARD']",Finished,Japanese Grand Prix,2025
+22,TSU,14.0,12,"['MEDIUM', 'HARD']",Finished,Japanese Grand Prix,2025
+10,GAS,11.0,13,"['MEDIUM', 'HARD']",Finished,Japanese Grand Prix,2025
+55,SAI,15.0,14,"['MEDIUM', 'SOFT']",Finished,Japanese Grand Prix,2025
+7,DOO,19.0,15,"['SOFT', 'HARD']",Finished,Japanese Grand Prix,2025
+27,HUL,16.0,16,"['MEDIUM', 'HARD']",Finished,Japanese Grand Prix,2025
+30,LAW,13.0,17,"['MEDIUM', 'SOFT']",Finished,Japanese Grand Prix,2025
+31,OCO,18.0,18,"['HARD', 'MEDIUM']",Finished,Japanese Grand Prix,2025
+5,BOR,17.0,19,"['HARD', 'MEDIUM']",Finished,Japanese Grand Prix,2025
+18,STR,20.0,20,"['SOFT', 'HARD', 'MEDIUM']",Lapped,Japanese Grand Prix,2025
+81,PIA,1.0,1,"['SOFT', 'MEDIUM', 'MEDIUM']",Finished,Bahrain Grand Prix,2025
+63,RUS,3.0,2,"['SOFT', 'MEDIUM', 'SOFT']",Finished,Bahrain Grand Prix,2025
+4,NOR,6.0,3,"['SOFT', 'MEDIUM', 'MEDIUM']",Finished,Bahrain Grand Prix,2025
+16,LEC,2.0,4,"['MEDIUM', 'MEDIUM', 'HARD']",Finished,Bahrain Grand Prix,2025
+44,HAM,9.0,5,"['MEDIUM', 'MEDIUM', 'HARD']",Finished,Bahrain Grand Prix,2025
+1,VER,7.0,6,"['SOFT', 'HARD', 'MEDIUM']",Finished,Bahrain Grand Prix,2025
+10,GAS,4.0,7,"['SOFT', 'MEDIUM', 'HARD']",Finished,Bahrain Grand Prix,2025
+31,OCO,14.0,8,"['SOFT', 'MEDIUM', 'HARD']",Finished,Bahrain Grand Prix,2025
+22,TSU,10.0,9,"['SOFT', 'MEDIUM', 'SOFT']",Finished,Bahrain Grand Prix,2025
+87,BEA,20.0,10,"['SOFT', 'HARD', 'SOFT']",Finished,Bahrain Grand Prix,2025
+12,ANT,5.0,11,"['SOFT', 'MEDIUM', 'SOFT', 'SOFT']",Finished,Bahrain Grand Prix,2025
+23,ALB,15.0,12,"['SOFT', 'HARD', 'MEDIUM']",Finished,Bahrain Grand Prix,2025
+6,HAD,12.0,13,"['SOFT', 'MEDIUM', 'HARD']",Finished,Bahrain Grand Prix,2025
+7,DOO,11.0,14,"['SOFT', 'MEDIUM', 'HARD']",Finished,Bahrain Grand Prix,2025
+14,ALO,13.0,15,"['MEDIUM', 'MEDIUM', 'HARD']",Finished,Bahrain Grand Prix,2025
+30,LAW,17.0,16,"['MEDIUM', 'HARD', 'SOFT']",Finished,Bahrain Grand Prix,2025
+18,STR,19.0,17,"['SOFT', 'MEDIUM', 'HARD']",Finished,Bahrain Grand Prix,2025
+5,BOR,18.0,18,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Bahrain Grand Prix,2025
+55,SAI,8.0,R,"['SOFT', 'MEDIUM', 'HARD', 'SOFT']",Retired,Bahrain Grand Prix,2025
+27,HUL,16.0,D,"['SOFT', 'MEDIUM', 'MEDIUM']",Disqualified,Bahrain Grand Prix,2025
+81,PIA,2.0,1,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2025
+1,VER,1.0,2,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2025
+16,LEC,4.0,3,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2025
+4,NOR,10.0,4,"['HARD', 'MEDIUM']",Finished,Saudi Arabian Grand Prix,2025
+63,RUS,3.0,5,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2025
+12,ANT,5.0,6,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2025
+44,HAM,7.0,7,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2025
+55,SAI,6.0,8,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2025
+23,ALB,11.0,9,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2025
+6,HAD,14.0,10,"['HARD', 'MEDIUM']",Finished,Saudi Arabian Grand Prix,2025
+14,ALO,13.0,11,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2025
+30,LAW,12.0,12,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2025
+87,BEA,15.0,13,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2025
+31,OCO,19.0,14,"['MEDIUM', 'HARD']",Finished,Saudi Arabian Grand Prix,2025
+27,HUL,18.0,15,"['HARD', 'MEDIUM']",Lapped,Saudi Arabian Grand Prix,2025
+18,STR,16.0,16,"['HARD', 'MEDIUM']",Lapped,Saudi Arabian Grand Prix,2025
+7,DOO,17.0,17,"['MEDIUM', 'HARD', 'HARD']",Lapped,Saudi Arabian Grand Prix,2025
+5,BOR,20.0,18,"['MEDIUM', 'HARD']",Lapped,Saudi Arabian Grand Prix,2025
+22,TSU,8.0,R,['MEDIUM'],Retired,Saudi Arabian Grand Prix,2025
+10,GAS,9.0,R,['MEDIUM'],Retired,Saudi Arabian Grand Prix,2025
+81,PIA,4.0,1,"['MEDIUM', 'HARD']",Finished,Miami Grand Prix,2025
+4,NOR,2.0,2,"['MEDIUM', 'HARD']",Finished,Miami Grand Prix,2025
+63,RUS,5.0,3,"['HARD', 'MEDIUM']",Finished,Miami Grand Prix,2025
+1,VER,1.0,4,"['MEDIUM', 'HARD']",Finished,Miami Grand Prix,2025
+23,ALB,7.0,5,"['MEDIUM', 'HARD']",Finished,Miami Grand Prix,2025
+12,ANT,3.0,6,"['MEDIUM', 'HARD']",Finished,Miami Grand Prix,2025
+16,LEC,8.0,7,"['MEDIUM', 'HARD']",Finished,Miami Grand Prix,2025
+44,HAM,12.0,8,"['HARD', 'MEDIUM']",Finished,Miami Grand Prix,2025
+55,SAI,6.0,9,"['MEDIUM', 'HARD']",Finished,Miami Grand Prix,2025
+22,TSU,10.0,10,"['MEDIUM', 'HARD']",Finished,Miami Grand Prix,2025
+6,HAD,11.0,11,['HARD'],Finished,Miami Grand Prix,2025
+31,OCO,9.0,12,['HARD'],Finished,Miami Grand Prix,2025
+10,GAS,20.0,13,"['HARD', 'MEDIUM']",Finished,Miami Grand Prix,2025
+27,HUL,16.0,14,"['HARD', 'MEDIUM']",Lapped,Miami Grand Prix,2025
+14,ALO,17.0,15,"['HARD', 'MEDIUM']",Lapped,Miami Grand Prix,2025
+18,STR,18.0,16,['HARD'],Lapped,Miami Grand Prix,2025
+30,LAW,15.0,R,"['HARD', 'MEDIUM']",Retired,Miami Grand Prix,2025
+5,BOR,13.0,R,['HARD'],Retired,Miami Grand Prix,2025
+87,BEA,19.0,R,['HARD'],Retired,Miami Grand Prix,2025
+7,DOO,14.0,R,['MEDIUM'],Retired,Miami Grand Prix,2025
+1,VER,2.0,1,"['MEDIUM', 'HARD', 'HARD']",Finished,Emilia Romagna Grand Prix,2025
+4,NOR,4.0,2,"['MEDIUM', 'HARD', 'HARD']",Finished,Emilia Romagna Grand Prix,2025
+81,PIA,1.0,3,"['MEDIUM', 'HARD', 'HARD']",Finished,Emilia Romagna Grand Prix,2025
+44,HAM,12.0,4,"['HARD', 'MEDIUM', 'HARD']",Finished,Emilia Romagna Grand Prix,2025
+23,ALB,7.0,5,"['MEDIUM', 'HARD', 'HARD']",Finished,Emilia Romagna Grand Prix,2025
+16,LEC,11.0,6,"['MEDIUM', 'HARD', 'HARD']",Finished,Emilia Romagna Grand Prix,2025
+63,RUS,3.0,7,"['MEDIUM', 'HARD', 'HARD']",Finished,Emilia Romagna Grand Prix,2025
+55,SAI,6.0,8,"['MEDIUM', 'HARD', 'HARD']",Finished,Emilia Romagna Grand Prix,2025
+6,HAD,9.0,9,"['MEDIUM', 'HARD', 'HARD']",Finished,Emilia Romagna Grand Prix,2025
+22,TSU,20.0,10,"['HARD', 'MEDIUM']",Finished,Emilia Romagna Grand Prix,2025
+14,ALO,5.0,11,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Emilia Romagna Grand Prix,2025
+27,HUL,17.0,12,"['HARD', 'MEDIUM']",Finished,Emilia Romagna Grand Prix,2025
+10,GAS,10.0,13,"['MEDIUM', 'HARD', 'HARD']",Finished,Emilia Romagna Grand Prix,2025
+30,LAW,15.0,14,"['MEDIUM', 'HARD', 'HARD']",Finished,Emilia Romagna Grand Prix,2025
+18,STR,8.0,15,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Emilia Romagna Grand Prix,2025
+43,COL,16.0,16,"['MEDIUM', 'HARD', 'HARD']",Finished,Emilia Romagna Grand Prix,2025
+87,BEA,19.0,17,"['HARD', 'MEDIUM', 'HARD']",Finished,Emilia Romagna Grand Prix,2025
+5,BOR,14.0,18,"['MEDIUM', 'HARD', 'HARD', 'MEDIUM']",Finished,Emilia Romagna Grand Prix,2025
+12,ANT,13.0,R,"['HARD', 'MEDIUM']",Retired,Emilia Romagna Grand Prix,2025
+31,OCO,18.0,R,"['MEDIUM', 'HARD']",Retired,Emilia Romagna Grand Prix,2025
+4,NOR,1.0,1,"['MEDIUM', 'HARD', 'HARD']",Finished,Monaco Grand Prix,2025
+16,LEC,2.0,2,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Monaco Grand Prix,2025
+81,PIA,3.0,3,"['MEDIUM', 'HARD', 'HARD']",Finished,Monaco Grand Prix,2025
+1,VER,4.0,4,"['HARD', 'MEDIUM', 'SOFT']",Finished,Monaco Grand Prix,2025
+44,HAM,7.0,5,"['HARD', 'HARD', 'MEDIUM']",Finished,Monaco Grand Prix,2025
+6,HAD,5.0,6,"['MEDIUM', 'SOFT', 'HARD']",Lapped,Monaco Grand Prix,2025
+31,OCO,8.0,7,"['MEDIUM', 'MEDIUM', 'HARD']",Lapped,Monaco Grand Prix,2025
+30,LAW,9.0,8,"['MEDIUM', 'SOFT', 'HARD']",Lapped,Monaco Grand Prix,2025
+23,ALB,10.0,9,"['MEDIUM', 'MEDIUM', 'HARD']",Lapped,Monaco Grand Prix,2025
+55,SAI,11.0,10,"['HARD', 'MEDIUM', 'MEDIUM']",Lapped,Monaco Grand Prix,2025
+63,RUS,14.0,11,"['HARD', 'MEDIUM', 'HARD']",Lapped,Monaco Grand Prix,2025
+87,BEA,20.0,12,"['MEDIUM', 'HARD', 'MEDIUM']",Lapped,Monaco Grand Prix,2025
+43,COL,18.0,13,"['HARD', 'MEDIUM', 'MEDIUM']",Lapped,Monaco Grand Prix,2025
+5,BOR,16.0,14,"['MEDIUM', 'HARD', 'SOFT', 'MEDIUM']",Lapped,Monaco Grand Prix,2025
+18,STR,19.0,15,"['HARD', 'HARD', 'MEDIUM']",Lapped,Monaco Grand Prix,2025
+27,HUL,13.0,16,"['MEDIUM', 'HARD', 'SOFT']",Lapped,Monaco Grand Prix,2025
+22,TSU,12.0,17,"['SOFT', 'HARD', 'MEDIUM']",Lapped,Monaco Grand Prix,2025
+12,ANT,15.0,18,"['HARD', 'MEDIUM', 'HARD']",Lapped,Monaco Grand Prix,2025
+14,ALO,6.0,R,"['HARD', 'HARD']",Retired,Monaco Grand Prix,2025
+10,GAS,17.0,R,"['MEDIUM', 'MEDIUM']",Retired,Monaco Grand Prix,2025
+81,PIA,1.0,1,"['SOFT', 'MEDIUM', 'SOFT', 'SOFT']",Finished,Spanish Grand Prix,2025
+4,NOR,2.0,2,"['SOFT', 'MEDIUM', 'SOFT', 'SOFT']",Finished,Spanish Grand Prix,2025
+16,LEC,7.0,3,"['SOFT', 'MEDIUM', 'MEDIUM', 'SOFT']",Finished,Spanish Grand Prix,2025
+63,RUS,4.0,4,"['SOFT', 'MEDIUM', 'SOFT', 'SOFT']",Finished,Spanish Grand Prix,2025
+27,HUL,15.0,5,"['SOFT', 'MEDIUM', 'SOFT', 'SOFT']",Finished,Spanish Grand Prix,2025
+44,HAM,5.0,6,"['SOFT', 'MEDIUM', 'SOFT', 'SOFT']",Finished,Spanish Grand Prix,2025
+6,HAD,9.0,7,"['SOFT', 'MEDIUM', 'SOFT', 'SOFT']",Finished,Spanish Grand Prix,2025
+10,GAS,8.0,8,"['SOFT', 'SOFT', 'MEDIUM', 'SOFT']",Finished,Spanish Grand Prix,2025
+14,ALO,10.0,9,"['SOFT', 'MEDIUM', 'SOFT', 'SOFT']",Finished,Spanish Grand Prix,2025
+1,VER,3.0,10,"['SOFT', 'SOFT', 'MEDIUM', 'SOFT', 'HARD']",Finished,Spanish Grand Prix,2025
+30,LAW,13.0,11,"['SOFT', 'MEDIUM', 'SOFT']",Finished,Spanish Grand Prix,2025
+5,BOR,12.0,12,"['SOFT', 'MEDIUM', 'SOFT']",Finished,Spanish Grand Prix,2025
+22,TSU,19.0,13,"['MEDIUM', 'SOFT', 'SOFT', 'SOFT', 'SOFT']",Finished,Spanish Grand Prix,2025
+55,SAI,17.0,14,"['SOFT', 'SOFT', 'MEDIUM', 'SOFT']",Finished,Spanish Grand Prix,2025
+43,COL,18.0,15,"['SOFT', 'MEDIUM', 'SOFT', 'SOFT']",Finished,Spanish Grand Prix,2025
+31,OCO,16.0,16,"['SOFT', 'MEDIUM', 'MEDIUM']",Finished,Spanish Grand Prix,2025
+87,BEA,14.0,17,"['SOFT', 'MEDIUM', 'MEDIUM', 'SOFT']",Finished,Spanish Grand Prix,2025
+12,ANT,6.0,R,"['SOFT', 'MEDIUM', 'SOFT']",Retired,Spanish Grand Prix,2025
+23,ALB,11.0,R,"['SOFT', 'SOFT', 'SOFT']",Retired,Spanish Grand Prix,2025
+63,RUS,1.0,1,"['MEDIUM', 'HARD', 'HARD', 'HARD', 'HARD', 'HARD']",Finished,Canadian Grand Prix,2025
+1,VER,2.0,2,"['MEDIUM', 'HARD', 'HARD', 'HARD', 'HARD', 'HARD']",Finished,Canadian Grand Prix,2025
+12,ANT,4.0,3,"['MEDIUM', 'HARD', 'HARD', 'HARD', 'HARD', 'HARD']",Finished,Canadian Grand Prix,2025
+81,PIA,3.0,4,"['MEDIUM', 'HARD', 'HARD', 'SOFT', 'SOFT', 'SOFT']",Finished,Canadian Grand Prix,2025
+16,LEC,8.0,5,"['HARD', 'HARD', 'MEDIUM', 'MEDIUM', 'MEDIUM', 'MEDIUM']",Finished,Canadian Grand Prix,2025
+44,HAM,5.0,6,"['MEDIUM', 'HARD', 'HARD', 'HARD', 'HARD', 'HARD']",Finished,Canadian Grand Prix,2025
+14,ALO,6.0,7,"['MEDIUM', 'HARD', 'HARD', 'HARD', 'HARD', 'HARD', 'HARD']",Finished,Canadian Grand Prix,2025
+27,HUL,11.0,8,"['MEDIUM', 'HARD', 'HARD', 'HARD', 'HARD', 'HARD']",Finished,Canadian Grand Prix,2025
+31,OCO,14.0,9,"['HARD', 'MEDIUM', 'MEDIUM', 'MEDIUM', 'MEDIUM']",Lapped,Canadian Grand Prix,2025
+55,SAI,16.0,10,"['HARD', 'MEDIUM', 'MEDIUM', 'MEDIUM', 'MEDIUM']",Lapped,Canadian Grand Prix,2025
+87,BEA,13.0,11,"['MEDIUM', 'HARD', 'SOFT', 'SOFT', 'SOFT']",Lapped,Canadian Grand Prix,2025
+22,TSU,18.0,12,"['HARD', 'MEDIUM', 'MEDIUM', 'MEDIUM', 'MEDIUM']",Lapped,Canadian Grand Prix,2025
+43,COL,10.0,13,"['MEDIUM', 'HARD', 'HARD', 'HARD', 'HARD']",Lapped,Canadian Grand Prix,2025
+5,BOR,15.0,14,"['HARD', 'MEDIUM', 'MEDIUM', 'MEDIUM', 'MEDIUM']",Lapped,Canadian Grand Prix,2025
+10,GAS,20.0,15,"['HARD', 'MEDIUM', 'MEDIUM', 'MEDIUM', 'MEDIUM']",Lapped,Canadian Grand Prix,2025
+6,HAD,12.0,16,"['MEDIUM', 'HARD', 'SOFT', 'SOFT', 'SOFT']",Lapped,Canadian Grand Prix,2025
+18,STR,17.0,17,"['HARD', 'HARD', 'MEDIUM', 'SOFT', 'SOFT', 'SOFT']",Lapped,Canadian Grand Prix,2025
+4,NOR,7.0,18,"['HARD', 'MEDIUM', 'HARD']",Retired,Canadian Grand Prix,2025
+30,LAW,19.0,R,"['HARD', 'MEDIUM']",Retired,Canadian Grand Prix,2025
+23,ALB,9.0,R,"['MEDIUM', 'HARD']",Retired,Canadian Grand Prix,2025
+4,NOR,1.0,1,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Austrian Grand Prix,2025
+81,PIA,3.0,2,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Austrian Grand Prix,2025
+16,LEC,2.0,3,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Austrian Grand Prix,2025
+44,HAM,4.0,4,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Austrian Grand Prix,2025
+63,RUS,5.0,5,"['MEDIUM', 'MEDIUM', 'HARD']",Finished,Austrian Grand Prix,2025
+30,LAW,6.0,6,"['MEDIUM', 'HARD']",Finished,Austrian Grand Prix,2025
+14,ALO,11.0,7,"['MEDIUM', 'HARD']",Lapped,Austrian Grand Prix,2025
+5,BOR,8.0,8,"['MEDIUM', 'MEDIUM', 'HARD']",Lapped,Austrian Grand Prix,2025
+27,HUL,20.0,9,"['SOFT', 'MEDIUM', 'MEDIUM']",Lapped,Austrian Grand Prix,2025
+31,OCO,17.0,10,"['MEDIUM', 'HARD', 'HARD']",Lapped,Austrian Grand Prix,2025
+87,BEA,15.0,11,"['SOFT', 'HARD', 'MEDIUM']",Lapped,Austrian Grand Prix,2025
+6,HAD,13.0,12,"['SOFT', 'MEDIUM', 'HARD']",Lapped,Austrian Grand Prix,2025
+10,GAS,10.0,13,"['SOFT', 'HARD', 'MEDIUM']",Lapped,Austrian Grand Prix,2025
+18,STR,16.0,14,"['MEDIUM', 'HARD', 'SOFT']",Lapped,Austrian Grand Prix,2025
+43,COL,14.0,15,"['SOFT', 'MEDIUM', 'HARD']",Lapped,Austrian Grand Prix,2025
+22,TSU,18.0,16,"['MEDIUM', 'HARD', 'MEDIUM', 'SOFT']",Lapped,Austrian Grand Prix,2025
+23,ALB,12.0,R,"['MEDIUM', 'MEDIUM']",Retired,Austrian Grand Prix,2025
+1,VER,7.0,R,['MEDIUM'],Retired,Austrian Grand Prix,2025
+12,ANT,9.0,R,['MEDIUM'],Retired,Austrian Grand Prix,2025
+55,SAI,19.0,W,['MEDIUM'],Did not start,Austrian Grand Prix,2025
+4,NOR,3.0,1,"['INTERMEDIATE', 'INTERMEDIATE', 'MEDIUM']",Finished,British Grand Prix,2025
+81,PIA,2.0,2,"['INTERMEDIATE', 'INTERMEDIATE', 'MEDIUM']",Finished,British Grand Prix,2025
+27,HUL,19.0,3,"['INTERMEDIATE', 'INTERMEDIATE', 'MEDIUM']",Finished,British Grand Prix,2025
+44,HAM,5.0,4,"['INTERMEDIATE', 'INTERMEDIATE', 'SOFT']",Finished,British Grand Prix,2025
+1,VER,1.0,5,"['INTERMEDIATE', 'INTERMEDIATE', 'MEDIUM']",Finished,British Grand Prix,2025
+10,GAS,8.0,6,"['INTERMEDIATE', 'INTERMEDIATE', 'MEDIUM']",Finished,British Grand Prix,2025
+18,STR,17.0,7,"['INTERMEDIATE', 'SOFT', 'INTERMEDIATE', 'SOFT']",Finished,British Grand Prix,2025
+23,ALB,13.0,8,"['INTERMEDIATE', 'INTERMEDIATE', 'MEDIUM']",Finished,British Grand Prix,2025
+14,ALO,7.0,9,"['INTERMEDIATE', 'INTERMEDIATE', 'MEDIUM']",Finished,British Grand Prix,2025
+63,RUS,4.0,10,"['HARD', 'INTERMEDIATE', 'HARD']",Finished,British Grand Prix,2025
+87,BEA,18.0,11,"['HARD', 'INTERMEDIATE', 'MEDIUM']",Finished,British Grand Prix,2025
+55,SAI,9.0,12,"['INTERMEDIATE', 'INTERMEDIATE', 'MEDIUM']",Finished,British Grand Prix,2025
+31,OCO,14.0,13,"['INTERMEDIATE', 'INTERMEDIATE', 'MEDIUM']",Finished,British Grand Prix,2025
+16,LEC,6.0,14,"['MEDIUM', 'INTERMEDIATE', 'SOFT']",Finished,British Grand Prix,2025
+22,TSU,11.0,15,"['INTERMEDIATE', 'INTERMEDIATE', 'MEDIUM']",Lapped,British Grand Prix,2025
+12,ANT,10.0,R,"['INTERMEDIATE', 'HARD', 'INTERMEDIATE', 'INTERMEDIATE']",Retired,British Grand Prix,2025
+6,HAD,12.0,R,"['MEDIUM', 'INTERMEDIATE']",Retired,British Grand Prix,2025
+5,BOR,16.0,R,['MEDIUM'],Retired,British Grand Prix,2025
+30,LAW,15.0,R,['INTERMEDIATE'],Retired,British Grand Prix,2025
+43,COL,20.0,W,['HARD'],Did not start,British Grand Prix,2025
+81,PIA,2.0,1,"['INTERMEDIATE', 'MEDIUM']",Finished,Belgian Grand Prix,2025
+4,NOR,1.0,2,"['INTERMEDIATE', 'HARD']",Finished,Belgian Grand Prix,2025
+16,LEC,3.0,3,"['INTERMEDIATE', 'MEDIUM']",Finished,Belgian Grand Prix,2025
+1,VER,4.0,4,"['INTERMEDIATE', 'MEDIUM']",Finished,Belgian Grand Prix,2025
+63,RUS,6.0,5,"['INTERMEDIATE', 'MEDIUM']",Finished,Belgian Grand Prix,2025
+23,ALB,5.0,6,"['INTERMEDIATE', 'MEDIUM']",Finished,Belgian Grand Prix,2025
+44,HAM,18.0,7,"['INTERMEDIATE', 'MEDIUM']",Finished,Belgian Grand Prix,2025
+30,LAW,9.0,8,"['INTERMEDIATE', 'MEDIUM']",Finished,Belgian Grand Prix,2025
+5,BOR,10.0,9,"['INTERMEDIATE', 'MEDIUM']",Finished,Belgian Grand Prix,2025
+10,GAS,13.0,10,"['INTERMEDIATE', 'MEDIUM']",Finished,Belgian Grand Prix,2025
+87,BEA,12.0,11,"['INTERMEDIATE', 'MEDIUM']",Finished,Belgian Grand Prix,2025
+27,HUL,14.0,12,"['INTERMEDIATE', 'MEDIUM', 'None']",Finished,Belgian Grand Prix,2025
+22,TSU,7.0,13,"['INTERMEDIATE', 'MEDIUM']",Finished,Belgian Grand Prix,2025
+18,STR,16.0,14,"['INTERMEDIATE', 'MEDIUM']",Finished,Belgian Grand Prix,2025
+31,OCO,11.0,15,"['INTERMEDIATE', 'MEDIUM']",Finished,Belgian Grand Prix,2025
+12,ANT,19.0,16,"['INTERMEDIATE', 'MEDIUM', 'None']",Finished,Belgian Grand Prix,2025
+14,ALO,20.0,17,"['INTERMEDIATE', 'MEDIUM', 'None']",Finished,Belgian Grand Prix,2025
+55,SAI,17.0,18,"['INTERMEDIATE', 'MEDIUM', 'HARD']",Finished,Belgian Grand Prix,2025
+43,COL,15.0,19,"['INTERMEDIATE', 'MEDIUM', 'None']",Finished,Belgian Grand Prix,2025
+6,HAD,8.0,20,"['INTERMEDIATE', 'MEDIUM', 'HARD']",Lapped,Belgian Grand Prix,2025
+4,NOR,3.0,1,"['MEDIUM', 'HARD']",Finished,Hungarian Grand Prix,2025
+81,PIA,2.0,2,"['MEDIUM', 'HARD', 'HARD']",Finished,Hungarian Grand Prix,2025
+63,RUS,4.0,3,"['MEDIUM', 'HARD', 'HARD']",Finished,Hungarian Grand Prix,2025
+16,LEC,1.0,4,"['MEDIUM', 'HARD', 'HARD']",Finished,Hungarian Grand Prix,2025
+14,ALO,5.0,5,"['MEDIUM', 'HARD']",Finished,Hungarian Grand Prix,2025
+5,BOR,7.0,6,"['MEDIUM', 'HARD']",Finished,Hungarian Grand Prix,2025
+18,STR,6.0,7,"['MEDIUM', 'HARD']",Finished,Hungarian Grand Prix,2025
+30,LAW,9.0,8,"['MEDIUM', 'HARD']",Finished,Hungarian Grand Prix,2025
+1,VER,8.0,9,"['MEDIUM', 'HARD', 'HARD']",Finished,Hungarian Grand Prix,2025
+12,ANT,15.0,10,"['MEDIUM', 'HARD']",Lapped,Hungarian Grand Prix,2025
+6,HAD,10.0,11,"['MEDIUM', 'HARD']",Lapped,Hungarian Grand Prix,2025
+44,HAM,12.0,12,"['HARD', 'MEDIUM']",Lapped,Hungarian Grand Prix,2025
+27,HUL,18.0,13,"['SOFT', 'MEDIUM', 'MEDIUM']",Lapped,Hungarian Grand Prix,2025
+55,SAI,13.0,14,"['SOFT', 'HARD', 'MEDIUM']",Lapped,Hungarian Grand Prix,2025
+23,ALB,19.0,15,"['SOFT', 'MEDIUM', 'HARD']",Lapped,Hungarian Grand Prix,2025
+31,OCO,17.0,16,"['MEDIUM', 'HARD']",Lapped,Hungarian Grand Prix,2025
+22,TSU,20.0,17,"['MEDIUM', 'SOFT', 'HARD']",Lapped,Hungarian Grand Prix,2025
+43,COL,14.0,18,"['MEDIUM', 'HARD', 'HARD']",Lapped,Hungarian Grand Prix,2025
+10,GAS,16.0,19,"['HARD', 'MEDIUM']",Lapped,Hungarian Grand Prix,2025
+87,BEA,11.0,R,"['MEDIUM', 'HARD']",Retired,Hungarian Grand Prix,2025
+81,PIA,1.0,1,"['MEDIUM', 'HARD', 'HARD']",Finished,Dutch Grand Prix,2025
+1,VER,3.0,2,"['SOFT', 'MEDIUM', 'SOFT']",Finished,Dutch Grand Prix,2025
+6,HAD,4.0,3,"['MEDIUM', 'HARD', 'SOFT']",Finished,Dutch Grand Prix,2025
+63,RUS,5.0,4,"['MEDIUM', 'HARD', 'SOFT']",Finished,Dutch Grand Prix,2025
+23,ALB,15.0,5,"['MEDIUM', 'HARD', 'SOFT']",Finished,Dutch Grand Prix,2025
+87,BEA,20.0,6,"['HARD', 'MEDIUM']",Finished,Dutch Grand Prix,2025
+18,STR,19.0,7,"['MEDIUM', 'HARD', 'HARD']",Finished,Dutch Grand Prix,2025
+14,ALO,10.0,8,"['MEDIUM', 'HARD', 'HARD']",Finished,Dutch Grand Prix,2025
+22,TSU,12.0,9,"['SOFT', 'HARD', 'SOFT']",Finished,Dutch Grand Prix,2025
+31,OCO,18.0,10,"['HARD', 'MEDIUM']",Finished,Dutch Grand Prix,2025
+43,COL,16.0,11,"['SOFT', 'HARD', 'MEDIUM', 'SOFT']",Finished,Dutch Grand Prix,2025
+30,LAW,8.0,12,"['MEDIUM', 'HARD', 'SOFT', 'SOFT']",Finished,Dutch Grand Prix,2025
+55,SAI,9.0,13,"['MEDIUM', 'HARD', 'SOFT', 'SOFT', 'SOFT']",Finished,Dutch Grand Prix,2025
+27,HUL,17.0,14,"['SOFT', 'HARD', 'MEDIUM']",Finished,Dutch Grand Prix,2025
+5,BOR,13.0,15,"['MEDIUM', 'HARD', 'SOFT']",Finished,Dutch Grand Prix,2025
+12,ANT,11.0,16,"['MEDIUM', 'HARD', 'SOFT', 'SOFT']",Finished,Dutch Grand Prix,2025
+10,GAS,14.0,17,"['MEDIUM', 'HARD']",Finished,Dutch Grand Prix,2025
+4,NOR,2.0,18,"['MEDIUM', 'HARD', 'HARD']",Retired,Dutch Grand Prix,2025
+16,LEC,6.0,R,"['MEDIUM', 'HARD']",Retired,Dutch Grand Prix,2025
+44,HAM,7.0,R,['MEDIUM'],Retired,Dutch Grand Prix,2025
+1,VER,1.0,1,"['MEDIUM', 'HARD']",Finished,Italian Grand Prix,2025
+4,NOR,2.0,2,"['MEDIUM', 'SOFT']",Finished,Italian Grand Prix,2025
+81,PIA,3.0,3,"['MEDIUM', 'SOFT']",Finished,Italian Grand Prix,2025
+16,LEC,4.0,4,"['MEDIUM', 'HARD']",Finished,Italian Grand Prix,2025
+63,RUS,5.0,5,"['MEDIUM', 'HARD']",Finished,Italian Grand Prix,2025
+44,HAM,10.0,6,"['MEDIUM', 'HARD']",Finished,Italian Grand Prix,2025
+23,ALB,14.0,7,"['HARD', 'MEDIUM']",Finished,Italian Grand Prix,2025
+5,BOR,7.0,8,"['MEDIUM', 'HARD']",Finished,Italian Grand Prix,2025
+12,ANT,6.0,9,"['MEDIUM', 'HARD']",Finished,Italian Grand Prix,2025
+6,HAD,19.0,10,"['HARD', 'MEDIUM']",Finished,Italian Grand Prix,2025
+55,SAI,13.0,11,"['MEDIUM', 'HARD']",Finished,Italian Grand Prix,2025
+87,BEA,11.0,12,"['MEDIUM', 'HARD']",Finished,Italian Grand Prix,2025
+22,TSU,9.0,13,"['MEDIUM', 'HARD']",Finished,Italian Grand Prix,2025
+30,LAW,18.0,14,"['SOFT', 'HARD']",Finished,Italian Grand Prix,2025
+31,OCO,15.0,15,"['HARD', 'SOFT']",Lapped,Italian Grand Prix,2025
+10,GAS,20.0,16,"['HARD', 'SOFT']",Lapped,Italian Grand Prix,2025
+43,COL,17.0,17,"['MEDIUM', 'HARD']",Lapped,Italian Grand Prix,2025
+18,STR,16.0,18,"['HARD', 'SOFT']",Lapped,Italian Grand Prix,2025
+14,ALO,8.0,R,"['MEDIUM', 'HARD']",Retired,Italian Grand Prix,2025
+27,HUL,12.0,W,['MEDIUM'],Did not start,Italian Grand Prix,2025
+1,VER,1.0,1,"['HARD', 'MEDIUM']",Finished,Azerbaijan Grand Prix,2025
+63,RUS,5.0,2,"['HARD', 'MEDIUM']",Finished,Azerbaijan Grand Prix,2025
+55,SAI,2.0,3,"['MEDIUM', 'HARD']",Finished,Azerbaijan Grand Prix,2025
+12,ANT,4.0,4,"['MEDIUM', 'HARD']",Finished,Azerbaijan Grand Prix,2025
+30,LAW,3.0,5,"['MEDIUM', 'HARD']",Finished,Azerbaijan Grand Prix,2025
+22,TSU,6.0,6,"['HARD', 'MEDIUM']",Finished,Azerbaijan Grand Prix,2025
+4,NOR,7.0,7,"['MEDIUM', 'HARD']",Finished,Azerbaijan Grand Prix,2025
+44,HAM,12.0,8,"['HARD', 'MEDIUM']",Finished,Azerbaijan Grand Prix,2025
+16,LEC,10.0,9,"['MEDIUM', 'HARD']",Finished,Azerbaijan Grand Prix,2025
+6,HAD,8.0,10,"['MEDIUM', 'HARD']",Finished,Azerbaijan Grand Prix,2025
+5,BOR,13.0,11,"['HARD', 'MEDIUM']",Finished,Azerbaijan Grand Prix,2025
+87,BEA,15.0,12,"['HARD', 'MEDIUM']",Finished,Azerbaijan Grand Prix,2025
+23,ALB,19.0,13,"['MEDIUM', 'MEDIUM', 'HARD']",Finished,Azerbaijan Grand Prix,2025
+31,OCO,20.0,14,"['HARD', 'MEDIUM', 'HARD']",Finished,Azerbaijan Grand Prix,2025
+14,ALO,11.0,15,"['MEDIUM', 'HARD']",Finished,Azerbaijan Grand Prix,2025
+27,HUL,17.0,16,"['HARD', 'MEDIUM']",Finished,Azerbaijan Grand Prix,2025
+18,STR,14.0,17,"['MEDIUM', 'HARD']",Finished,Azerbaijan Grand Prix,2025
+10,GAS,18.0,18,"['HARD', 'MEDIUM']",Lapped,Azerbaijan Grand Prix,2025
+43,COL,16.0,19,"['MEDIUM', 'HARD']",Lapped,Azerbaijan Grand Prix,2025
+81,PIA,9.0,R,['MEDIUM'],Retired,Azerbaijan Grand Prix,2025
+63,RUS,1.0,1,"['MEDIUM', 'HARD']",Finished,Singapore Grand Prix,2025
+1,VER,2.0,2,"['SOFT', 'HARD']",Finished,Singapore Grand Prix,2025
+4,NOR,5.0,3,"['MEDIUM', 'HARD']",Finished,Singapore Grand Prix,2025
+81,PIA,3.0,4,"['MEDIUM', 'HARD']",Finished,Singapore Grand Prix,2025
+12,ANT,4.0,5,"['MEDIUM', 'HARD']",Finished,Singapore Grand Prix,2025
+16,LEC,7.0,6,"['MEDIUM', 'HARD']",Finished,Singapore Grand Prix,2025
+14,ALO,10.0,7,"['SOFT', 'MEDIUM']",Finished,Singapore Grand Prix,2025
+44,HAM,6.0,8,"['MEDIUM', 'HARD', 'SOFT']",Finished,Singapore Grand Prix,2025
+87,BEA,9.0,9,"['MEDIUM', 'HARD']",Finished,Singapore Grand Prix,2025
+55,SAI,18.0,10,"['MEDIUM', 'SOFT']",Lapped,Singapore Grand Prix,2025
+6,HAD,8.0,11,"['SOFT', 'HARD']",Lapped,Singapore Grand Prix,2025
+22,TSU,13.0,12,"['SOFT', 'HARD']",Lapped,Singapore Grand Prix,2025
+18,STR,15.0,13,"['SOFT', 'MEDIUM']",Lapped,Singapore Grand Prix,2025
+23,ALB,20.0,14,"['MEDIUM', 'SOFT']",Lapped,Singapore Grand Prix,2025
+30,LAW,12.0,15,"['MEDIUM', 'SOFT']",Lapped,Singapore Grand Prix,2025
+43,COL,16.0,16,"['SOFT', 'MEDIUM']",Lapped,Singapore Grand Prix,2025
+5,BOR,14.0,17,"['MEDIUM', 'HARD']",Lapped,Singapore Grand Prix,2025
+31,OCO,17.0,18,"['MEDIUM', 'HARD']",Lapped,Singapore Grand Prix,2025
+10,GAS,19.0,19,"['MEDIUM', 'HARD', 'SOFT']",Lapped,Singapore Grand Prix,2025
+27,HUL,11.0,20,"['MEDIUM', 'HARD', 'SOFT']",Lapped,Singapore Grand Prix,2025
+1,VER,1.0,1,"['MEDIUM', 'SOFT']",Finished,United States Grand Prix,2025
+4,NOR,2.0,2,"['MEDIUM', 'SOFT']",Finished,United States Grand Prix,2025
+16,LEC,3.0,3,"['SOFT', 'MEDIUM']",Finished,United States Grand Prix,2025
+44,HAM,5.0,4,"['MEDIUM', 'SOFT']",Finished,United States Grand Prix,2025
+81,PIA,6.0,5,"['MEDIUM', 'SOFT']",Finished,United States Grand Prix,2025
+63,RUS,4.0,6,"['MEDIUM', 'SOFT']",Finished,United States Grand Prix,2025
+22,TSU,13.0,7,"['MEDIUM', 'SOFT']",Finished,United States Grand Prix,2025
+27,HUL,11.0,8,"['MEDIUM', 'SOFT']",Finished,United States Grand Prix,2025
+87,BEA,8.0,9,"['MEDIUM', 'SOFT']",Finished,United States Grand Prix,2025
+14,ALO,10.0,10,"['MEDIUM', 'SOFT']",Finished,United States Grand Prix,2025
+30,LAW,12.0,11,"['MEDIUM', 'SOFT']",Finished,United States Grand Prix,2025
+18,STR,19.0,12,"['SOFT', 'MEDIUM']",Finished,United States Grand Prix,2025
+12,ANT,7.0,13,"['MEDIUM', 'SOFT']",Finished,United States Grand Prix,2025
+23,ALB,18.0,14,"['HARD', 'MEDIUM', 'SOFT']",Finished,United States Grand Prix,2025
+31,OCO,17.0,15,"['HARD', 'MEDIUM']",Finished,United States Grand Prix,2025
+6,HAD,20.0,16,"['HARD', 'SOFT']",Finished,United States Grand Prix,2025
+43,COL,15.0,17,"['MEDIUM', 'SOFT']",Lapped,United States Grand Prix,2025
+5,BOR,16.0,18,"['SOFT', 'MEDIUM', 'SOFT']",Lapped,United States Grand Prix,2025
+10,GAS,14.0,19,"['MEDIUM', 'SOFT']",Lapped,United States Grand Prix,2025
+55,SAI,9.0,R,['MEDIUM'],Retired,United States Grand Prix,2025
+4,NOR,1.0,1,"['SOFT', 'MEDIUM']",Finished,Mexico City Grand Prix,2025
+16,LEC,2.0,2,"['SOFT', 'MEDIUM']",Finished,Mexico City Grand Prix,2025
+1,VER,5.0,3,"['MEDIUM', 'SOFT']",Finished,Mexico City Grand Prix,2025
+87,BEA,9.0,4,"['SOFT', 'MEDIUM', 'SOFT']",Finished,Mexico City Grand Prix,2025
+81,PIA,7.0,5,"['SOFT', 'MEDIUM', 'SOFT']",Finished,Mexico City Grand Prix,2025
+12,ANT,6.0,6,"['SOFT', 'MEDIUM', 'SOFT']",Finished,Mexico City Grand Prix,2025
+63,RUS,4.0,7,"['SOFT', 'MEDIUM', 'SOFT']",Finished,Mexico City Grand Prix,2025
+44,HAM,3.0,8,"['SOFT', 'MEDIUM', 'SOFT']",Finished,Mexico City Grand Prix,2025
+31,OCO,11.0,9,"['SOFT', 'MEDIUM']",Finished,Mexico City Grand Prix,2025
+5,BOR,16.0,10,"['MEDIUM', 'SOFT']",Finished,Mexico City Grand Prix,2025
+22,TSU,10.0,11,"['MEDIUM', 'SOFT']",Finished,Mexico City Grand Prix,2025
+23,ALB,17.0,12,"['HARD', 'SOFT']",Lapped,Mexico City Grand Prix,2025
+6,HAD,8.0,13,"['MEDIUM', 'SOFT']",Lapped,Mexico City Grand Prix,2025
+18,STR,19.0,14,"['SOFT', 'MEDIUM', 'SOFT']",Lapped,Mexico City Grand Prix,2025
+10,GAS,18.0,15,"['MEDIUM', 'SOFT']",Lapped,Mexico City Grand Prix,2025
+43,COL,20.0,16,"['HARD', 'SOFT']",Lapped,Mexico City Grand Prix,2025
+55,SAI,12.0,17,"['MEDIUM', 'SOFT', 'SOFT', 'SOFT']",Retired,Mexico City Grand Prix,2025
+14,ALO,14.0,R,"['SOFT', 'MEDIUM']",Retired,Mexico City Grand Prix,2025
+27,HUL,13.0,R,['SOFT'],Retired,Mexico City Grand Prix,2025
+30,LAW,15.0,R,"['SOFT', 'HARD']",Retired,Mexico City Grand Prix,2025
+4,NOR,1.0,1,"['MEDIUM', 'SOFT', 'MEDIUM']",Finished,São Paulo Grand Prix,2025
+12,ANT,2.0,2,"['SOFT', 'MEDIUM', 'MEDIUM']",Finished,São Paulo Grand Prix,2025
+1,VER,19.0,3,"['HARD', 'MEDIUM', 'MEDIUM', 'SOFT']",Finished,São Paulo Grand Prix,2025
+63,RUS,6.0,4,"['MEDIUM', 'SOFT', 'MEDIUM']",Finished,São Paulo Grand Prix,2025
+81,PIA,4.0,5,"['MEDIUM', 'SOFT', 'MEDIUM']",Finished,São Paulo Grand Prix,2025
+87,BEA,8.0,6,"['SOFT', 'MEDIUM', 'MEDIUM']",Finished,São Paulo Grand Prix,2025
+30,LAW,7.0,7,"['SOFT', 'MEDIUM']",Finished,São Paulo Grand Prix,2025
+6,HAD,5.0,8,"['SOFT', 'MEDIUM', 'MEDIUM']",Finished,São Paulo Grand Prix,2025
+27,HUL,10.0,9,"['MEDIUM', 'SOFT']",Finished,São Paulo Grand Prix,2025
+10,GAS,9.0,10,"['SOFT', 'MEDIUM', 'MEDIUM']",Finished,São Paulo Grand Prix,2025
+23,ALB,12.0,11,"['MEDIUM', 'SOFT', 'MEDIUM']",Finished,São Paulo Grand Prix,2025
+31,OCO,20.0,12,"['HARD', 'MEDIUM', 'MEDIUM']",Finished,São Paulo Grand Prix,2025
+55,SAI,15.0,13,"['SOFT', 'MEDIUM', 'MEDIUM']",Finished,São Paulo Grand Prix,2025
+14,ALO,11.0,14,"['HARD', 'MEDIUM', 'MEDIUM']",Finished,São Paulo Grand Prix,2025
+43,COL,16.0,15,"['MEDIUM', 'SOFT', 'MEDIUM']",Finished,São Paulo Grand Prix,2025
+18,STR,14.0,16,"['HARD', 'MEDIUM', 'MEDIUM']",Finished,São Paulo Grand Prix,2025
+22,TSU,17.0,17,"['HARD', 'MEDIUM', 'MEDIUM', 'MEDIUM']",Finished,São Paulo Grand Prix,2025
+44,HAM,13.0,R,"['SOFT', 'HARD', 'MEDIUM', 'MEDIUM']",Retired,São Paulo Grand Prix,2025
+16,LEC,3.0,R,['MEDIUM'],Retired,São Paulo Grand Prix,2025
+5,BOR,18.0,R,['SOFT'],Retired,São Paulo Grand Prix,2025
+1,VER,2.0,1,"['MEDIUM', 'HARD']",Finished,Las Vegas Grand Prix,2025
+63,RUS,4.0,2,"['MEDIUM', 'HARD']",Finished,Las Vegas Grand Prix,2025
+12,ANT,17.0,3,"['SOFT', 'HARD']",Finished,Las Vegas Grand Prix,2025
+16,LEC,9.0,4,"['MEDIUM', 'HARD']",Finished,Las Vegas Grand Prix,2025
+55,SAI,3.0,5,"['MEDIUM', 'HARD']",Finished,Las Vegas Grand Prix,2025
+6,HAD,8.0,6,"['MEDIUM', 'HARD']",Finished,Las Vegas Grand Prix,2025
+27,HUL,11.0,7,"['HARD', 'MEDIUM']",Finished,Las Vegas Grand Prix,2025
+44,HAM,19.0,8,"['HARD', 'MEDIUM']",Finished,Las Vegas Grand Prix,2025
+31,OCO,13.0,9,"['MEDIUM', 'HARD']",Finished,Las Vegas Grand Prix,2025
+87,BEA,14.0,10,"['MEDIUM', 'HARD']",Finished,Las Vegas Grand Prix,2025
+14,ALO,7.0,11,"['MEDIUM', 'HARD']",Finished,Las Vegas Grand Prix,2025
+22,TSU,20.0,12,"['MEDIUM', 'HARD', 'MEDIUM']",Finished,Las Vegas Grand Prix,2025
+10,GAS,10.0,13,"['MEDIUM', 'HARD']",Finished,Las Vegas Grand Prix,2025
+30,LAW,6.0,14,"['MEDIUM', 'HARD', 'HARD']",Lapped,Las Vegas Grand Prix,2025
+43,COL,15.0,15,"['HARD', 'MEDIUM']",Lapped,Las Vegas Grand Prix,2025
+23,ALB,16.0,R,"['HARD', 'MEDIUM', 'HARD', 'MEDIUM']",Retired,Las Vegas Grand Prix,2025
+5,BOR,18.0,R,"['HARD', 'MEDIUM']",Retired,Las Vegas Grand Prix,2025
+18,STR,12.0,R,['MEDIUM'],Retired,Las Vegas Grand Prix,2025
+4,NOR,1.0,D,"['MEDIUM', 'HARD']",Disqualified,Las Vegas Grand Prix,2025
+81,PIA,5.0,D,"['MEDIUM', 'HARD']",Disqualified,Las Vegas Grand Prix,2025
+1,VER,3.0,1,"['MEDIUM', 'MEDIUM', 'HARD']",Finished,Qatar Grand Prix,2025
+81,PIA,1.0,2,"['MEDIUM', 'MEDIUM', 'HARD']",Finished,Qatar Grand Prix,2025
+55,SAI,7.0,3,"['MEDIUM', 'MEDIUM', 'HARD']",Finished,Qatar Grand Prix,2025
+4,NOR,2.0,4,"['MEDIUM', 'MEDIUM', 'HARD']",Finished,Qatar Grand Prix,2025
+12,ANT,5.0,5,"['MEDIUM', 'MEDIUM', 'HARD']",Finished,Qatar Grand Prix,2025
+63,RUS,4.0,6,"['MEDIUM', 'MEDIUM', 'HARD']",Finished,Qatar Grand Prix,2025
+14,ALO,8.0,7,"['MEDIUM', 'MEDIUM', 'HARD']",Finished,Qatar Grand Prix,2025
+16,LEC,10.0,8,"['MEDIUM', 'MEDIUM', 'HARD']",Finished,Qatar Grand Prix,2025
+30,LAW,12.0,9,"['MEDIUM', 'MEDIUM', 'HARD']",Finished,Qatar Grand Prix,2025
+22,TSU,15.0,10,"['MEDIUM', 'MEDIUM', 'HARD']",Finished,Qatar Grand Prix,2025
+23,ALB,14.0,11,"['HARD', 'MEDIUM', 'MEDIUM']",Finished,Qatar Grand Prix,2025
+44,HAM,17.0,12,"['SOFT', 'MEDIUM', 'MEDIUM']",Finished,Qatar Grand Prix,2025
+5,BOR,19.0,13,"['MEDIUM', 'MEDIUM', 'SOFT']",Finished,Qatar Grand Prix,2025
+43,COL,20.0,14,"['HARD', 'MEDIUM', 'MEDIUM']",Lapped,Qatar Grand Prix,2025
+31,OCO,16.0,15,"['MEDIUM', 'HARD', 'MEDIUM', 'HARD']",Lapped,Qatar Grand Prix,2025
+10,GAS,9.0,16,"['MEDIUM', 'HARD', 'MEDIUM']",Lapped,Qatar Grand Prix,2025
+18,STR,18.0,17,"['MEDIUM', 'MEDIUM', 'MEDIUM', 'SOFT']",Retired,Qatar Grand Prix,2025
+6,HAD,6.0,18,"['MEDIUM', 'MEDIUM', 'HARD']",Retired,Qatar Grand Prix,2025
+87,BEA,13.0,R,"['MEDIUM', 'MEDIUM', 'HARD', 'HARD']",Retired,Qatar Grand Prix,2025
+27,HUL,11.0,R,['SOFT'],Retired,Qatar Grand Prix,2025

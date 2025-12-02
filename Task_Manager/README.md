@@ -31,6 +31,7 @@ A command-line based Task Management System built with Python. This application 
 - [`tabulate`](https://pypi.org/project/tabulate/) – Pretty-printed tables
 - [`colorama`](https://pypi.org/project/colorama/) – Terminal text styling
 
+
 ---
 
 ## 🧠 Key Concepts Practised
@@ -41,12 +42,6 @@ A command-line based Task Management System built with Python. This application 
 - Data formatting and conditional logic
 - User role management (admin vs standard user)
 - Data persistence without a database
-
----
-
-## 📸 Screenshots
-
-_Coming soon..._
 
 ---
 

@@ -1,59 +1,52 @@
-# 👨‍💻 Thomas Edward Hill – Project Portfolio
+# Thomas Edward Hill – Project Portfolio
 
-Welcome! I'm Thomas, a career-changer progressing into Data and Analytics with a strong foundation in chemistry, technical sales, and client-facing problem-solving. This GitHub repository showcases selected projects demonstrating my analytical, statistical, and programming skills developed through the Digital Futures Academy and the HyperionDev Data Science programme with Imperial College London.
+Welcome. I am Thomas, a data and analytics professional with a background in chemistry, automation engineering, and technical client-facing delivery. After earning a First-Class MChem from Durham University, I spent several years solving real operational problems for global clients before pivoting into data and analytics. My work combines analytical rigour with clear communication and real world problem solving.
 
----
+## About Me
 
-## 🧠 About Me
+- MChem Chemistry, First-Class Honours – Durham University
+- Completed a Data Science Programme with HyperionDev in partnership with Imperial College London
+- Developing advanced analytics and consulting skills through the Digital Futures Academy
+- Strong experience working with engineering, operations, and commercial stakeholders
+- Focused on creating clear, actionable insights from complex data
 
-- 🎓 **MChem Chemistry**, First-Class Honours – Durham University  
-- 🎯 Completed a **Data Science Programme** with *HyperionDev in partnership with Imperial College London*  
-- 🚀 Currently developing advanced consulting and analytical skills through the **Digital Futures Academy**  
-- 💬 Skilled at communicating complex technical ideas clearly to both technical and non-technical audiences  
+## Project Highlights
 
----
+### F1 Tyre Strategy Prediction Project
+End to end project predicting race tyre strategy categories using FastF1 telemetry, engineered features, supervised learning, and a Streamlit app. Includes custom data pipelines for feature creation, strategy labelling, model training, and image based output.  
+Skills: Python, FastF1, Feature Engineering, XGBoost, Random Forest, Classification, Streamlit.
 
-## 📂 Project Highlights
+### WHO Life Expectancy Analysis
+A collaborative project analysing global health indicators to model life expectancy. Includes EDA, engineered variables, regression modelling, and an interactive prediction function.  
+Skills: Regression, Python, Pandas, Scikit-learn, Data Storytelling.
 
-### 🌍 WHO Life Expectancy Project
-A collaborative project analysing global health data from the World Health Organization. The team performed exploratory data analysis (EDA), feature engineering, and built linear regression models to predict life expectancy based on socio-economic and health indicators. The project also included a stand-alone Python function allowing users to input new data and receive life expectancy predictions interactively.  
-**Skills:** EDA, Feature Engineering, Linear Regression, Python, Pandas, NumPy, Scikit-learn, Statistical Modelling, User Interaction Design  
-**Contributors:** *Thomas Hill, Dan Bacon, Gus Laughton-Scott, Greg Stark*  
-**Presented to:** *Digital Futures Academy*  
+### Ames Housing Price Prediction
+A complete walk through of feature engineering and linear regression to predict housing prices using the Ames dataset.  
+Skills: EDA, Feature Selection, Regression, Visualisation.
 
-### 📈 Linear Regression on Ames Housing Dataset
-A complete walkthrough of exploratory data analysis, feature selection, and multiple linear regression to predict house prices using the Ames dataset. Includes model evaluation and export to HTML/PDF.  
-**Skills:** Python, Pandas, NumPy, Matplotlib, Scikit-learn, Regression Modelling, EDA  
+### Python Task Manager
+A standalone command line application for managing users and tasks with file storage, permissions, and validation.  
+Skills: Python, File I/O, CLI Design.
 
-### 🔧 Task Manager (Python)
-A file-based command-line application for managing users and tasks. Features include role-based permissions, due date validation, and rich terminal output.  
-**Skills:** Python, file I/O, functions, data validation, CLI design, modular code  
+## Technologies and Tools
 
----
+- Python, SQL
+- Pandas, NumPy, Matplotlib, Scikit-learn, XGBoost
+- FastF1 for telemetry and race weekend data
+- Git and GitHub
+- Experience with EDA, feature engineering, model evaluation, and data wrangling
 
-## 🛠 Technologies & Tools
+## Installation
 
-- **Languages:** Python, SQL  
-- **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn  
-- **Tools:** Git, GitHub
-- **Concepts:** EDA, Feature Engineering, Model Evaluation, Data Wrangling  
-- **Methodologies:** Agile collaboration, data storytelling, stakeholder communication  
-
-A complete list of dependencies for all projects is included in the `requirements.txt` file.  
-To install them, run:
-
-```bash
-pip install -r requirements.txt
+To install all dependencies for project work:
 
 ```
----
+pip install -r requirements.txt
+```
 
-## 📫 Get in Touch
+## Contact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/thomas-edward-hill/)  
-- 💻 [GitHub](https://github.com/TEHill1910)  
-- 📬 Email: thomas_e_hill@outlook.com  
+- LinkedIn: https://www.linkedin.com/in/thomas-edward-hill/
+- GitHub: https://github.com/TEHill1910
+- Email: thomas_e_hill@outlook.com
 
----
-
-> “I believe data is only as valuable as the insights and outcomes it enables. I aim to bridge analytical understanding with practical business impact.”
