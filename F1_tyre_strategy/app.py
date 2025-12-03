@@ -139,23 +139,6 @@ st.markdown("""
 <style>
 
     /* -------------------------------------- */
-    /* F1 LOGO (scrolls, zooms, behaves clean) */
-    /* -------------------------------------- */
-    .f1-logo-wrapper {
-        width: 100%;
-        display: flex;
-        justify-content: flex-end;   /* push to RIGHT */
-        margin-bottom: -1.5rem;      /* pull it closer to top */
-        padding-right: 2rem;         /* move away from the edge */
-    }
-
-    .f1-logo-wrapper img {
-        height: 240px;               /* BIG LOGO — adjust to taste */
-        opacity: 0.95;
-    }
-
-
-    /* -------------------------------------- */
     /* BACKGROUND + DARK OVERLAY              */
     /* -------------------------------------- */
     [data-testid="stAppViewContainer"] {
@@ -173,82 +156,57 @@ st.markdown("""
         background: rgba(0,0,0,0.45);
         z-index: 0;
     }
-
-    /* Lift all app content above overlay */
-    [data-testid="stAppViewContainer"] > div {
-        position: relative;
-        z-index: 1;
-    }
-
-
     /* -------------------------------------- */
-    /* GLOBAL TEXT COLOR + SHADOW             */
+    /* GLOBAL TEXT — ALL WHITE                */
     /* -------------------------------------- */
-    html, body, [data-testid="stMarkdownContainer"] {
-        color: #E6E6E6 !important;
-        text-shadow: 0 0 4px rgba(0,0,0,0.85);
+    html, body, [data-testid="stAppViewContainer"], 
+    [data-testid="stMarkdownContainer"], 
+    p, span, div, label {
+        color: #FFFFFF !important;
+        text-shadow: none !important;
     }
 
     h1, h2, h3, h4, h5, h6 {
         color: #FFFFFF !important;
-        text-shadow: 0 0 6px rgba(0,0,0,1);
     }
-
 
     /* -------------------------------------- */
-    /* FILE UPLOADER (grey + black text)      */
+    /* DARK INPUT FIELDS                      */
     /* -------------------------------------- */
-    div[data-testid="stFileUploader"] > section {
-        background-color: #707070 !important;
-        border: 1px solid #999;
-        padding: 15px;
-        border-radius: 8px;
-    }
 
-    /* Make all text inside uploader black */
-    div[data-testid="stFileUploader"] * {
-        color: black !important;
-        fill: black !important;
-    }
-
-    /* Fix Browse Files button */
-    div[data-testid="stFileUploader"] button[kind="secondary"] {
-        background-color: #c0c0c0 !important;
-        color: black !important;
-        border: 1px solid #888 !important;
-        border-radius: 6px !important;
-    }
-
-    div[data-testid="stFileUploader"] button[kind="secondary"]:hover {
-        background-color: #b0b0b0 !important;
-        border-color: #666 !important;
-    }
-
-
-    /* -------------------------------------- */
-    /* NUMBER INPUT FIELD                     */
-    /* -------------------------------------- */
-    div[data-testid="stNumberInput"] > div > input {
-        background-color: #707070 !important;
-        color: black !important;
-        border: 1px solid #999;
+    /* Number input */
+    div[data-testid="stNumberInput"] input {
+        background-color: #222222 !important;
+        color: #FFFFFF !important;
+        border: 1px solid #555 !important;
     }
 
     div[data-testid="stNumberInput"] button {
-        background-color: #c0c0c0 !important;
-        color: black !important;
-        border: 1px solid #888 !important;
+        background-color: #333333 !important;
+        color: #FFFFFF !important;
+        border: 1px solid #666 !important;
     }
 
+    /* File uploader */
+    div[data-testid="stFileUploader"] > section {
+        background-color: #222222 !important;
+        border: 1px solid #555 !important;
+        border-radius: 8px;
+        color: #FFFFFF !important;
+    }
+
+    div[data-testid="stFileUploader"] * {
+        color: #FFFFFF !important;
+    }
 
     /* -------------------------------------- */
-    /* ALL BUTTONS (Generate, Download, etc.) */
+    /* BUTTONS — DARK + WHITE TEXT            */
     /* -------------------------------------- */
     div.stButton > button,
     div[data-testid="stDownloadButton"] > button {
-        background-color: #c0c0c0 !important;
-        color: black !important;
-        border: 1px solid #888 !important;
+        background-color: #333333 !important;
+        color: #FFFFFF !important;
+        border: 1px solid #666 !important;
         border-radius: 6px !important;
         padding: 0.6em 1.2em !important;
         font-weight: bold !important;
@@ -256,13 +214,27 @@ st.markdown("""
 
     div.stButton > button:hover,
     div[data-testid="stDownloadButton"] > button:hover {
-        background-color: #b0b0b0 !important;
-        border-color: #666 !important;
+        background-color: #444444 !important;
+        border-color: #888 !important;
+    }
+
+    /* -------------------------------------- */
+    /* SELECTBOX / DROPDOWNS                  */
+    /* -------------------------------------- */
+    div[data-baseweb="select"] > div {
+        background-color: #222222 !important;
+        color: #FFFFFF !important;
+    }
+
+    /* -------------------------------------- */
+    /* DATAFRAME TEXT                         */
+    /* -------------------------------------- */
+    .stDataFrame div, .stDataFrame span {
+        color: #FFFFFF !important;
     }
 
 </style>
 """, unsafe_allow_html=True)
-
 
 st.markdown(
     """
