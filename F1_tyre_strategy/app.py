@@ -129,12 +129,6 @@ st.set_page_config(
     initial_sidebar_state="collapsed"
 )
 
-st.set_page_config(
-    page_title="F1 Strategy",
-    page_icon="🏎️",
-    layout="wide",
-    initial_sidebar_state="collapsed"
-)
 
 st.markdown("""
 <style>
@@ -293,7 +287,7 @@ if uploaded_file is not None:
     st.success("CSV loaded from upload.")
 else:
     try:
-        latest = load_latest_csv("data")
+        latest = load_latest_csv()
         st.info(f"Using latest CSV file: {latest}")
         df = pd.read_csv(latest)
     except Exception:
