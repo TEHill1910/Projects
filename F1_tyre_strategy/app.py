@@ -12,12 +12,17 @@ import joblib
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 model_path = os.path.join(BASE_DIR, "xgb_model.joblib")
 
+
+DATA_DIR = os.path.join(BASE_DIR, "data")
+
+
 model = joblib.load(model_path)
 
-def load_latest_csv(folder="data"):
+
+def load_latest_csv(folder=DATA_DIR):
     csv_files = glob.glob(os.path.join(folder, "*.csv"))
     if not csv_files:
-        raise FileNotFoundError("No CSV files found in /data")
+        raise FileNotFoundError(f"No CSV files found in {folder}")
     return max(csv_files, key=os.path.getmtime)
 
 def feature_engineering(df):
