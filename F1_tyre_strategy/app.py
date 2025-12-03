@@ -343,12 +343,10 @@ if st.button("Generate Features"):
     st.subheader("Model Prediction")
     st.write(pred_label)
 
-    image_map = {
-        "Conservative": "images/conservative.png",
-        "Neutral": "images/neutral.png",
-        "Aggressive": "images/aggressive.png"
-     }
+image_map = {
+    "Conservative": os.path.join(BASE_DIR, "images", "conservative.png"),
+    "Neutral": os.path.join(BASE_DIR, "images", "neutral.png"),
+    "Aggressive": os.path.join(BASE_DIR, "images", "aggressive.png"),
+}
 
-    st.image(image_map[pred_label], use_container_width=True)
-
-
+st.image(image_map[pred_label], use_container_width=True)
