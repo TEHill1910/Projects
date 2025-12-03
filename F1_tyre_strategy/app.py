@@ -14,10 +14,6 @@ model_path = os.path.join(BASE_DIR, "xgb_model.joblib")
 
 model = joblib.load(model_path)
 
-model = joblib.load("xgb_model.joblib")
-
-
-
 def load_latest_csv(folder="data"):
     csv_files = glob.glob(os.path.join(folder, "*.csv"))
     if not csv_files:
