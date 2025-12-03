@@ -1,78 +1,77 @@
 # F1 Tyre Strategy Prediction Project
 
-This project builds a full end to end pipeline for predicting Formula 1 race tyre strategies using FastF1 data. The workflow covers data extraction, feature engineering, target generation, model training, and an interactive Streamlit app that produces live predictions.
+This project builds a complete end-to-end pipeline for predicting Formula 1 race tyre strategies using FastF1 telemetry. The workflow includes data extraction, feature engineering, supervised learning, target generation, and a Streamlit app that provides live strategy predictions.
 
 ## 1. Project Overview
 
-Tyre strategy is one of the most influential factors in race performance. The goal is to predict a driver’s most likely race strategy. The model predicts one of three categories:
+Tyre strategy is one of the most influential factors in race performance. This project predicts a driver’s likely race strategy, classified into three categories:
 
 - Aggressive
 - Neutral
 - Conservative
 
-The final deployed model uses XGBoost, which outperforms the Random Forest baseline.
+The final deployed model uses XGBoost, which outperforms the Random Forest baseline on accuracy and generalisation.
 
 ## 2. Project Structure
 
 ```
 Capstone/
 │
-├── cache/                   # FastF1 downloaded session data
-├── data/                    # Cleaned CSV outputs for features and targets
-├── images/                  # Images for Streamlit UI
+├── cache/                     # FastF1 session data (offline loading)
+├── data/                      # Cleaned CSV outputs (features + targets)
+├── images/                    # Strategy images for Streamlit UI
 │
-├── app.py                   # Streamlit prediction application
-├── xgb_model.joblib         # Final trained XGBoost model
+├── app.py                     # Streamlit prediction application
+├── xgb_model.joblib           # Final trained XGBoost model
 │
-├── f1_practice_features.csv # Engineered features
-├── f1_race_results.csv      # Raw race result data
+├── f1_practice_features.csv   # Engineered driver features
+├── f1_race_results.csv        # Raw race result data
 │
-├── feature_generation.ipynb # Feature engineering pipeline
-├── target_generation.ipynb  # Generate strategy target labels
-├── model.ipynb              # Model training and evaluation
-└── Project_management/      # Notes and planning material
+├── feature_generation.ipynb   # Feature engineering pipeline
+├── target_generation.ipynb    # Strategy target creation
+├── model.ipynb                # Model training and evaluation
+└── Project_management/        # Notes, planning, documentation
 ```
 
 ## 3. Data Pipeline
 
 ### 3.1 Data Extraction
-FastF1 is used to download session data into the cache folder. After downloading once, the cache enables very fast loading without further internet use.
+FastF1 is used to download weekend session data into a local cache. Once downloaded, all future loads are offline and fast.
 
 ### 3.2 Feature Engineering
-The notebook feature_generation.ipynb creates f1_practice_features.csv which includes:
+`feature_generation.ipynb` produces `f1_practice_features.csv` containing:
 
-- Lap times
-- Tyre compound
-- Stint data
-- Track temperature
-- Driver metadata
-- Derived numerical features
-- Aggregated practice session metrics
+- Lap times and stint windows
+- Compound usage
+- Track temperature metrics
+- Driver and session identifiers
+- Derived pace and degradation features
+- Aggregated practice session performance indicators
 
 ### 3.3 Target Generation
-The notebook target_generation.ipynb produces the label dataset for supervised learning.
+`target_generation.ipynb` creates the supervised labels. Drivers are categorised into:
 
-Drivers are grouped into one of three strategy types:
+1. Aggressive  
+2. Neutral  
+3. Conservative  
 
-1. Aggressive
-2. Neutral
-3. Conservative
+These labels are used as targets for model training.
 
 ## 4. Models
 
-Two supervised learning models were built:
+Two models were developed and evaluated:
 
 ### Random Forest
-- Baseline model
-- Reasonable results
-- Lower performance on unseen races
+- Baseline model  
+- Reasonable predictive performance  
+- Lower generalisation on unseen race weekends  
 
 ### XGBoost
-- Best performing model
-- Handles imbalance and non linear behaviour
-- Strong generalisation across races
+- Best performing model  
+- Handles imbalance and non-linear patterns effectively  
+- Strong performance across multiple seasons and circuits  
 
-The final trained model is saved as:
+The final model is saved as:
 
 ```
 xgb_model.joblib
@@ -80,48 +79,48 @@ xgb_model.joblib
 
 ## 5. Streamlit Application
 
-The file app.py contains the deployed user interface.
+`app.py` contains the complete user interface and prediction logic.
 
 Key features:
 
-- Detects or uploads the latest CSV
-- Automatically performs feature engineering
-- Loads the XGBoost model for inference
-- Converts numeric model output back to labels:
-  - 0 → Aggressive
-  - 1 → Conservative
-  - 2 → Neutral
-- Displays an image representing the predicted strategy
-- Includes custom CSS for an F1 themed UI
+- Detects or uploads the latest feature CSV  
+- Performs automated feature engineering  
+- Loads and runs the XGBoost model  
+- Converts numeric predictions to labels:
+  - 0 → Conservative  
+  - 1 → Neutral  
+  - 2 → Aggressive  
+- Displays a strategy image  
+- Uses custom CSS for an F1-themed dark UI  
 
-Run the app with:
+Run the app using:
 
 ```
-streamlit run app.py
+open https://tehill1910-projects-f1-tyre-strategyapp-v9chya.streamlit.app
 ```
 
 ## 6. How to Reproduce
 
-1. Install dependencies
-2. Enable FastF1 cache
-3. Run feature_generation.ipynb
-4. Run target_generation.ipynb
-5. Train using model.ipynb
-6. Launch Streamlit UI
+1. Install dependencies  
+2. Enable FastF1 cache  
+3. Run `feature_generation.ipynb`  
+4. Run `target_generation.ipynb`  
+5. Train using `model.ipynb`  
+6. Launch the Streamlit app  
 
 ## 7. Requirements
 
 Main packages:
 
-- fastf1
-- pandas
-- numpy
-- scikit learn
-- xgboost
-- joblib
-- streamlit
+- fastf1  
+- pandas  
+- numpy  
+- scikit-learn  
+- xgboost  
+- joblib  
+- streamlit  
 
-Install all dependencies:
+Install all requirements:
 
 ```
 pip install -r requirements.txt
@@ -129,8 +128,8 @@ pip install -r requirements.txt
 
 ## 8. Future Improvements
 
-- Add comparison against real race results
-- Expand dataset to additional seasons
-- Introduce grid position buckets
-- Build a more detailed multi step strategy classifier
-- Add SHAP explainability for model transparency
+- Compare predictions with actual race outcomes  
+- Extend dataset to more seasons  
+- Add grid position buckets  
+- Build multi-step sequence prediction  
+- Introduce SHAP explainability for transparency  
