@@ -49,7 +49,7 @@ FastF1 is used to download weekend session data into a local cache. Once downloa
 - Aggregated practice session performance indicators
 
 ### 3.3 Target Generation
-`target_generation.ipynb` creates the supervised labels. Drivers are categorised into:
+`target_generation.ipynb` creates the `f1_race_result.csv`. Drivers are categorised into:
 
 1. Aggressive  
 2. Neutral  
@@ -96,7 +96,7 @@ Key features:
 Run the app using:
 
 ```
-open https://tehill1910-projects-f1-tyre-strategyapp-v9chya.streamlit.app
+link: https://tehill1910-projects-f1-tyre-strategyapp-v9chya.streamlit.app
 ```
 
 ## 6. How to Reproduce
