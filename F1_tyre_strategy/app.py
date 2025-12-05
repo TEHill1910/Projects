@@ -233,12 +233,19 @@ st.markdown("""
 
 st.markdown(
     """
+    <style>
+        .f1-logo-wrapper img {
+            height: 120px;  /* <<< change this value to make smaller/larger */
+        }
+    </style>
+
     <div class="f1-logo-wrapper">
         <img src="https://wallpapers.com/images/hd/formula-1-desktop-tnmnne2sdk6c6awl.jpg" alt="F1 logo">
     </div>
     """,
     unsafe_allow_html=True
 )
+
 
 st.markdown(
     """
