@@ -234,7 +234,7 @@ st.markdown("""
 st.markdown(
     """
     <div class="f1-logo-wrapper">
-        <img src="https://images.seeklogo.com/logo-png/33/2/formula-1-logo-png_seeklogo-330361.png" alt="F1 logo">
+        <img src="https://wallpapers.com/images/hd/formula-1-desktop-tnmnne2sdk6c6awl.jpg" alt="F1 logo">
     </div>
     """,
     unsafe_allow_html=True
