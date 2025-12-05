@@ -235,7 +235,7 @@ st.markdown(
     """
     <style>
         .f1-logo-wrapper img {
-            height: 200 px;  /* <<< change this value to make smaller/larger */
+            height: 10 px;  /* <<< change this value to make smaller/larger */
         }
     </style>
 
